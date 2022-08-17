@@ -1,0 +1,4 @@
+tiempo, 12
+lanzamiento, 4
+altura, 2
+largo, 2
