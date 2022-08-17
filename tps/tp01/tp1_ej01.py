@@ -40,21 +40,21 @@ def procesar_fila(database, fila):
     
     # definimos la posible tupla a insertar
     tupla_a_insertar = (
-            fila["id_deportista"],
-            fila["nombre_deportista"],
-            fila["id_pais_deportista"],
-            fila["nombre_pais_deportista"],
-            fila["id_especialidad"],
-            fila["nombre_especialidad"],
-            fila["id_tipo_especialidad"],
-            fila["nombre_tipo_especialidad"],
-            fila["id_torneo"],
-            fila["nombre_torneo"],
-            fila["id_ciudad_torneo"],
-            fila["nombre_ciudad_torneo"],
-            fila["id_pais_torneo"],
-            fila["nombre_pais_torneo"]
-        )
+        fila["id_deportista"],
+        fila["nombre_deportista"],
+        fila["id_pais_deportista"],
+        fila["nombre_pais_deportista"],
+        fila["id_especialidad"],
+        fila["nombre_especialidad"],
+        fila["id_tipo_especialidad"],
+        fila["nombre_tipo_especialidad"],
+        fila["id_torneo"],
+        fila["nombre_torneo"],
+        fila["id_ciudad_torneo"],
+        fila["nombre_ciudad_torneo"],
+        fila["id_pais_torneo"],
+        fila["nombre_pais_torneo"]
+    )
 
     # si la tupla no está en la database, la agregamos (append)
     if tupla_a_insertar not in database:
