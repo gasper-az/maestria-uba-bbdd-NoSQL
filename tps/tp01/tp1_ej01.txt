@@ -1,0 +1,603 @@
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 1, Torneo de Afghanistan, 1, Kabul, 1, Afghanistan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 2, Torneo de Albania, 2, Tirana, 2, Albania
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 3, Torneo de Algeria, 3, Algiers, 3, Algeria
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 4, Torneo de Andorra, 4, Andorra la Vella, 4, Andorra
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 5, Torneo de Angola, 5, Luanda, 5, Angola
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 6, Torneo de Antigua and Barbuda, 6, Saint Johns, 6, Antigua and Barbuda
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 7, Torneo de Argentina, 7, Buenos Aires, 7, Argentina
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 8, Torneo de Armenia, 8, Yerevan, 8, Armenia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 9, Torneo de Australia, 9, Canberra, 9, Australia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 10, Torneo de Austria, 10, Vienna, 10, Austria
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 11, Torneo de Azerbaijan, 11, Baku, 11, Azerbaijan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 12, Torneo de Bahamas, 12, Nassau, 12, Bahamas
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 13, Torneo de Bahrain, 13, Manama, 13, Bahrain
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 14, Torneo de Bangladesh, 14, Dhaka, 14, Bangladesh
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 15, Torneo de Barbados, 15, Bridgetown, 15, Barbados
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 16, Torneo de Belarus, 16, Minsk, 16, Belarus
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 17, Torneo de Belgium, 17, Brussels, 17, Belgium
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 18, Torneo de Belize, 18, Belmopan, 18, Belize
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 19, Torneo de Benin, 19, Porto Novo, 19, Benin
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 20, Torneo de Bhutan, 20, Thimphu, 20, Bhutan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 21, Torneo de Bolivia, 21, La Paz, 21, Bolivia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 22, Torneo de Bosnia and Herzegovina, 22, Sarajevo, 22, Bosnia and Herzegovina
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 23, Torneo de Botswana, 23, Gaborone, 23, Botswana
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 24, Torneo de Brazil, 24, Brasilia, 24, Brazil
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 25, Torneo de Brunei, 25, Bandar Seri Begawan, 25, Brunei
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 26, Torneo de Bulgaria, 26, Sofia, 26, Bulgaria
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 27, Torneo de Burkina Faso, 27, Ouagadougou, 27, Burkina Faso
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 28, Torneo de Burundi, 28, Gitega, 28, Burundi
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 29, Torneo de Cambodia, 29, Phnom Penh, 29, Cambodia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 30, Torneo de Cameroon, 30, Yaounde, 30, Cameroon
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 31, Torneo de Canada, 31, Ottawa, 31, Canada
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 32, Torneo de Cabo Verde, 32, Praia, 32, Cabo Verde
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 33, Torneo de Central African Republic, 33, Bangui, 33, Central African Republic
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 34, Torneo de Chad, 34, NDjamena, 34, Chad
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 35, Torneo de Chile, 35, Santiago, 35, Chile
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 36, Torneo de China, 36, Beijing, 36, China
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 37, Torneo de Colombia, 37, Bogota, 37, Colombia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 38, Torneo de Comoros, 38, Moroni, 38, Comoros
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 39, Torneo de Congo Democratic Republic of the, 39, Kinshasa, 39, Congo Democratic Republic of the
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 40, Torneo de Congo Republic of the, 40, Brazzaville, 40, Congo Republic of the
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 41, Torneo de Costa Rica, 41, San Jose, 41, Costa Rica
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 42, Torneo de Ivory Coast, 42, Yamoussoukro, 42, Ivory Coast
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 43, Torneo de Croatia, 43, Zagreb, 43, Croatia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 44, Torneo de Cuba, 44, Havana, 44, Cuba
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 45, Torneo de Cyprus, 45, Nicosia, 45, Cyprus
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 46, Torneo de Czechia, 46, Prague, 46, Czechia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 47, Torneo de Denmark, 47, Copenhagen, 47, Denmark
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 48, Torneo de Djibouti, 48, Djibouti, 48, Djibouti
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 49, Torneo de Dominica, 49, Roseau, 49, Dominica
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 50, Torneo de Dominican Republic, 50, Santo Domingo, 50, Dominican Republic
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 51, Torneo de Timor-Leste, 51, Dili, 51, Timor-Leste
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 52, Torneo de Ecuador, 52, Quito, 52, Ecuador
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 53, Torneo de Egypt, 53, Cairo, 53, Egypt
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 54, Torneo de El Salvador, 54, San Salvador, 54, El Salvador
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 55, Torneo de Equatorial Guinea, 55, Malabo, 55, Equatorial Guinea
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 56, Torneo de Eritrea, 56, Asmara, 56, Eritrea
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 57, Torneo de Estonia, 57, Tallinn, 57, Estonia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 58, Torneo de Ethiopia, 58, Addis Ababa, 58, Ethiopia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 59, Torneo de Micronesia, 59, Palikir, 59, Micronesia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 60, Torneo de Fiji, 60, Suva, 60, Fiji
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 61, Torneo de Finland, 61, Helsinki, 61, Finland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 62, Torneo de France, 62, Paris, 62, France
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 63, Torneo de French Guiana, 63, Cayenne, 63, French Guiana
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 64, Torneo de Gabon, 64, Libreville, 64, Gabon
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 65, Torneo de Gambia, 65, Banjul, 65, Gambia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 66, Torneo de Georgia, 66, Tbilisi, 66, Georgia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 67, Torneo de Germany, 67, Berlin, 67, Germany
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 68, Torneo de Ghana, 68, Accra, 68, Ghana
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 69, Torneo de Greece, 69, Athens, 69, Greece
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 70, Torneo de Grenada, 70, Saint Georges, 70, Grenada
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 71, Torneo de Guatemala, 71, Guatemala City, 71, Guatemala
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 72, Torneo de Guinea, 72, Conakry, 72, Guinea
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 73, Torneo de Guinea-Bissau, 73, Bissau, 73, Guinea-Bissau
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 74, Torneo de Guyana, 74, Georgetown, 74, Guyana
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 75, Torneo de Haiti, 75, Port au Prince, 75, Haiti
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 76, Torneo de Honduras, 76, Tegucigalpa, 76, Honduras
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 77, Torneo de Hungary, 77, Budapest, 77, Hungary
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 78, Torneo de Iceland, 78, Reykjavik, 78, Iceland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 79, Torneo de India, 79, New Delhi, 79, India
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 80, Torneo de Indonesia, 80, Jakarta, 80, Indonesia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 81, Torneo de Iran, 81, Tehran, 81, Iran
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 82, Torneo de Iraq, 82, Baghdad, 82, Iraq
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 83, Torneo de Ireland, 83, Dublin, 83, Ireland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 84, Torneo de Israel, 84, Tel Aviv, 84, Israel
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 85, Torneo de Italy, 85, Rome, 85, Italy
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 86, Torneo de Jamaica, 86, Kingston, 86, Jamaica
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 87, Torneo de Japan, 87, Tokyo, 87, Japan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 88, Torneo de Jordan, 88, Amman, 88, Jordan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 89, Torneo de Kazakhstan, 89, Astana, 89, Kazakhstan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 90, Torneo de Kenya, 90, Nairobi, 90, Kenya
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 91, Torneo de Kiribati, 91, Tarawa Atoll, 91, Kiribati
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 92, Torneo de Kosovo, 92, Pristina, 92, Kosovo
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 93, Torneo de Kuwait, 93, Kuwait City, 93, Kuwait
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 94, Torneo de Kyrgyzstan, 94, Bishkek, 94, Kyrgyzstan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 95, Torneo de Laos, 95, Vientiane, 95, Laos
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 96, Torneo de Latvia, 96, Riga, 96, Latvia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 97, Torneo de Lebanon, 97, Beirut, 97, Lebanon
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 98, Torneo de Lesotho, 98, Maseru, 98, Lesotho
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 99, Torneo de Liberia, 99, Monrovia, 99, Liberia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 100, Torneo de Libya, 100, Tripoli, 100, Libya
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 101, Torneo de Liechtenstein, 101, Vaduz, 101, Liechtenstein
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 102, Torneo de Lithuania, 102, Vilnius, 102, Lithuania
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 103, Torneo de Luxembourg, 103, Luxembourg, 103, Luxembourg
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 104, Torneo de Madagascar, 104, Antananarivo, 104, Madagascar
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 105, Torneo de Malawi, 105, Lilongwe, 105, Malawi
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 106, Torneo de Malaysia, 106, Kuala Lumpur, 106, Malaysia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 107, Torneo de Maldives, 107, Male, 107, Maldives
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 108, Torneo de Mali, 108, Bamako, 108, Mali
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 109, Torneo de Malta, 109, Valletta, 109, Malta
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 110, Torneo de Marshall Islands, 110, Majuro, 110, Marshall Islands
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 111, Torneo de Mauritania, 111, Nouakchott, 111, Mauritania
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 112, Torneo de Mauritius, 112, Port Louis, 112, Mauritius
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 113, Torneo de Mexico, 113, Mexico City, 113, Mexico
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 114, Torneo de Moldova, 114, Chisinau, 114, Moldova
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 115, Torneo de Monaco, 115, Monaco, 115, Monaco
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 116, Torneo de Mongolia, 116, Ulaanbaatar, 116, Mongolia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 117, Torneo de Montenegro, 117, Podgorica, 117, Montenegro
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 118, Torneo de Morocco, 118, Rabat, 118, Morocco
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 119, Torneo de Mozambique, 119, Maputo, 119, Mozambique
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 120, Torneo de Myanmar, 120, Nay Pyi Taw, 120, Myanmar
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 121, Torneo de Namibia, 121, Windhoek, 121, Namibia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 122, Torneo de Nauru, 122, No official capital, 122, Nauru
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 123, Torneo de Nepal, 123, Kathmandu, 123, Nepal
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 124, Torneo de Netherlands, 124, Amsterdam, 124, Netherlands
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 125, Torneo de New Zealand, 125, Wellington, 125, New Zealand
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 126, Torneo de Nicaragua, 126, Managua, 126, Nicaragua
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 127, Torneo de Niger, 127, Niamey, 127, Niger
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 128, Torneo de Nigeria, 128, Abuja, 128, Nigeria
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 129, Torneo de North Korea, 129, Pyongyang, 129, North Korea
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 130, Torneo de Macedonia, 130, Skopje, 130, Macedonia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 131, Torneo de Northern Ireland, 131, Belfast, 131, Northern Ireland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 132, Torneo de Norway, 132, Oslo, 132, Norway
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 133, Torneo de Oman, 133, Muscat, 133, Oman
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 134, Torneo de Pakistan, 134, Islamabad, 134, Pakistan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 135, Torneo de Palau, 135, Melekeok, 135, Palau
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 136, Torneo de Panama, 136, Panama City, 136, Panama
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 137, Torneo de Papua New Guinea, 137, Port Moresby, 137, Papua New Guinea
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 138, Torneo de Paraguay, 138, Asuncion, 138, Paraguay
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 139, Torneo de Peru, 139, Lima, 139, Peru
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 140, Torneo de Philippines, 140, Manila, 140, Philippines
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 141, Torneo de Poland, 141, Warsaw, 141, Poland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 142, Torneo de Portugal, 142, Lisbon, 142, Portugal
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 143, Torneo de Qatar, 143, Doha, 143, Qatar
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 144, Torneo de Romania, 144, Bucharest, 144, Romania
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 145, Torneo de Russia, 145, Moscow, 145, Russia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 146, Torneo de Rwanda, 146, Kigali, 146, Rwanda
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 147, Torneo de Saint Kitts and Nevis, 147, Basseterre, 147, Saint Kitts and Nevis
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 148, Torneo de Saint Lucia, 148, Castries, 148, Saint Lucia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 149, Torneo de Saint Vincent and the Grenadines, 149, Kingstown, 149, Saint Vincent and the Grenadines
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 150, Torneo de Samoa, 150, Apia, 150, Samoa
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 151, Torneo de San Marino, 151, San Marino, 151, San Marino
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 152, Torneo de Sao Tome and Principe, 152, Sao Tome, 152, Sao Tome and Principe
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 153, Torneo de Saudi Arabia, 153, Riyadh, 153, Saudi Arabia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 154, Torneo de Scotland, 154, Edinburgh, 154, Scotland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 155, Torneo de Senegal, 155, Dakar, 155, Senegal
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 156, Torneo de Serbia, 156, Belgrade, 156, Serbia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 157, Torneo de Seychelles, 157, Victoria, 157, Seychelles
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 158, Torneo de Sierra Leone, 158, Freetown, 158, Sierra Leone
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 159, Torneo de Singapore, 159, Singapore, 159, Singapore
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 160, Torneo de Slovakia, 160, Bratislava, 160, Slovakia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 161, Torneo de Slovenia, 161, Ljubljana, 161, Slovenia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 162, Torneo de Solomon Islands, 162, Honiara, 162, Solomon Islands
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 163, Torneo de Somalia, 163, Mogadishu, 163, Somalia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 164, Torneo de South Africa, 164, Pretoria-Bloemfontein-Cape Town, 164, South Africa
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 165, Torneo de South Korea, 165, Seoul, 165, South Korea
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 166, Torneo de South Sudan, 166, Juba, 166, South Sudan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 167, Torneo de Spain, 167, Madrid, 167, Spain
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 168, Torneo de Sri Lanka, 168, Colombo, 168, Sri Lanka
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 169, Torneo de Sudan, 169, Khartoum, 169, Sudan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 170, Torneo de Suriname, 170, Paramaribo, 170, Suriname
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 171, Torneo de Sweden, 171, Stockholm, 171, Sweden
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 172, Torneo de Switzerland, 172, Bern, 172, Switzerland
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 173, Torneo de Syria, 173, Damascus, 173, Syria
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 174, Torneo de Taiwan, 174, Taipei, 174, Taiwan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 175, Torneo de Tajikistan, 175, Dushanbe, 175, Tajikistan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 176, Torneo de Tanzania, 176, Dodoma, 176, Tanzania
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 177, Torneo de Thailand, 177, Bangkok, 177, Thailand
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 178, Torneo de Togo, 178, Lome, 178, Togo
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 179, Torneo de Tonga, 179, Nukualofa, 179, Tonga
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 180, Torneo de Trinidad and Tobago, 180, Port of Spain, 180, Trinidad and Tobago
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 181, Torneo de Tunisia, 181, Tunis, 181, Tunisia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 182, Torneo de Turkey, 182, Ankara, 182, Turkey
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 183, Torneo de Turkmenistan, 183, Ashgabat, 183, Turkmenistan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 184, Torneo de Tuvalu, 184, Funafuti, 184, Tuvalu
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 185, Torneo de Uganda, 185, Kampala, 185, Uganda
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 186, Torneo de Ukraine, 186, Kiev, 186, Ukraine
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 187, Torneo de United Arab Emirates, 187, Abu Dhabi, 187, United Arab Emirates
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 188, Torneo de United Kingdom, 188, London, 188, United Kingdom
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 189, Torneo de United States, 189, Washington D.C., 189, United States
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 190, Torneo de Uruguay, 190, Montevideo, 190, Uruguay
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 191, Torneo de Uzbekistan, 191, Tashkent, 191, Uzbekistan
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 192, Torneo de Vanuatu, 192, Port Vila, 192, Vanuatu
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 193, Torneo de Vatican City, 193, Vatican City, 193, Vatican City
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 194, Torneo de Venezuela, 194, Caracas, 194, Venezuela
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 195, Torneo de Vietnam, 195, Hanoi, 195, Vietnam
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 196, Torneo de Wales, 196, Cardiff, 196, Wales
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 197, Torneo de Yemen, 197, Sanaa, 197, Yemen
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 198, Torneo de Zambia, 198, Lusaka, 198, Zambia
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 199, Torneo de Zimbabwe, 199, Harare, 199, Zimbabwe
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 200, Torneo de Puerto Rico, 200, San Juan, 200, Puerto Rico
+10, Yohan BLAKE, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 201, Torneo de Virgin Islands (British), 201, Road Town, 201, Virgin Islands (British)
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 1, Torneo de Afghanistan, 1, Kabul, 1, Afghanistan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 2, Torneo de Albania, 2, Tirana, 2, Albania
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 3, Torneo de Algeria, 3, Algiers, 3, Algeria
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 4, Torneo de Andorra, 4, Andorra la Vella, 4, Andorra
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 5, Torneo de Angola, 5, Luanda, 5, Angola
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 6, Torneo de Antigua and Barbuda, 6, Saint Johns, 6, Antigua and Barbuda
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 7, Torneo de Argentina, 7, Buenos Aires, 7, Argentina
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 8, Torneo de Armenia, 8, Yerevan, 8, Armenia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 9, Torneo de Australia, 9, Canberra, 9, Australia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 10, Torneo de Austria, 10, Vienna, 10, Austria
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 11, Torneo de Azerbaijan, 11, Baku, 11, Azerbaijan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 12, Torneo de Bahamas, 12, Nassau, 12, Bahamas
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 13, Torneo de Bahrain, 13, Manama, 13, Bahrain
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 14, Torneo de Bangladesh, 14, Dhaka, 14, Bangladesh
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 15, Torneo de Barbados, 15, Bridgetown, 15, Barbados
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 16, Torneo de Belarus, 16, Minsk, 16, Belarus
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 17, Torneo de Belgium, 17, Brussels, 17, Belgium
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 18, Torneo de Belize, 18, Belmopan, 18, Belize
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 19, Torneo de Benin, 19, Porto Novo, 19, Benin
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 20, Torneo de Bhutan, 20, Thimphu, 20, Bhutan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 21, Torneo de Bolivia, 21, La Paz, 21, Bolivia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 22, Torneo de Bosnia and Herzegovina, 22, Sarajevo, 22, Bosnia and Herzegovina
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 23, Torneo de Botswana, 23, Gaborone, 23, Botswana
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 24, Torneo de Brazil, 24, Brasilia, 24, Brazil
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 25, Torneo de Brunei, 25, Bandar Seri Begawan, 25, Brunei
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 26, Torneo de Bulgaria, 26, Sofia, 26, Bulgaria
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 27, Torneo de Burkina Faso, 27, Ouagadougou, 27, Burkina Faso
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 28, Torneo de Burundi, 28, Gitega, 28, Burundi
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 29, Torneo de Cambodia, 29, Phnom Penh, 29, Cambodia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 30, Torneo de Cameroon, 30, Yaounde, 30, Cameroon
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 31, Torneo de Canada, 31, Ottawa, 31, Canada
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 32, Torneo de Cabo Verde, 32, Praia, 32, Cabo Verde
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 33, Torneo de Central African Republic, 33, Bangui, 33, Central African Republic
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 34, Torneo de Chad, 34, NDjamena, 34, Chad
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 35, Torneo de Chile, 35, Santiago, 35, Chile
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 36, Torneo de China, 36, Beijing, 36, China
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 37, Torneo de Colombia, 37, Bogota, 37, Colombia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 38, Torneo de Comoros, 38, Moroni, 38, Comoros
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 39, Torneo de Congo Democratic Republic of the, 39, Kinshasa, 39, Congo Democratic Republic of the
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 40, Torneo de Congo Republic of the, 40, Brazzaville, 40, Congo Republic of the
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 41, Torneo de Costa Rica, 41, San Jose, 41, Costa Rica
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 42, Torneo de Ivory Coast, 42, Yamoussoukro, 42, Ivory Coast
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 43, Torneo de Croatia, 43, Zagreb, 43, Croatia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 44, Torneo de Cuba, 44, Havana, 44, Cuba
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 45, Torneo de Cyprus, 45, Nicosia, 45, Cyprus
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 46, Torneo de Czechia, 46, Prague, 46, Czechia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 47, Torneo de Denmark, 47, Copenhagen, 47, Denmark
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 48, Torneo de Djibouti, 48, Djibouti, 48, Djibouti
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 49, Torneo de Dominica, 49, Roseau, 49, Dominica
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 50, Torneo de Dominican Republic, 50, Santo Domingo, 50, Dominican Republic
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 51, Torneo de Timor-Leste, 51, Dili, 51, Timor-Leste
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 52, Torneo de Ecuador, 52, Quito, 52, Ecuador
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 53, Torneo de Egypt, 53, Cairo, 53, Egypt
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 54, Torneo de El Salvador, 54, San Salvador, 54, El Salvador
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 55, Torneo de Equatorial Guinea, 55, Malabo, 55, Equatorial Guinea
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 56, Torneo de Eritrea, 56, Asmara, 56, Eritrea
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 57, Torneo de Estonia, 57, Tallinn, 57, Estonia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 58, Torneo de Ethiopia, 58, Addis Ababa, 58, Ethiopia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 59, Torneo de Micronesia, 59, Palikir, 59, Micronesia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 60, Torneo de Fiji, 60, Suva, 60, Fiji
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 61, Torneo de Finland, 61, Helsinki, 61, Finland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 62, Torneo de France, 62, Paris, 62, France
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 63, Torneo de French Guiana, 63, Cayenne, 63, French Guiana
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 64, Torneo de Gabon, 64, Libreville, 64, Gabon
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 65, Torneo de Gambia, 65, Banjul, 65, Gambia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 66, Torneo de Georgia, 66, Tbilisi, 66, Georgia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 67, Torneo de Germany, 67, Berlin, 67, Germany
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 68, Torneo de Ghana, 68, Accra, 68, Ghana
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 69, Torneo de Greece, 69, Athens, 69, Greece
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 70, Torneo de Grenada, 70, Saint Georges, 70, Grenada
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 71, Torneo de Guatemala, 71, Guatemala City, 71, Guatemala
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 72, Torneo de Guinea, 72, Conakry, 72, Guinea
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 73, Torneo de Guinea-Bissau, 73, Bissau, 73, Guinea-Bissau
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 74, Torneo de Guyana, 74, Georgetown, 74, Guyana
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 75, Torneo de Haiti, 75, Port au Prince, 75, Haiti
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 76, Torneo de Honduras, 76, Tegucigalpa, 76, Honduras
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 77, Torneo de Hungary, 77, Budapest, 77, Hungary
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 78, Torneo de Iceland, 78, Reykjavik, 78, Iceland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 79, Torneo de India, 79, New Delhi, 79, India
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 80, Torneo de Indonesia, 80, Jakarta, 80, Indonesia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 81, Torneo de Iran, 81, Tehran, 81, Iran
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 82, Torneo de Iraq, 82, Baghdad, 82, Iraq
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 83, Torneo de Ireland, 83, Dublin, 83, Ireland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 84, Torneo de Israel, 84, Tel Aviv, 84, Israel
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 85, Torneo de Italy, 85, Rome, 85, Italy
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 86, Torneo de Jamaica, 86, Kingston, 86, Jamaica
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 87, Torneo de Japan, 87, Tokyo, 87, Japan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 88, Torneo de Jordan, 88, Amman, 88, Jordan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 89, Torneo de Kazakhstan, 89, Astana, 89, Kazakhstan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 90, Torneo de Kenya, 90, Nairobi, 90, Kenya
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 91, Torneo de Kiribati, 91, Tarawa Atoll, 91, Kiribati
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 92, Torneo de Kosovo, 92, Pristina, 92, Kosovo
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 93, Torneo de Kuwait, 93, Kuwait City, 93, Kuwait
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 94, Torneo de Kyrgyzstan, 94, Bishkek, 94, Kyrgyzstan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 95, Torneo de Laos, 95, Vientiane, 95, Laos
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 96, Torneo de Latvia, 96, Riga, 96, Latvia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 97, Torneo de Lebanon, 97, Beirut, 97, Lebanon
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 98, Torneo de Lesotho, 98, Maseru, 98, Lesotho
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 99, Torneo de Liberia, 99, Monrovia, 99, Liberia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 100, Torneo de Libya, 100, Tripoli, 100, Libya
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 101, Torneo de Liechtenstein, 101, Vaduz, 101, Liechtenstein
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 102, Torneo de Lithuania, 102, Vilnius, 102, Lithuania
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 103, Torneo de Luxembourg, 103, Luxembourg, 103, Luxembourg
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 104, Torneo de Madagascar, 104, Antananarivo, 104, Madagascar
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 105, Torneo de Malawi, 105, Lilongwe, 105, Malawi
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 106, Torneo de Malaysia, 106, Kuala Lumpur, 106, Malaysia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 107, Torneo de Maldives, 107, Male, 107, Maldives
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 108, Torneo de Mali, 108, Bamako, 108, Mali
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 109, Torneo de Malta, 109, Valletta, 109, Malta
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 110, Torneo de Marshall Islands, 110, Majuro, 110, Marshall Islands
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 111, Torneo de Mauritania, 111, Nouakchott, 111, Mauritania
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 112, Torneo de Mauritius, 112, Port Louis, 112, Mauritius
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 113, Torneo de Mexico, 113, Mexico City, 113, Mexico
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 114, Torneo de Moldova, 114, Chisinau, 114, Moldova
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 115, Torneo de Monaco, 115, Monaco, 115, Monaco
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 116, Torneo de Mongolia, 116, Ulaanbaatar, 116, Mongolia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 117, Torneo de Montenegro, 117, Podgorica, 117, Montenegro
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 118, Torneo de Morocco, 118, Rabat, 118, Morocco
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 119, Torneo de Mozambique, 119, Maputo, 119, Mozambique
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 120, Torneo de Myanmar, 120, Nay Pyi Taw, 120, Myanmar
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 121, Torneo de Namibia, 121, Windhoek, 121, Namibia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 122, Torneo de Nauru, 122, No official capital, 122, Nauru
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 123, Torneo de Nepal, 123, Kathmandu, 123, Nepal
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 124, Torneo de Netherlands, 124, Amsterdam, 124, Netherlands
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 125, Torneo de New Zealand, 125, Wellington, 125, New Zealand
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 126, Torneo de Nicaragua, 126, Managua, 126, Nicaragua
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 127, Torneo de Niger, 127, Niamey, 127, Niger
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 128, Torneo de Nigeria, 128, Abuja, 128, Nigeria
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 129, Torneo de North Korea, 129, Pyongyang, 129, North Korea
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 130, Torneo de Macedonia, 130, Skopje, 130, Macedonia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 131, Torneo de Northern Ireland, 131, Belfast, 131, Northern Ireland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 132, Torneo de Norway, 132, Oslo, 132, Norway
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 133, Torneo de Oman, 133, Muscat, 133, Oman
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 134, Torneo de Pakistan, 134, Islamabad, 134, Pakistan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 135, Torneo de Palau, 135, Melekeok, 135, Palau
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 136, Torneo de Panama, 136, Panama City, 136, Panama
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 137, Torneo de Papua New Guinea, 137, Port Moresby, 137, Papua New Guinea
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 138, Torneo de Paraguay, 138, Asuncion, 138, Paraguay
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 139, Torneo de Peru, 139, Lima, 139, Peru
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 140, Torneo de Philippines, 140, Manila, 140, Philippines
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 141, Torneo de Poland, 141, Warsaw, 141, Poland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 142, Torneo de Portugal, 142, Lisbon, 142, Portugal
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 143, Torneo de Qatar, 143, Doha, 143, Qatar
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 144, Torneo de Romania, 144, Bucharest, 144, Romania
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 145, Torneo de Russia, 145, Moscow, 145, Russia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 146, Torneo de Rwanda, 146, Kigali, 146, Rwanda
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 147, Torneo de Saint Kitts and Nevis, 147, Basseterre, 147, Saint Kitts and Nevis
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 148, Torneo de Saint Lucia, 148, Castries, 148, Saint Lucia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 149, Torneo de Saint Vincent and the Grenadines, 149, Kingstown, 149, Saint Vincent and the Grenadines
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 150, Torneo de Samoa, 150, Apia, 150, Samoa
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 151, Torneo de San Marino, 151, San Marino, 151, San Marino
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 152, Torneo de Sao Tome and Principe, 152, Sao Tome, 152, Sao Tome and Principe
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 153, Torneo de Saudi Arabia, 153, Riyadh, 153, Saudi Arabia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 154, Torneo de Scotland, 154, Edinburgh, 154, Scotland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 155, Torneo de Senegal, 155, Dakar, 155, Senegal
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 156, Torneo de Serbia, 156, Belgrade, 156, Serbia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 157, Torneo de Seychelles, 157, Victoria, 157, Seychelles
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 158, Torneo de Sierra Leone, 158, Freetown, 158, Sierra Leone
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 159, Torneo de Singapore, 159, Singapore, 159, Singapore
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 160, Torneo de Slovakia, 160, Bratislava, 160, Slovakia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 161, Torneo de Slovenia, 161, Ljubljana, 161, Slovenia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 162, Torneo de Solomon Islands, 162, Honiara, 162, Solomon Islands
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 163, Torneo de Somalia, 163, Mogadishu, 163, Somalia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 164, Torneo de South Africa, 164, Pretoria-Bloemfontein-Cape Town, 164, South Africa
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 165, Torneo de South Korea, 165, Seoul, 165, South Korea
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 166, Torneo de South Sudan, 166, Juba, 166, South Sudan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 167, Torneo de Spain, 167, Madrid, 167, Spain
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 168, Torneo de Sri Lanka, 168, Colombo, 168, Sri Lanka
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 169, Torneo de Sudan, 169, Khartoum, 169, Sudan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 170, Torneo de Suriname, 170, Paramaribo, 170, Suriname
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 171, Torneo de Sweden, 171, Stockholm, 171, Sweden
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 172, Torneo de Switzerland, 172, Bern, 172, Switzerland
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 173, Torneo de Syria, 173, Damascus, 173, Syria
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 174, Torneo de Taiwan, 174, Taipei, 174, Taiwan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 175, Torneo de Tajikistan, 175, Dushanbe, 175, Tajikistan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 176, Torneo de Tanzania, 176, Dodoma, 176, Tanzania
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 177, Torneo de Thailand, 177, Bangkok, 177, Thailand
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 178, Torneo de Togo, 178, Lome, 178, Togo
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 179, Torneo de Tonga, 179, Nukualofa, 179, Tonga
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 180, Torneo de Trinidad and Tobago, 180, Port of Spain, 180, Trinidad and Tobago
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 181, Torneo de Tunisia, 181, Tunis, 181, Tunisia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 182, Torneo de Turkey, 182, Ankara, 182, Turkey
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 183, Torneo de Turkmenistan, 183, Ashgabat, 183, Turkmenistan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 184, Torneo de Tuvalu, 184, Funafuti, 184, Tuvalu
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 185, Torneo de Uganda, 185, Kampala, 185, Uganda
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 186, Torneo de Ukraine, 186, Kiev, 186, Ukraine
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 187, Torneo de United Arab Emirates, 187, Abu Dhabi, 187, United Arab Emirates
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 188, Torneo de United Kingdom, 188, London, 188, United Kingdom
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 189, Torneo de United States, 189, Washington D.C., 189, United States
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 190, Torneo de Uruguay, 190, Montevideo, 190, Uruguay
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 191, Torneo de Uzbekistan, 191, Tashkent, 191, Uzbekistan
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 192, Torneo de Vanuatu, 192, Port Vila, 192, Vanuatu
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 193, Torneo de Vatican City, 193, Vatican City, 193, Vatican City
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 194, Torneo de Venezuela, 194, Caracas, 194, Venezuela
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 195, Torneo de Vietnam, 195, Hanoi, 195, Vietnam
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 196, Torneo de Wales, 196, Cardiff, 196, Wales
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 197, Torneo de Yemen, 197, Sanaa, 197, Yemen
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 198, Torneo de Zambia, 198, Lusaka, 198, Zambia
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 199, Torneo de Zimbabwe, 199, Harare, 199, Zimbabwe
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 200, Torneo de Puerto Rico, 200, San Juan, 200, Puerto Rico
+20, Tyquendo TRACEY, 86, Jamaica, 1, carrera 100 m, 1, tiempo, 201, Torneo de Virgin Islands (British), 201, Road Town, 201, Virgin Islands (British)
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 1, Torneo de Afghanistan, 1, Kabul, 1, Afghanistan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 2, Torneo de Albania, 2, Tirana, 2, Albania
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 3, Torneo de Algeria, 3, Algiers, 3, Algeria
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 4, Torneo de Andorra, 4, Andorra la Vella, 4, Andorra
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 5, Torneo de Angola, 5, Luanda, 5, Angola
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 6, Torneo de Antigua and Barbuda, 6, Saint Johns, 6, Antigua and Barbuda
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 7, Torneo de Argentina, 7, Buenos Aires, 7, Argentina
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 8, Torneo de Armenia, 8, Yerevan, 8, Armenia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 9, Torneo de Australia, 9, Canberra, 9, Australia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 10, Torneo de Austria, 10, Vienna, 10, Austria
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 11, Torneo de Azerbaijan, 11, Baku, 11, Azerbaijan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 12, Torneo de Bahamas, 12, Nassau, 12, Bahamas
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 13, Torneo de Bahrain, 13, Manama, 13, Bahrain
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 14, Torneo de Bangladesh, 14, Dhaka, 14, Bangladesh
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 15, Torneo de Barbados, 15, Bridgetown, 15, Barbados
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 16, Torneo de Belarus, 16, Minsk, 16, Belarus
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 17, Torneo de Belgium, 17, Brussels, 17, Belgium
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 18, Torneo de Belize, 18, Belmopan, 18, Belize
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 19, Torneo de Benin, 19, Porto Novo, 19, Benin
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 20, Torneo de Bhutan, 20, Thimphu, 20, Bhutan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 21, Torneo de Bolivia, 21, La Paz, 21, Bolivia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 22, Torneo de Bosnia and Herzegovina, 22, Sarajevo, 22, Bosnia and Herzegovina
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 23, Torneo de Botswana, 23, Gaborone, 23, Botswana
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 24, Torneo de Brazil, 24, Brasilia, 24, Brazil
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 25, Torneo de Brunei, 25, Bandar Seri Begawan, 25, Brunei
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 26, Torneo de Bulgaria, 26, Sofia, 26, Bulgaria
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 27, Torneo de Burkina Faso, 27, Ouagadougou, 27, Burkina Faso
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 28, Torneo de Burundi, 28, Gitega, 28, Burundi
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 29, Torneo de Cambodia, 29, Phnom Penh, 29, Cambodia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 30, Torneo de Cameroon, 30, Yaounde, 30, Cameroon
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 31, Torneo de Canada, 31, Ottawa, 31, Canada
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 32, Torneo de Cabo Verde, 32, Praia, 32, Cabo Verde
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 33, Torneo de Central African Republic, 33, Bangui, 33, Central African Republic
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 34, Torneo de Chad, 34, NDjamena, 34, Chad
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 35, Torneo de Chile, 35, Santiago, 35, Chile
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 36, Torneo de China, 36, Beijing, 36, China
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 37, Torneo de Colombia, 37, Bogota, 37, Colombia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 38, Torneo de Comoros, 38, Moroni, 38, Comoros
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 39, Torneo de Congo Democratic Republic of the, 39, Kinshasa, 39, Congo Democratic Republic of the
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 40, Torneo de Congo Republic of the, 40, Brazzaville, 40, Congo Republic of the
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 41, Torneo de Costa Rica, 41, San Jose, 41, Costa Rica
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 42, Torneo de Ivory Coast, 42, Yamoussoukro, 42, Ivory Coast
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 43, Torneo de Croatia, 43, Zagreb, 43, Croatia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 44, Torneo de Cuba, 44, Havana, 44, Cuba
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 45, Torneo de Cyprus, 45, Nicosia, 45, Cyprus
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 46, Torneo de Czechia, 46, Prague, 46, Czechia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 47, Torneo de Denmark, 47, Copenhagen, 47, Denmark
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 48, Torneo de Djibouti, 48, Djibouti, 48, Djibouti
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 49, Torneo de Dominica, 49, Roseau, 49, Dominica
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 50, Torneo de Dominican Republic, 50, Santo Domingo, 50, Dominican Republic
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 51, Torneo de Timor-Leste, 51, Dili, 51, Timor-Leste
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 52, Torneo de Ecuador, 52, Quito, 52, Ecuador
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 53, Torneo de Egypt, 53, Cairo, 53, Egypt
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 54, Torneo de El Salvador, 54, San Salvador, 54, El Salvador
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 55, Torneo de Equatorial Guinea, 55, Malabo, 55, Equatorial Guinea
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 56, Torneo de Eritrea, 56, Asmara, 56, Eritrea
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 57, Torneo de Estonia, 57, Tallinn, 57, Estonia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 58, Torneo de Ethiopia, 58, Addis Ababa, 58, Ethiopia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 59, Torneo de Micronesia, 59, Palikir, 59, Micronesia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 60, Torneo de Fiji, 60, Suva, 60, Fiji
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 61, Torneo de Finland, 61, Helsinki, 61, Finland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 62, Torneo de France, 62, Paris, 62, France
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 63, Torneo de French Guiana, 63, Cayenne, 63, French Guiana
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 64, Torneo de Gabon, 64, Libreville, 64, Gabon
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 65, Torneo de Gambia, 65, Banjul, 65, Gambia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 66, Torneo de Georgia, 66, Tbilisi, 66, Georgia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 67, Torneo de Germany, 67, Berlin, 67, Germany
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 68, Torneo de Ghana, 68, Accra, 68, Ghana
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 69, Torneo de Greece, 69, Athens, 69, Greece
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 70, Torneo de Grenada, 70, Saint Georges, 70, Grenada
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 71, Torneo de Guatemala, 71, Guatemala City, 71, Guatemala
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 72, Torneo de Guinea, 72, Conakry, 72, Guinea
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 73, Torneo de Guinea-Bissau, 73, Bissau, 73, Guinea-Bissau
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 74, Torneo de Guyana, 74, Georgetown, 74, Guyana
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 75, Torneo de Haiti, 75, Port au Prince, 75, Haiti
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 76, Torneo de Honduras, 76, Tegucigalpa, 76, Honduras
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 77, Torneo de Hungary, 77, Budapest, 77, Hungary
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 78, Torneo de Iceland, 78, Reykjavik, 78, Iceland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 79, Torneo de India, 79, New Delhi, 79, India
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 80, Torneo de Indonesia, 80, Jakarta, 80, Indonesia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 81, Torneo de Iran, 81, Tehran, 81, Iran
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 82, Torneo de Iraq, 82, Baghdad, 82, Iraq
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 83, Torneo de Ireland, 83, Dublin, 83, Ireland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 84, Torneo de Israel, 84, Tel Aviv, 84, Israel
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 85, Torneo de Italy, 85, Rome, 85, Italy
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 86, Torneo de Jamaica, 86, Kingston, 86, Jamaica
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 87, Torneo de Japan, 87, Tokyo, 87, Japan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 88, Torneo de Jordan, 88, Amman, 88, Jordan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 89, Torneo de Kazakhstan, 89, Astana, 89, Kazakhstan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 90, Torneo de Kenya, 90, Nairobi, 90, Kenya
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 91, Torneo de Kiribati, 91, Tarawa Atoll, 91, Kiribati
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 92, Torneo de Kosovo, 92, Pristina, 92, Kosovo
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 93, Torneo de Kuwait, 93, Kuwait City, 93, Kuwait
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 94, Torneo de Kyrgyzstan, 94, Bishkek, 94, Kyrgyzstan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 95, Torneo de Laos, 95, Vientiane, 95, Laos
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 96, Torneo de Latvia, 96, Riga, 96, Latvia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 97, Torneo de Lebanon, 97, Beirut, 97, Lebanon
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 98, Torneo de Lesotho, 98, Maseru, 98, Lesotho
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 99, Torneo de Liberia, 99, Monrovia, 99, Liberia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 100, Torneo de Libya, 100, Tripoli, 100, Libya
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 101, Torneo de Liechtenstein, 101, Vaduz, 101, Liechtenstein
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 102, Torneo de Lithuania, 102, Vilnius, 102, Lithuania
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 103, Torneo de Luxembourg, 103, Luxembourg, 103, Luxembourg
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 104, Torneo de Madagascar, 104, Antananarivo, 104, Madagascar
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 105, Torneo de Malawi, 105, Lilongwe, 105, Malawi
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 106, Torneo de Malaysia, 106, Kuala Lumpur, 106, Malaysia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 107, Torneo de Maldives, 107, Male, 107, Maldives
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 108, Torneo de Mali, 108, Bamako, 108, Mali
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 109, Torneo de Malta, 109, Valletta, 109, Malta
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 110, Torneo de Marshall Islands, 110, Majuro, 110, Marshall Islands
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 111, Torneo de Mauritania, 111, Nouakchott, 111, Mauritania
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 112, Torneo de Mauritius, 112, Port Louis, 112, Mauritius
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 113, Torneo de Mexico, 113, Mexico City, 113, Mexico
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 114, Torneo de Moldova, 114, Chisinau, 114, Moldova
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 115, Torneo de Monaco, 115, Monaco, 115, Monaco
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 116, Torneo de Mongolia, 116, Ulaanbaatar, 116, Mongolia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 117, Torneo de Montenegro, 117, Podgorica, 117, Montenegro
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 118, Torneo de Morocco, 118, Rabat, 118, Morocco
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 119, Torneo de Mozambique, 119, Maputo, 119, Mozambique
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 120, Torneo de Myanmar, 120, Nay Pyi Taw, 120, Myanmar
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 121, Torneo de Namibia, 121, Windhoek, 121, Namibia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 122, Torneo de Nauru, 122, No official capital, 122, Nauru
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 123, Torneo de Nepal, 123, Kathmandu, 123, Nepal
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 124, Torneo de Netherlands, 124, Amsterdam, 124, Netherlands
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 125, Torneo de New Zealand, 125, Wellington, 125, New Zealand
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 126, Torneo de Nicaragua, 126, Managua, 126, Nicaragua
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 127, Torneo de Niger, 127, Niamey, 127, Niger
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 128, Torneo de Nigeria, 128, Abuja, 128, Nigeria
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 129, Torneo de North Korea, 129, Pyongyang, 129, North Korea
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 130, Torneo de Macedonia, 130, Skopje, 130, Macedonia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 131, Torneo de Northern Ireland, 131, Belfast, 131, Northern Ireland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 132, Torneo de Norway, 132, Oslo, 132, Norway
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 133, Torneo de Oman, 133, Muscat, 133, Oman
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 134, Torneo de Pakistan, 134, Islamabad, 134, Pakistan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 135, Torneo de Palau, 135, Melekeok, 135, Palau
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 136, Torneo de Panama, 136, Panama City, 136, Panama
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 137, Torneo de Papua New Guinea, 137, Port Moresby, 137, Papua New Guinea
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 138, Torneo de Paraguay, 138, Asuncion, 138, Paraguay
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 139, Torneo de Peru, 139, Lima, 139, Peru
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 140, Torneo de Philippines, 140, Manila, 140, Philippines
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 141, Torneo de Poland, 141, Warsaw, 141, Poland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 142, Torneo de Portugal, 142, Lisbon, 142, Portugal
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 143, Torneo de Qatar, 143, Doha, 143, Qatar
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 144, Torneo de Romania, 144, Bucharest, 144, Romania
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 145, Torneo de Russia, 145, Moscow, 145, Russia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 146, Torneo de Rwanda, 146, Kigali, 146, Rwanda
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 147, Torneo de Saint Kitts and Nevis, 147, Basseterre, 147, Saint Kitts and Nevis
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 148, Torneo de Saint Lucia, 148, Castries, 148, Saint Lucia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 149, Torneo de Saint Vincent and the Grenadines, 149, Kingstown, 149, Saint Vincent and the Grenadines
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 150, Torneo de Samoa, 150, Apia, 150, Samoa
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 151, Torneo de San Marino, 151, San Marino, 151, San Marino
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 152, Torneo de Sao Tome and Principe, 152, Sao Tome, 152, Sao Tome and Principe
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 153, Torneo de Saudi Arabia, 153, Riyadh, 153, Saudi Arabia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 154, Torneo de Scotland, 154, Edinburgh, 154, Scotland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 155, Torneo de Senegal, 155, Dakar, 155, Senegal
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 156, Torneo de Serbia, 156, Belgrade, 156, Serbia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 157, Torneo de Seychelles, 157, Victoria, 157, Seychelles
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 158, Torneo de Sierra Leone, 158, Freetown, 158, Sierra Leone
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 159, Torneo de Singapore, 159, Singapore, 159, Singapore
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 160, Torneo de Slovakia, 160, Bratislava, 160, Slovakia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 161, Torneo de Slovenia, 161, Ljubljana, 161, Slovenia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 162, Torneo de Solomon Islands, 162, Honiara, 162, Solomon Islands
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 163, Torneo de Somalia, 163, Mogadishu, 163, Somalia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 164, Torneo de South Africa, 164, Pretoria-Bloemfontein-Cape Town, 164, South Africa
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 165, Torneo de South Korea, 165, Seoul, 165, South Korea
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 166, Torneo de South Sudan, 166, Juba, 166, South Sudan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 167, Torneo de Spain, 167, Madrid, 167, Spain
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 168, Torneo de Sri Lanka, 168, Colombo, 168, Sri Lanka
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 169, Torneo de Sudan, 169, Khartoum, 169, Sudan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 170, Torneo de Suriname, 170, Paramaribo, 170, Suriname
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 171, Torneo de Sweden, 171, Stockholm, 171, Sweden
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 172, Torneo de Switzerland, 172, Bern, 172, Switzerland
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 173, Torneo de Syria, 173, Damascus, 173, Syria
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 174, Torneo de Taiwan, 174, Taipei, 174, Taiwan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 175, Torneo de Tajikistan, 175, Dushanbe, 175, Tajikistan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 176, Torneo de Tanzania, 176, Dodoma, 176, Tanzania
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 177, Torneo de Thailand, 177, Bangkok, 177, Thailand
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 178, Torneo de Togo, 178, Lome, 178, Togo
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 179, Torneo de Tonga, 179, Nukualofa, 179, Tonga
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 180, Torneo de Trinidad and Tobago, 180, Port of Spain, 180, Trinidad and Tobago
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 181, Torneo de Tunisia, 181, Tunis, 181, Tunisia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 182, Torneo de Turkey, 182, Ankara, 182, Turkey
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 183, Torneo de Turkmenistan, 183, Ashgabat, 183, Turkmenistan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 184, Torneo de Tuvalu, 184, Funafuti, 184, Tuvalu
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 185, Torneo de Uganda, 185, Kampala, 185, Uganda
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 186, Torneo de Ukraine, 186, Kiev, 186, Ukraine
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 187, Torneo de United Arab Emirates, 187, Abu Dhabi, 187, United Arab Emirates
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 188, Torneo de United Kingdom, 188, London, 188, United Kingdom
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 189, Torneo de United States, 189, Washington D.C., 189, United States
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 190, Torneo de Uruguay, 190, Montevideo, 190, Uruguay
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 191, Torneo de Uzbekistan, 191, Tashkent, 191, Uzbekistan
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 192, Torneo de Vanuatu, 192, Port Vila, 192, Vanuatu
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 193, Torneo de Vatican City, 193, Vatican City, 193, Vatican City
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 194, Torneo de Venezuela, 194, Caracas, 194, Venezuela
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 195, Torneo de Vietnam, 195, Hanoi, 195, Vietnam
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 196, Torneo de Wales, 196, Cardiff, 196, Wales
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 197, Torneo de Yemen, 197, Sanaa, 197, Yemen
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 198, Torneo de Zambia, 198, Lusaka, 198, Zambia
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 199, Torneo de Zimbabwe, 199, Harare, 199, Zimbabwe
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 200, Torneo de Puerto Rico, 200, San Juan, 200, Puerto Rico
+30, Carina HORN, 164, South Africa, 1, carrera 100 m, 1, tiempo, 201, Torneo de Virgin Islands (British), 201, Road Town, 201, Virgin Islands (British)
