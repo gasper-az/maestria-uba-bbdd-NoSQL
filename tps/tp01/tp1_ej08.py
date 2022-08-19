@@ -1,6 +1,5 @@
 import csv
 import codecs
-from re import S
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = '../../recursos generales/full_export.csv'
