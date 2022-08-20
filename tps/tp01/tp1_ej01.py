@@ -27,7 +27,7 @@ def grabar_linea(archivo, linea):
 
 # Funcion para poner el codigo que cree las estructuras a usarse en el este ejercicio
 def inicializar(conn):
-    # Para este ejercicio, la BBDD constará de un lista en la que iremos agregando tuplas
+    # Para este ejercicio, la BBDD constará de un lista
     return []
 
 
@@ -37,37 +37,22 @@ def procesar_fila(database, fila):
     # Si el id_deportista no es 10, 20, o 30, no procesamos la fila
     if fila["id_deportista"] not in ("10", "20", "30"):
         return
-    
-    # definimos la posible tupla a insertar
-    tupla_a_insertar = (
-        fila["id_deportista"],
-        fila["nombre_deportista"],
-        fila["id_pais_deportista"],
-        fila["nombre_pais_deportista"],
-        fila["id_especialidad"],
-        fila["nombre_especialidad"],
-        fila["id_tipo_especialidad"],
-        fila["nombre_tipo_especialidad"],
-        fila["id_torneo"],
-        fila["nombre_torneo"],
-        fila["id_ciudad_torneo"],
-        fila["nombre_ciudad_torneo"],
-        fila["id_pais_torneo"],
-        fila["nombre_pais_torneo"]
-    )
 
-    # si la tupla no está en la database, la agregamos (append)
-    if tupla_a_insertar not in database:
-        database.append(tupla_a_insertar)
+    database.append(fila)
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 def generar_reporte(database):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w')
 
+    columnas = ["id_deportista", "nombre_deportista", "id_pais_deportista", "nombre_pais_deportista",
+    "id_especialidad", "nombre_especialidad", "id_tipo_especialidad", "nombre_tipo_especialidad",
+    "id_torneo", "nombre_torneo", "id_ciudad_torneo", "nombre_ciudad_torneo",
+    "id_pais_torneo", "nombre_pais_torneo"]
+    
     for elemento in database:
         # el elemento a insertar constará de cada valor de la tupla, separados por ","
         elemento_a_insertar = ", ".join(
-            [str(i) if i is not None else "" for i in elemento])
+            [str(elemento[i]) if elemento[i] is not None else "" for i in columnas])
         
         grabar_linea(archivo, elemento_a_insertar)
 
