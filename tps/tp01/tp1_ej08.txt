@@ -1,6 +1,6 @@
-Torneo de Afghanistan, carrera 100 m, Jonielle SMITH, 9799
-Torneo de Afghanistan, carrera 100 m, Aleia HOBBS, 9903
-Torneo de Afghanistan, carrera 100 m, Twanisha TERRY, 9952
+Torneo de Afghanistan, carrera 100 m, Cravon GILLESPIE, 10005
+Torneo de Afghanistan, carrera 100 m, Elaine THOMPSON, 10027
+Torneo de Afghanistan, carrera 100 m, Dina ASHER-SMITH, 10113
 Torneo de Afghanistan, carrera 10000 m, Susan KRUMINS, 1611707
 Torneo de Afghanistan, carrera 10000 m, Sifan HASSAN, 1614867
 Torneo de Afghanistan, carrera 10000 m, Tsehay GEMECHU, 1616291
@@ -58,9 +58,9 @@ Torneo de Afghanistan, salto largo, Ese BRUME, 950
 Torneo de Afghanistan, salto triple, Yosiris URRUTIA, 1996
 Torneo de Afghanistan, salto triple, Yulimar ROJAS, 1995
 Torneo de Afghanistan, salto triple, Kimberly WILLIAMS, 1988
-Torneo de Albania, carrera 100 m, Zharnel HUGHES, 9784
-Torneo de Albania, carrera 100 m, Mujinga KAMBUNDJI, 9798
-Torneo de Albania, carrera 100 m, Kayla WHITE, 9826
+Torneo de Albania, carrera 100 m, Akani SIMBINE, 10013
+Torneo de Albania, carrera 100 m, Murielle AHOURÉ, 10041
+Torneo de Albania, carrera 100 m, Dafne SCHIPPERS, 10047
 Torneo de Albania, carrera 10000 m, Mogos TUEMAY, 1611543
 Torneo de Albania, carrera 10000 m, Gete ALEMAYEHU, 1622164
 Torneo de Albania, carrera 10000 m, Senbere TEFERI, 1622963
@@ -118,9 +118,9 @@ Torneo de Albania, salto largo, Nafissatou THIAM, 954
 Torneo de Albania, salto triple, Benjamin WILLIAMS, 1983
 Torneo de Albania, salto triple, Nelson ÉVORA, 1982
 Torneo de Albania, salto triple, Hugues Fabrice ZANGO, 1978
-Torneo de Algeria, carrera 100 m, Kayla WHITE, 9765
-Torneo de Algeria, carrera 100 m, Noah LYLES, 9774
-Torneo de Algeria, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9797
+Torneo de Algeria, carrera 100 m, Tebogo MAMATHU, 10025
+Torneo de Algeria, carrera 100 m, Murielle AHOURÉ, 10051
+Torneo de Algeria, carrera 100 m, Marie-Josée TA LOU, 10058
 Torneo de Algeria, carrera 10000 m, Susan KRUMINS, 1615721
 Torneo de Algeria, carrera 10000 m, Girmawit GEBRZIHAIR, 1624962
 Torneo de Algeria, carrera 10000 m, Tsigie GEBRESELAMA, 1626863
@@ -178,9 +178,9 @@ Torneo de Algeria, salto largo, Katarina JOHNSON-THOMPSON, 950
 Torneo de Algeria, salto triple, Kimberly WILLIAMS, 1994
 Torneo de Algeria, salto triple, Christian TAYLOR, 1994
 Torneo de Algeria, salto triple, Yekaterina KONEVA, 1983
-Torneo de Andorra, carrera 100 m, Briana WILLIAMS, 9765
-Torneo de Andorra, carrera 100 m, Arthur CISSÉ, 9815
-Torneo de Andorra, carrera 100 m, Marie-Josée TA LOU, 9839
+Torneo de Andorra, carrera 100 m, Carina HORN, 10015
+Torneo de Andorra, carrera 100 m, Jonielle SMITH, 10035
+Torneo de Andorra, carrera 100 m, Abdul Hakim SANI BROWN, 10049
 Torneo de Andorra, carrera 10000 m, Andamlak BELIHU, 1614474
 Torneo de Andorra, carrera 10000 m, Mohammed AHMED, 1628593
 Torneo de Andorra, carrera 10000 m, Lopez LOMONG, 1629051
@@ -238,9 +238,9 @@ Torneo de Andorra, salto largo, Ivana ŠPANOVIĆ, 952
 Torneo de Andorra, salto triple, Diana ZAGAINOVA, 1995
 Torneo de Andorra, salto triple, Yaoqing FANG, 1993
 Torneo de Andorra, salto triple, Yosiris URRUTIA, 1986
-Torneo de Angola, carrera 100 m, Tyquendo TRACEY, 9794
-Torneo de Angola, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9799
-Torneo de Angola, carrera 100 m, Tebogo MAMATHU, 9808
+Torneo de Angola, carrera 100 m, Kiara GRANT, 10049
+Torneo de Angola, carrera 100 m, Raymond EKEVWO, 10055
+Torneo de Angola, carrera 100 m, Briana WILLIAMS, 10068
 Torneo de Angola, carrera 10000 m, Lopez LOMONG, 1609290
 Torneo de Angola, carrera 10000 m, Yomif KEJELCHA, 1611398
 Torneo de Angola, carrera 10000 m, Hagos GEBRHIWET, 1612402
@@ -298,9 +298,9 @@ Torneo de Angola, salto largo, Yelena SOKOLOVA, 950
 Torneo de Angola, salto triple, Caterine IBARGUEN, 1995
 Torneo de Angola, salto triple, Yulimar ROJAS, 1994
 Torneo de Angola, salto triple, Christian TAYLOR, 1982
-Torneo de Antigua and Barbuda, carrera 100 m, Carina HORN, 9779
-Torneo de Antigua and Barbuda, carrera 100 m, Twanisha TERRY, 9823
-Torneo de Antigua and Barbuda, carrera 100 m, Marie-Josée TA LOU, 9846
+Torneo de Antigua and Barbuda, carrera 100 m, Elaine THOMPSON, 10010
+Torneo de Antigua and Barbuda, carrera 100 m, Kiara GRANT, 10021
+Torneo de Antigua and Barbuda, carrera 100 m, Mario BURKE, 10040
 Torneo de Antigua and Barbuda, carrera 10000 m, Julien WANDERS, 1611361
 Torneo de Antigua and Barbuda, carrera 10000 m, Susan KRUMINS, 1612236
 Torneo de Antigua and Barbuda, carrera 10000 m, Letesenbet GIDEY, 1618838
@@ -358,9 +358,9 @@ Torneo de Antigua and Barbuda, salto largo, Chantel MALONE, 952
 Torneo de Antigua and Barbuda, salto triple, Diana ZAGAINOVA, 1996
 Torneo de Antigua and Barbuda, salto triple, Benjamin WILLIAMS, 1996
 Torneo de Antigua and Barbuda, salto triple, Keturah ORJI, 1994
-Torneo de Argentina, carrera 100 m, Justin GATLIN, 9772
-Torneo de Argentina, carrera 100 m, Blessing OKAGBARE, 9796
-Torneo de Argentina, carrera 100 m, Murielle AHOURÉ, 9813
+Torneo de Argentina, carrera 100 m, Twanisha TERRY, 10007
+Torneo de Argentina, carrera 100 m, Kiara GRANT, 10024
+Torneo de Argentina, carrera 100 m, Michael RODGERS, 10052
 Torneo de Argentina, carrera 10000 m, Netsanet GUDETA, 1609354
 Torneo de Argentina, carrera 10000 m, Solomon BERIHU, 1616064
 Torneo de Argentina, carrera 10000 m, Girmawit GEBRZIHAIR, 1623399
@@ -418,9 +418,9 @@ Torneo de Argentina, salto largo, Zarck VISSER, 952
 Torneo de Argentina, salto triple, Pedro Pablo PICHARDO, 1993
 Torneo de Argentina, salto triple, Caterine IBARGUEN, 1990
 Torneo de Argentina, salto triple, Kristin GIERISCH, 1990
-Torneo de Armenia, carrera 100 m, Cravon GILLESPIE, 9845
-Torneo de Armenia, carrera 100 m, ShaCarri RICHARDSON, 9851
-Torneo de Armenia, carrera 100 m, Justin GATLIN, 9866
+Torneo de Armenia, carrera 100 m, Christian COLEMAN, 10013
+Torneo de Armenia, carrera 100 m, Teahna DANIELS, 10042
+Torneo de Armenia, carrera 100 m, Noah LYLES, 10050
 Torneo de Armenia, carrera 10000 m, Agnes Jebet TIROP, 1610776
 Torneo de Armenia, carrera 10000 m, Tsehay GEMECHU, 1611295
 Torneo de Armenia, carrera 10000 m, Tsigie GEBRESELAMA, 1611895
@@ -478,9 +478,9 @@ Torneo de Armenia, salto largo, Chantel MALONE, 951
 Torneo de Armenia, salto triple, Andy DÍAZ, 1977
 Torneo de Armenia, salto triple, Paraskevi PAPACHRISTOU, 1974
 Torneo de Armenia, salto triple, Benjamin WILLIAMS, 1972
-Torneo de Australia, carrera 100 m, Arthur CISSÉ, 9762
-Torneo de Australia, carrera 100 m, Aleia HOBBS, 9766
-Torneo de Australia, carrera 100 m, Dina ASHER-SMITH, 9815
+Torneo de Australia, carrera 100 m, Yohan BLAKE, 10009
+Torneo de Australia, carrera 100 m, Manqi GE, 10009
+Torneo de Australia, carrera 100 m, Marie-Josée TA LOU, 10051
 Torneo de Australia, carrera 10000 m, Zeineba YIMER, 1610215
 Torneo de Australia, carrera 10000 m, Rhonex KIPRUTO, 1610354
 Torneo de Australia, carrera 10000 m, Jemal Yimer MEKONNEN, 1610950
@@ -538,9 +538,9 @@ Torneo de Australia, salto largo, Chantel MALONE, 953
 Torneo de Australia, salto triple, Kimberly WILLIAMS, 1980
 Torneo de Australia, salto triple, Cristian NÁPOLES, 1980
 Torneo de Australia, salto triple, Benjamin WILLIAMS, 1980
-Torneo de Austria, carrera 100 m, Abdul Hakim SANI BROWN, 9828
-Torneo de Austria, carrera 100 m, Jonielle SMITH, 9829
-Torneo de Austria, carrera 100 m, Tynia GAITHER, 9864
+Torneo de Austria, carrera 100 m, Kiara GRANT, 10010
+Torneo de Austria, carrera 100 m, Andre DE GRASSE, 10014
+Torneo de Austria, carrera 100 m, Zharnel HUGHES, 10044
 Torneo de Austria, carrera 10000 m, Tsehay GEMECHU, 1610784
 Torneo de Austria, carrera 10000 m, Stephanie TWELL, 1611040
 Torneo de Austria, carrera 10000 m, Tamirat TOLA, 1618116
@@ -598,9 +598,9 @@ Torneo de Austria, salto largo, Ese BRUME, 951
 Torneo de Austria, salto triple, Will CLAYE, 1994
 Torneo de Austria, salto triple, Diana ZAGAINOVA, 1990
 Torneo de Austria, salto triple, Kimberly WILLIAMS, 1987
-Torneo de Azerbaijan, carrera 100 m, Yohan BLAKE, 9786
-Torneo de Azerbaijan, carrera 100 m, Justin GATLIN, 9806
-Torneo de Azerbaijan, carrera 100 m, Aaron BROWN, 9844
+Torneo de Azerbaijan, carrera 100 m, Kayla WHITE, 10018
+Torneo de Azerbaijan, carrera 100 m, Jonielle SMITH, 10024
+Torneo de Azerbaijan, carrera 100 m, Isiah YOUNG, 10030
 Torneo de Azerbaijan, carrera 10000 m, Julien WANDERS, 1610032
 Torneo de Azerbaijan, carrera 10000 m, Rodgers KWEMOI, 1612638
 Torneo de Azerbaijan, carrera 10000 m, Hellen OBIRI, 1617462
@@ -658,9 +658,9 @@ Torneo de Azerbaijan, salto largo, Changzhou HUANG, 950
 Torneo de Azerbaijan, salto triple, Nadia EKE, 1995
 Torneo de Azerbaijan, salto triple, Darya NIDBAYKINA, 1988
 Torneo de Azerbaijan, salto triple, Cristian NÁPOLES, 1988
-Torneo de Bahamas, carrera 100 m, Twanisha TERRY, 9780
-Torneo de Bahamas, carrera 100 m, Yohan BLAKE, 9818
-Torneo de Bahamas, carrera 100 m, Elaine THOMPSON, 9821
+Torneo de Bahamas, carrera 100 m, Christian COLEMAN, 10017
+Torneo de Bahamas, carrera 100 m, Justin GATLIN, 10028
+Torneo de Bahamas, carrera 100 m, Yongli WEI, 10069
 Torneo de Bahamas, carrera 10000 m, Gete ALEMAYEHU, 1608532
 Torneo de Bahamas, carrera 10000 m, Marielle HALL, 1615211
 Torneo de Bahamas, carrera 10000 m, Mohammed AHMED, 1620583
@@ -718,9 +718,9 @@ Torneo de Bahamas, salto largo, Keturah ORJI, 953
 Torneo de Bahamas, salto triple, Omar CRADDOCK, 1993
 Torneo de Bahamas, salto triple, Will CLAYE, 1991
 Torneo de Bahamas, salto triple, Liadagmis POVEA, 1990
-Torneo de Bahrain, carrera 100 m, Zharnel HUGHES, 9767
-Torneo de Bahrain, carrera 100 m, Akani SIMBINE, 9770
-Torneo de Bahrain, carrera 100 m, Kiara PARKER, 9773
+Torneo de Bahrain, carrera 100 m, Andre DE GRASSE, 10045
+Torneo de Bahrain, carrera 100 m, Isiah YOUNG, 10083
+Torneo de Bahrain, carrera 100 m, Blessing OKAGBARE, 10097
 Torneo de Bahrain, carrera 10000 m, Hellen OBIRI, 1611739
 Torneo de Bahrain, carrera 10000 m, Zeineba YIMER, 1614897
 Torneo de Bahrain, carrera 10000 m, Rhonex KIPRUTO, 1615699
@@ -778,9 +778,9 @@ Torneo de Bahrain, salto largo, Jianan WANG, 949
 Torneo de Bahrain, salto triple, Hugues Fabrice ZANGO, 1989
 Torneo de Bahrain, salto triple, Liadagmis POVEA, 1986
 Torneo de Bahrain, salto triple, Paraskevi PAPACHRISTOU, 1983
-Torneo de Bangladesh, carrera 100 m, Isiah YOUNG, 9820
-Torneo de Bangladesh, carrera 100 m, Aleia HOBBS, 9829
-Torneo de Bangladesh, carrera 100 m, Cravon GILLESPIE, 9832
+Torneo de Bangladesh, carrera 100 m, Zharnel HUGHES, 10006
+Torneo de Bangladesh, carrera 100 m, Carina HORN, 10023
+Torneo de Bangladesh, carrera 100 m, Murielle AHOURÉ, 10029
 Torneo de Bangladesh, carrera 10000 m, Girmawit GEBRZIHAIR, 1608845
 Torneo de Bangladesh, carrera 10000 m, Hagos GEBRHIWET, 1615865
 Torneo de Bangladesh, carrera 10000 m, Gete ALEMAYEHU, 1616383
@@ -838,9 +838,9 @@ Torneo de Bangladesh, salto largo, Ruswahl SAMAAI, 947
 Torneo de Bangladesh, salto triple, Chengetayi MAPAYA, 1995
 Torneo de Bangladesh, salto triple, Donald SCOTT, 1987
 Torneo de Bangladesh, salto triple, Almir DOS SANTOS, 1987
-Torneo de Barbados, carrera 100 m, Cravon GILLESPIE, 9769
-Torneo de Barbados, carrera 100 m, Tyquendo TRACEY, 9849
-Torneo de Barbados, carrera 100 m, Teahna DANIELS, 9872
+Torneo de Barbados, carrera 100 m, Yohan BLAKE, 10008
+Torneo de Barbados, carrera 100 m, Tebogo MAMATHU, 10037
+Torneo de Barbados, carrera 100 m, Manqi GE, 10053
 Torneo de Barbados, carrera 10000 m, Yomif KEJELCHA, 1608147
 Torneo de Barbados, carrera 10000 m, Susan KRUMINS, 1609071
 Torneo de Barbados, carrera 10000 m, Gete ALEMAYEHU, 1619464
@@ -898,9 +898,9 @@ Torneo de Barbados, salto largo, Thobias MONTLER, 941
 Torneo de Barbados, salto triple, Ana PELETEIRO, 1996
 Torneo de Barbados, salto triple, Shanieka RICKETTS, 1995
 Torneo de Barbados, salto triple, Yaoqing FANG, 1990
-Torneo de Belarus, carrera 100 m, Tynia GAITHER, 9764
-Torneo de Belarus, carrera 100 m, Cravon GILLESPIE, 9775
-Torneo de Belarus, carrera 100 m, Kayla WHITE, 9780
+Torneo de Belarus, carrera 100 m, Aleia HOBBS, 10009
+Torneo de Belarus, carrera 100 m, Kiara GRANT, 10043
+Torneo de Belarus, carrera 100 m, Michael RODGERS, 10092
 Torneo de Belarus, carrera 10000 m, Berehanu TSEGU, 1608306
 Torneo de Belarus, carrera 10000 m, Joshua CHEPTEGEI, 1621264
 Torneo de Belarus, carrera 10000 m, Jemal Yimer MEKONNEN, 1626408
@@ -958,9 +958,9 @@ Torneo de Belarus, salto largo, Tajay GAYLE, 950
 Torneo de Belarus, salto triple, Nadia EKE, 1990
 Torneo de Belarus, salto triple, Alexsandro MELO, 1985
 Torneo de Belarus, salto triple, Yosiris URRUTIA, 1977
-Torneo de Belgium, carrera 100 m, Kayla WHITE, 9815
-Torneo de Belgium, carrera 100 m, Carina HORN, 9821
-Torneo de Belgium, carrera 100 m, Kiara PARKER, 9851
+Torneo de Belgium, carrera 100 m, Yuki KOIKE, 10030
+Torneo de Belgium, carrera 100 m, Mujinga KAMBUNDJI, 10067
+Torneo de Belgium, carrera 100 m, Elaine THOMPSON, 10072
 Torneo de Belgium, carrera 10000 m, Abadi HADIS, 1608999
 Torneo de Belgium, carrera 10000 m, Hellen OBIRI, 1614691
 Torneo de Belgium, carrera 10000 m, Yemaneberhan CRIPPA, 1620841
@@ -1018,9 +1018,9 @@ Torneo de Belgium, salto largo, Shara PROCTOR, 951
 Torneo de Belgium, salto triple, Ana PELETEIRO, 1994
 Torneo de Belgium, salto triple, Olga RYPAKOVA, 1994
 Torneo de Belgium, salto triple, Chengetayi MAPAYA, 1984
-Torneo de Belize, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9789
-Torneo de Belize, carrera 100 m, Mujinga KAMBUNDJI, 9812
-Torneo de Belize, carrera 100 m, Kayla WHITE, 9823
+Torneo de Belize, carrera 100 m, Abdul Hakim SANI BROWN, 10034
+Torneo de Belize, carrera 100 m, Tynia GAITHER, 10034
+Torneo de Belize, carrera 100 m, Andre DE GRASSE, 10051
 Torneo de Belize, carrera 10000 m, Yasemin CAN, 1610769
 Torneo de Belize, carrera 10000 m, Tamirat TOLA, 1610911
 Torneo de Belize, carrera 10000 m, Senbere TEFERI, 1611714
@@ -1078,9 +1078,9 @@ Torneo de Belize, salto largo, Xinglong GAO, 954
 Torneo de Belize, salto triple, Will CLAYE, 1996
 Torneo de Belize, salto triple, Kimberly WILLIAMS, 1994
 Torneo de Belize, salto triple, Yekaterina KONEVA, 1986
-Torneo de Benin, carrera 100 m, Kiara PARKER, 9785
-Torneo de Benin, carrera 100 m, Twanisha TERRY, 9827
-Torneo de Benin, carrera 100 m, Cravon GILLESPIE, 9846
+Torneo de Benin, carrera 100 m, Yongli WEI, 10032
+Torneo de Benin, carrera 100 m, Jonielle SMITH, 10082
+Torneo de Benin, carrera 100 m, Kiara GRANT, 10092
 Torneo de Benin, carrera 10000 m, Solomon BERIHU, 1608967
 Torneo de Benin, carrera 10000 m, Netsanet GUDETA, 1611270
 Torneo de Benin, carrera 10000 m, Abadi HADIS, 1611986
@@ -1138,9 +1138,9 @@ Torneo de Benin, salto largo, Malaika MIHAMBO, 954
 Torneo de Benin, salto triple, Yekaterina KONEVA, 1993
 Torneo de Benin, salto triple, Nadia EKE, 1992
 Torneo de Benin, salto triple, Necatí ER, 1978
-Torneo de Bhutan, carrera 100 m, Raymond EKEVWO, 9769
-Torneo de Bhutan, carrera 100 m, Elaine THOMPSON, 9790
-Torneo de Bhutan, carrera 100 m, Tyquendo TRACEY, 9797
+Torneo de Bhutan, carrera 100 m, Roberto SKYERS, 10019
+Torneo de Bhutan, carrera 100 m, Blessing OKAGBARE, 10069
+Torneo de Bhutan, carrera 100 m, Yuki KOIKE, 10133
 Torneo de Bhutan, carrera 10000 m, Lopez LOMONG, 1608036
 Torneo de Bhutan, carrera 10000 m, Molly HUDDLE, 1608385
 Torneo de Bhutan, carrera 10000 m, Senbere TEFERI, 1616751
@@ -1198,9 +1198,9 @@ Torneo de Bhutan, salto largo, Jianan WANG, 952
 Torneo de Bhutan, salto triple, Nadia EKE, 1996
 Torneo de Bhutan, salto triple, Ana PELETEIRO, 1994
 Torneo de Bhutan, salto triple, Yulimar ROJAS, 1990
-Torneo de Bolivia, carrera 100 m, Mario BURKE, 9797
-Torneo de Bolivia, carrera 100 m, Aleia HOBBS, 9818
-Torneo de Bolivia, carrera 100 m, Arthur CISSÉ, 9820
+Torneo de Bolivia, carrera 100 m, Tebogo MAMATHU, 10103
+Torneo de Bolivia, carrera 100 m, Michael RODGERS, 10130
+Torneo de Bolivia, carrera 100 m, Marie-Josée TA LOU, 10136
 Torneo de Bolivia, carrera 10000 m, Degitu AZIMERAW, 1612332
 Torneo de Bolivia, carrera 10000 m, Berehanu TSEGU, 1613029
 Torneo de Bolivia, carrera 10000 m, Girmawit GEBRZIHAIR, 1618178
@@ -1258,9 +1258,9 @@ Torneo de Bolivia, salto largo, Alina ROTARU, 947
 Torneo de Bolivia, salto triple, Keturah ORJI, 1995
 Torneo de Bolivia, salto triple, Diana ZAGAINOVA, 1993
 Torneo de Bolivia, salto triple, Ruiting WU, 1988
-Torneo de Bosnia and Herzegovina, carrera 100 m, Marie-Josée TA LOU, 9763
-Torneo de Bosnia and Herzegovina, carrera 100 m, Tynia GAITHER, 9821
-Torneo de Bosnia and Herzegovina, carrera 100 m, Roberto SKYERS, 9825
+Torneo de Bosnia and Herzegovina, carrera 100 m, Dafne SCHIPPERS, 10014
+Torneo de Bosnia and Herzegovina, carrera 100 m, Carina HORN, 10024
+Torneo de Bosnia and Herzegovina, carrera 100 m, Isiah YOUNG, 10054
 Torneo de Bosnia and Herzegovina, carrera 10000 m, Dera DIDA, 1615054
 Torneo de Bosnia and Herzegovina, carrera 10000 m, Julien WANDERS, 1618192
 Torneo de Bosnia and Herzegovina, carrera 10000 m, Andamlak BELIHU, 1620002
@@ -1318,9 +1318,9 @@ Torneo de Bosnia and Herzegovina, salto largo, Shoutarou SHIROYAMA, 950
 Torneo de Bosnia and Herzegovina, salto triple, Kristin GIERISCH, 1983
 Torneo de Bosnia and Herzegovina, salto triple, Olha SALADUKHA, 1983
 Torneo de Bosnia and Herzegovina, salto triple, Keturah ORJI, 1980
-Torneo de Botswana, carrera 100 m, Aaron BROWN, 9767
-Torneo de Botswana, carrera 100 m, Tebogo MAMATHU, 9773
-Torneo de Botswana, carrera 100 m, Reece PRESCOD, 9786
+Torneo de Botswana, carrera 100 m, Dina ASHER-SMITH, 10003
+Torneo de Botswana, carrera 100 m, Jonielle SMITH, 10016
+Torneo de Botswana, carrera 100 m, Andre DE GRASSE, 10039
 Torneo de Botswana, carrera 10000 m, Tsehay GEMECHU, 1612862
 Torneo de Botswana, carrera 10000 m, Andamlak BELIHU, 1615467
 Torneo de Botswana, carrera 10000 m, Molly HUDDLE, 1618925
@@ -1378,9 +1378,9 @@ Torneo de Botswana, salto largo, Ruswahl SAMAAI, 947
 Torneo de Botswana, salto triple, Omar CRADDOCK, 1992
 Torneo de Botswana, salto triple, Pedro Pablo PICHARDO, 1991
 Torneo de Botswana, salto triple, Yaming ZHU, 1983
-Torneo de Brazil, carrera 100 m, Kayla WHITE, 9769
-Torneo de Brazil, carrera 100 m, Tyquendo TRACEY, 9771
-Torneo de Brazil, carrera 100 m, Cravon GILLESPIE, 9773
+Torneo de Brazil, carrera 100 m, Christian COLEMAN, 10020
+Torneo de Brazil, carrera 100 m, Elaine THOMPSON, 10023
+Torneo de Brazil, carrera 100 m, Briana WILLIAMS, 10095
 Torneo de Brazil, carrera 10000 m, Vincent Kiprotich KIBET, 1624458
 Torneo de Brazil, carrera 10000 m, Sifan HASSAN, 1624574
 Torneo de Brazil, carrera 10000 m, Hellen OBIRI, 1627396
@@ -1438,9 +1438,9 @@ Torneo de Brazil, salto largo, Tori BOWIE, 953
 Torneo de Brazil, salto triple, Hugues Fabrice ZANGO, 1994
 Torneo de Brazil, salto triple, Donald SCOTT, 1993
 Torneo de Brazil, salto triple, Nelson ÉVORA, 1989
-Torneo de Brunei, carrera 100 m, Tynia GAITHER, 9760
-Torneo de Brunei, carrera 100 m, Cravon GILLESPIE, 9797
-Torneo de Brunei, carrera 100 m, Mario BURKE, 9835
+Torneo de Brunei, carrera 100 m, Kayla WHITE, 10003
+Torneo de Brunei, carrera 100 m, Isiah YOUNG, 10025
+Torneo de Brunei, carrera 100 m, Murielle AHOURÉ, 10031
 Torneo de Brunei, carrera 10000 m, Yasemin CAN, 1612363
 Torneo de Brunei, carrera 10000 m, Mohammed AHMED, 1617913
 Torneo de Brunei, carrera 10000 m, Tamirat TOLA, 1620146
@@ -1498,9 +1498,9 @@ Torneo de Brunei, salto largo, Jianan WANG, 950
 Torneo de Brunei, salto triple, Pedro Pablo PICHARDO, 1994
 Torneo de Brunei, salto triple, Patrícia MAMONA, 1989
 Torneo de Brunei, salto triple, Ana PELETEIRO, 1985
-Torneo de Bulgaria, carrera 100 m, Akani SIMBINE, 9779
-Torneo de Bulgaria, carrera 100 m, Tebogo MAMATHU, 9779
-Torneo de Bulgaria, carrera 100 m, Michael RODGERS, 9833
+Torneo de Bulgaria, carrera 100 m, Roberto SKYERS, 10005
+Torneo de Bulgaria, carrera 100 m, Twanisha TERRY, 10010
+Torneo de Bulgaria, carrera 100 m, Justin GATLIN, 10044
 Torneo de Bulgaria, carrera 10000 m, Lopez LOMONG, 1608600
 Torneo de Bulgaria, carrera 10000 m, Marielle HALL, 1611154
 Torneo de Bulgaria, carrera 10000 m, Yasemin CAN, 1617318
@@ -1558,9 +1558,9 @@ Torneo de Bulgaria, salto largo, Zarck VISSER, 952
 Torneo de Bulgaria, salto triple, Kristin GIERISCH, 1996
 Torneo de Bulgaria, salto triple, Yulimar ROJAS, 1994
 Torneo de Bulgaria, salto triple, Will CLAYE, 1991
-Torneo de Burkina Faso, carrera 100 m, Andre DE GRASSE, 9775
-Torneo de Burkina Faso, carrera 100 m, Arthur CISSÉ, 9791
-Torneo de Burkina Faso, carrera 100 m, Mujinga KAMBUNDJI, 9813
+Torneo de Burkina Faso, carrera 100 m, Zharnel HUGHES, 10045
+Torneo de Burkina Faso, carrera 100 m, Twanisha TERRY, 10057
+Torneo de Burkina Faso, carrera 100 m, Isiah YOUNG, 10063
 Torneo de Burkina Faso, carrera 10000 m, Hellen OBIRI, 1609117
 Torneo de Burkina Faso, carrera 10000 m, Abadi HADIS, 1609938
 Torneo de Burkina Faso, carrera 10000 m, Yasemin CAN, 1610409
@@ -1618,9 +1618,9 @@ Torneo de Burkina Faso, salto largo, Brittney REESE, 953
 Torneo de Burkina Faso, salto triple, Keturah ORJI, 1988
 Torneo de Burkina Faso, salto triple, Thea LAFOND, 1984
 Torneo de Burkina Faso, salto triple, Yanis Esmeralda DAVID, 1980
-Torneo de Burundi, carrera 100 m, Raymond EKEVWO, 9765
-Torneo de Burundi, carrera 100 m, Blessing OKAGBARE, 9790
-Torneo de Burundi, carrera 100 m, Tynia GAITHER, 9800
+Torneo de Burundi, carrera 100 m, Yohan BLAKE, 10002
+Torneo de Burundi, carrera 100 m, Reece PRESCOD, 10002
+Torneo de Burundi, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10036
 Torneo de Burundi, carrera 10000 m, Julien WANDERS, 1609499
 Torneo de Burundi, carrera 10000 m, Emily SISSON, 1613390
 Torneo de Burundi, carrera 10000 m, Senbere TEFERI, 1614725
@@ -1678,9 +1678,9 @@ Torneo de Burundi, salto largo, Maryna BEKH-ROMANCHUK, 955
 Torneo de Burundi, salto triple, Ana PELETEIRO, 1990
 Torneo de Burundi, salto triple, Shanieka RICKETTS, 1985
 Torneo de Burundi, salto triple, Almir DOS SANTOS, 1976
-Torneo de Cabo Verde, carrera 100 m, ShaCarri RICHARDSON, 9763
-Torneo de Cabo Verde, carrera 100 m, Briana WILLIAMS, 9769
-Torneo de Cabo Verde, carrera 100 m, Abdul Hakim SANI BROWN, 9775
+Torneo de Cabo Verde, carrera 100 m, Justin GATLIN, 10009
+Torneo de Cabo Verde, carrera 100 m, Mujinga KAMBUNDJI, 10022
+Torneo de Cabo Verde, carrera 100 m, Akani SIMBINE, 10060
 Torneo de Cabo Verde, carrera 10000 m, Agnes Jebet TIROP, 1615688
 Torneo de Cabo Verde, carrera 10000 m, Gete ALEMAYEHU, 1617978
 Torneo de Cabo Verde, carrera 10000 m, Jemal Yimer MEKONNEN, 1618154
@@ -1738,9 +1738,9 @@ Torneo de Cabo Verde, salto largo, Hibiki TSUHA, 953
 Torneo de Cabo Verde, salto triple, Liadagmis POVEA, 1996
 Torneo de Cabo Verde, salto triple, Necatí ER, 1988
 Torneo de Cabo Verde, salto triple, Alexsandro MELO, 1987
-Torneo de Cambodia, carrera 100 m, Yuki KOIKE, 9775
-Torneo de Cambodia, carrera 100 m, Mujinga KAMBUNDJI, 9841
-Torneo de Cambodia, carrera 100 m, Isiah YOUNG, 9869
+Torneo de Cambodia, carrera 100 m, Elaine THOMPSON, 10022
+Torneo de Cambodia, carrera 100 m, Divine ODUDURU, 10053
+Torneo de Cambodia, carrera 100 m, Murielle AHOURÉ, 10085
 Torneo de Cambodia, carrera 10000 m, Mohammed AHMED, 1608242
 Torneo de Cambodia, carrera 10000 m, Dera DIDA, 1610854
 Torneo de Cambodia, carrera 10000 m, Andamlak BELIHU, 1612586
@@ -1798,9 +1798,9 @@ Torneo de Cambodia, salto largo, Andwuelle WRIGHT, 950
 Torneo de Cambodia, salto triple, Darya NIDBAYKINA, 1994
 Torneo de Cambodia, salto triple, Ruiting WU, 1994
 Torneo de Cambodia, salto triple, Kimberly WILLIAMS, 1993
-Torneo de Cameroon, carrera 100 m, Aleia HOBBS, 9765
-Torneo de Cameroon, carrera 100 m, Roberto SKYERS, 9777
-Torneo de Cameroon, carrera 100 m, Dina ASHER-SMITH, 9797
+Torneo de Cameroon, carrera 100 m, Manqi GE, 10003
+Torneo de Cameroon, carrera 100 m, ShaCarri RICHARDSON, 10031
+Torneo de Cameroon, carrera 100 m, Andre DE GRASSE, 10043
 Torneo de Cameroon, carrera 10000 m, Rodgers KWEMOI, 1610225
 Torneo de Cameroon, carrera 10000 m, Tsehay GEMECHU, 1610627
 Torneo de Cameroon, carrera 10000 m, Zeineba YIMER, 1617131
@@ -1858,9 +1858,9 @@ Torneo de Cameroon, salto largo, Darya KLISHINA, 949
 Torneo de Cameroon, salto triple, Christian TAYLOR, 1993
 Torneo de Cameroon, salto triple, Paraskevi PAPACHRISTOU, 1982
 Torneo de Cameroon, salto triple, Yaoqing FANG, 1982
-Torneo de Canada, carrera 100 m, Carina HORN, 9764
-Torneo de Canada, carrera 100 m, Murielle AHOURÉ, 9786
-Torneo de Canada, carrera 100 m, Akani SIMBINE, 9809
+Torneo de Canada, carrera 100 m, Teahna DANIELS, 10017
+Torneo de Canada, carrera 100 m, Briana WILLIAMS, 10024
+Torneo de Canada, carrera 100 m, Manqi GE, 10027
 Torneo de Canada, carrera 10000 m, Berehanu TSEGU, 1612391
 Torneo de Canada, carrera 10000 m, Girmawit GEBRZIHAIR, 1615662
 Torneo de Canada, carrera 10000 m, Tsigie GEBRESELAMA, 1625935
@@ -1918,9 +1918,9 @@ Torneo de Canada, salto largo, Nafissatou THIAM, 954
 Torneo de Canada, salto triple, Yanis Esmeralda DAVID, 1996
 Torneo de Canada, salto triple, Alexis COPELLO, 1991
 Torneo de Canada, salto triple, Shanieka RICKETTS, 1987
-Torneo de Central African Republic, carrera 100 m, Aleia HOBBS, 9766
-Torneo de Central African Republic, carrera 100 m, Zharnel HUGHES, 9768
-Torneo de Central African Republic, carrera 100 m, Mario BURKE, 9771
+Torneo de Central African Republic, carrera 100 m, Tynia GAITHER, 10008
+Torneo de Central African Republic, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10010
+Torneo de Central African Republic, carrera 100 m, Abdul Hakim SANI BROWN, 10015
 Torneo de Central African Republic, carrera 10000 m, Netsanet GUDETA, 1613240
 Torneo de Central African Republic, carrera 10000 m, Tsehay GEMECHU, 1617584
 Torneo de Central African Republic, carrera 10000 m, Tamirat TOLA, 1622857
@@ -1978,9 +1978,9 @@ Torneo de Central African Republic, salto largo, Kenyattia HACKWORTH, 952
 Torneo de Central African Republic, salto triple, Christian TAYLOR, 1993
 Torneo de Central African Republic, salto triple, Yaming ZHU, 1993
 Torneo de Central African Republic, salto triple, Necatí ER, 1985
-Torneo de Chad, carrera 100 m, Murielle AHOURÉ, 9776
-Torneo de Chad, carrera 100 m, Akani SIMBINE, 9788
-Torneo de Chad, carrera 100 m, Tebogo MAMATHU, 9822
+Torneo de Chad, carrera 100 m, Mario BURKE, 10005
+Torneo de Chad, carrera 100 m, Yohan BLAKE, 10011
+Torneo de Chad, carrera 100 m, ShaCarri RICHARDSON, 10024
 Torneo de Chad, carrera 10000 m, Jemal Yimer MEKONNEN, 1614855
 Torneo de Chad, carrera 10000 m, Tsehay GEMECHU, 1621389
 Torneo de Chad, carrera 10000 m, Stewart MCSWEYN, 1623039
@@ -2038,9 +2038,9 @@ Torneo de Chad, salto largo, Yelena SOKOLOVA, 951
 Torneo de Chad, salto triple, Paraskevi PAPACHRISTOU, 1996
 Torneo de Chad, salto triple, Alexsandro MELO, 1995
 Torneo de Chad, salto triple, Tori FRANKLIN, 1989
-Torneo de Chile, carrera 100 m, Raymond EKEVWO, 9817
-Torneo de Chile, carrera 100 m, Aaron BROWN, 9825
-Torneo de Chile, carrera 100 m, Isiah YOUNG, 9839
+Torneo de Chile, carrera 100 m, Aleia HOBBS, 10044
+Torneo de Chile, carrera 100 m, Arthur CISSÉ, 10107
+Torneo de Chile, carrera 100 m, Teahna DANIELS, 10132
 Torneo de Chile, carrera 10000 m, Solomon BERIHU, 1608510
 Torneo de Chile, carrera 10000 m, Senbere TEFERI, 1609163
 Torneo de Chile, carrera 10000 m, Netsanet GUDETA, 1611740
@@ -2098,9 +2098,9 @@ Torneo de Chile, salto largo, Ivana ŠPANOVIĆ, 955
 Torneo de Chile, salto triple, Donald SCOTT, 1981
 Torneo de Chile, salto triple, Olha SALADUKHA, 1972
 Torneo de Chile, salto triple, Nelson ÉVORA, 1966
-Torneo de China, carrera 100 m, Yuki KOIKE, 9767
-Torneo de China, carrera 100 m, Andre DE GRASSE, 9831
-Torneo de China, carrera 100 m, Michael RODGERS, 9893
+Torneo de China, carrera 100 m, Carina HORN, 10022
+Torneo de China, carrera 100 m, Tynia GAITHER, 10023
+Torneo de China, carrera 100 m, Zharnel HUGHES, 10041
 Torneo de China, carrera 10000 m, Joshua CHEPTEGEI, 1620989
 Torneo de China, carrera 10000 m, Mohammed AHMED, 1627550
 Torneo de China, carrera 10000 m, Rosemary Monica WANJIRU, 1635910
@@ -2158,9 +2158,9 @@ Torneo de China, salto largo, Yaoguang ZHANG, 950
 Torneo de China, salto triple, Christian TAYLOR, 1994
 Torneo de China, salto triple, Yekaterina KONEVA, 1984
 Torneo de China, salto triple, Jordan Alejandro DÍAZ FORTUN, 1981
-Torneo de Colombia, carrera 100 m, Dafne SCHIPPERS, 9826
-Torneo de Colombia, carrera 100 m, Mario BURKE, 9862
-Torneo de Colombia, carrera 100 m, Christian COLEMAN, 9885
+Torneo de Colombia, carrera 100 m, Reece PRESCOD, 10021
+Torneo de Colombia, carrera 100 m, Manqi GE, 10058
+Torneo de Colombia, carrera 100 m, Justin GATLIN, 10085
 Torneo de Colombia, carrera 10000 m, Zeineba YIMER, 1620948
 Torneo de Colombia, carrera 10000 m, Mogos TUEMAY, 1622229
 Torneo de Colombia, carrera 10000 m, Dera DIDA, 1623719
@@ -2218,9 +2218,9 @@ Torneo de Colombia, salto largo, Malaika MIHAMBO, 954
 Torneo de Colombia, salto triple, Will CLAYE, 1996
 Torneo de Colombia, salto triple, Patrícia MAMONA, 1996
 Torneo de Colombia, salto triple, Yaming ZHU, 1990
-Torneo de Comoros, carrera 100 m, Raymond EKEVWO, 9779
-Torneo de Comoros, carrera 100 m, Kiara GRANT, 9791
-Torneo de Comoros, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9851
+Torneo de Comoros, carrera 100 m, Andre DE GRASSE, 10016
+Torneo de Comoros, carrera 100 m, Zharnel HUGHES, 10017
+Torneo de Comoros, carrera 100 m, Aaron BROWN, 10165
 Torneo de Comoros, carrera 10000 m, Mohammed AHMED, 1610587
 Torneo de Comoros, carrera 10000 m, Yemaneberhan CRIPPA, 1612178
 Torneo de Comoros, carrera 10000 m, Agnes Jebet TIROP, 1615509
@@ -2278,9 +2278,9 @@ Torneo de Comoros, salto largo, Juan Miguel ECHEVARRÍA, 952
 Torneo de Comoros, salto triple, Pedro Pablo PICHARDO, 1994
 Torneo de Comoros, salto triple, Caterine IBARGUEN, 1993
 Torneo de Comoros, salto triple, Kristin GIERISCH, 1983
-Torneo de Congo Democratic Republic of the, carrera 100 m, Dina ASHER-SMITH, 9766
-Torneo de Congo Democratic Republic of the, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9767
-Torneo de Congo Democratic Republic of the, carrera 100 m, Isiah YOUNG, 9839
+Torneo de Congo Democratic Republic of the, carrera 100 m, Noah LYLES, 10000
+Torneo de Congo Democratic Republic of the, carrera 100 m, Manqi GE, 10003
+Torneo de Congo Democratic Republic of the, carrera 100 m, Raymond EKEVWO, 10016
 Torneo de Congo Democratic Republic of the, carrera 10000 m, Abadi HADIS, 1611827
 Torneo de Congo Democratic Republic of the, carrera 10000 m, Vincent Kiprotich KIBET, 1614575
 Torneo de Congo Democratic Republic of the, carrera 10000 m, Dera DIDA, 1616260
@@ -2338,9 +2338,9 @@ Torneo de Congo Democratic Republic of the, salto largo, Brittney REESE, 952
 Torneo de Congo Democratic Republic of the, salto triple, Thea LAFOND, 1996
 Torneo de Congo Democratic Republic of the, salto triple, Jordan Alejandro DÍAZ FORTUN, 1996
 Torneo de Congo Democratic Republic of the, salto triple, Diana ZAGAINOVA, 1992
-Torneo de Congo Republic of the, carrera 100 m, Dina ASHER-SMITH, 9771
-Torneo de Congo Republic of the, carrera 100 m, Dafne SCHIPPERS, 9776
-Torneo de Congo Republic of the, carrera 100 m, Abdul Hakim SANI BROWN, 9787
+Torneo de Congo Republic of the, carrera 100 m, Yuki KOIKE, 10015
+Torneo de Congo Republic of the, carrera 100 m, Christian COLEMAN, 10016
+Torneo de Congo Republic of the, carrera 100 m, Kiara PARKER, 10065
 Torneo de Congo Republic of the, carrera 10000 m, Lopez LOMONG, 1618627
 Torneo de Congo Republic of the, carrera 10000 m, Mohammed AHMED, 1620434
 Torneo de Congo Republic of the, carrera 10000 m, Hellen OBIRI, 1620853
@@ -2398,9 +2398,9 @@ Torneo de Congo Republic of the, salto largo, Abigail IROZURU, 953
 Torneo de Congo Republic of the, salto triple, Alexis COPELLO, 1981
 Torneo de Congo Republic of the, salto triple, Yekaterina KONEVA, 1977
 Torneo de Congo Republic of the, salto triple, Tori FRANKLIN, 1968
-Torneo de Costa Rica, carrera 100 m, Twanisha TERRY, 9794
-Torneo de Costa Rica, carrera 100 m, Marie-Josée TA LOU, 9806
-Torneo de Costa Rica, carrera 100 m, Christian COLEMAN, 9812
+Torneo de Costa Rica, carrera 100 m, Yohan BLAKE, 10009
+Torneo de Costa Rica, carrera 100 m, Michael RODGERS, 10017
+Torneo de Costa Rica, carrera 100 m, Divine ODUDURU, 10029
 Torneo de Costa Rica, carrera 10000 m, Jemal Yimer MEKONNEN, 1610990
 Torneo de Costa Rica, carrera 10000 m, Abdallah Kibet MANDE, 1624275
 Torneo de Costa Rica, carrera 10000 m, Yomif KEJELCHA, 1628042
@@ -2458,9 +2458,9 @@ Torneo de Costa Rica, salto largo, Miltiadis TENTOGLOU, 951
 Torneo de Costa Rica, salto triple, Jordan Alejandro DÍAZ FORTUN, 1991
 Torneo de Costa Rica, salto triple, Ana PELETEIRO, 1989
 Torneo de Costa Rica, salto triple, Chengetayi MAPAYA, 1988
-Torneo de Croatia, carrera 100 m, Arthur CISSÉ, 9761
-Torneo de Croatia, carrera 100 m, Raymond EKEVWO, 9778
-Torneo de Croatia, carrera 100 m, Murielle AHOURÉ, 9808
+Torneo de Croatia, carrera 100 m, Abdul Hakim SANI BROWN, 10013
+Torneo de Croatia, carrera 100 m, Jonielle SMITH, 10018
+Torneo de Croatia, carrera 100 m, Yuki KOIKE, 10029
 Torneo de Croatia, carrera 10000 m, Molly HUDDLE, 1609074
 Torneo de Croatia, carrera 10000 m, Senbere TEFERI, 1623412
 Torneo de Croatia, carrera 10000 m, Hellen OBIRI, 1623516
@@ -2518,9 +2518,9 @@ Torneo de Croatia, salto largo, Malaika MIHAMBO, 954
 Torneo de Croatia, salto triple, Nelson ÉVORA, 1990
 Torneo de Croatia, salto triple, Alexsandro MELO, 1989
 Torneo de Croatia, salto triple, Thea LAFOND, 1987
-Torneo de Cuba, carrera 100 m, Kiara GRANT, 9784
-Torneo de Cuba, carrera 100 m, Marie-Josée TA LOU, 9793
-Torneo de Cuba, carrera 100 m, Akani SIMBINE, 9803
+Torneo de Cuba, carrera 100 m, Christian COLEMAN, 10076
+Torneo de Cuba, carrera 100 m, Andre DE GRASSE, 10124
+Torneo de Cuba, carrera 100 m, Kiara PARKER, 10129
 Torneo de Cuba, carrera 10000 m, Abadi HADIS, 1609130
 Torneo de Cuba, carrera 10000 m, Mohammed AHMED, 1611919
 Torneo de Cuba, carrera 10000 m, Susan KRUMINS, 1615510
@@ -2578,9 +2578,9 @@ Torneo de Cuba, salto largo, Jianan WANG, 953
 Torneo de Cuba, salto triple, Kimberly WILLIAMS, 1996
 Torneo de Cuba, salto triple, Shanieka RICKETTS, 1992
 Torneo de Cuba, salto triple, Almir DOS SANTOS, 1990
-Torneo de Cyprus, carrera 100 m, Roberto SKYERS, 9766
-Torneo de Cyprus, carrera 100 m, Justin GATLIN, 9803
-Torneo de Cyprus, carrera 100 m, Kayla WHITE, 9867
+Torneo de Cyprus, carrera 100 m, Yongli WEI, 10049
+Torneo de Cyprus, carrera 100 m, Kiara PARKER, 10064
+Torneo de Cyprus, carrera 100 m, Jonielle SMITH, 10090
 Torneo de Cyprus, carrera 10000 m, Solomon BERIHU, 1611555
 Torneo de Cyprus, carrera 10000 m, Tamirat TOLA, 1614008
 Torneo de Cyprus, carrera 10000 m, Yomif KEJELCHA, 1619942
@@ -2638,9 +2638,9 @@ Torneo de Cyprus, salto largo, Maryna BEKH-ROMANCHUK, 952
 Torneo de Cyprus, salto triple, Diana ZAGAINOVA, 1986
 Torneo de Cyprus, salto triple, Omar CRADDOCK, 1984
 Torneo de Cyprus, salto triple, Alexis COPELLO, 1983
-Torneo de Czechia, carrera 100 m, Tyquendo TRACEY, 9776
-Torneo de Czechia, carrera 100 m, Tynia GAITHER, 9796
-Torneo de Czechia, carrera 100 m, Kiara PARKER, 9799
+Torneo de Czechia, carrera 100 m, Arthur CISSÉ, 10004
+Torneo de Czechia, carrera 100 m, Yohan BLAKE, 10094
+Torneo de Czechia, carrera 100 m, Marie-Josée TA LOU, 10108
 Torneo de Czechia, carrera 10000 m, Tsigie GEBRESELAMA, 1610667
 Torneo de Czechia, carrera 10000 m, Marielle HALL, 1612972
 Torneo de Czechia, carrera 10000 m, Yasemin CAN, 1616932
@@ -2698,9 +2698,9 @@ Torneo de Czechia, salto largo, Shara PROCTOR, 950
 Torneo de Czechia, salto triple, Caterine IBARGUEN, 1989
 Torneo de Czechia, salto triple, Nadia EKE, 1989
 Torneo de Czechia, salto triple, Cristian NÁPOLES, 1987
-Torneo de Denmark, carrera 100 m, Tyquendo TRACEY, 9770
-Torneo de Denmark, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9772
-Torneo de Denmark, carrera 100 m, Andre DE GRASSE, 9791
+Torneo de Denmark, carrera 100 m, Aleia HOBBS, 10009
+Torneo de Denmark, carrera 100 m, Murielle AHOURÉ, 10039
+Torneo de Denmark, carrera 100 m, Blessing OKAGBARE, 10049
 Torneo de Denmark, carrera 10000 m, Agnes Jebet TIROP, 1609459
 Torneo de Denmark, carrera 10000 m, Stewart MCSWEYN, 1610134
 Torneo de Denmark, carrera 10000 m, Vincent Kiprotich KIBET, 1626615
@@ -2758,9 +2758,9 @@ Torneo de Denmark, salto largo, Maryna BEKH-ROMANCHUK, 950
 Torneo de Denmark, salto triple, Ruiting WU, 1991
 Torneo de Denmark, salto triple, Necatí ER, 1990
 Torneo de Denmark, salto triple, Ana PELETEIRO, 1989
-Torneo de Djibouti, carrera 100 m, Divine ODUDURU, 9761
-Torneo de Djibouti, carrera 100 m, Isiah YOUNG, 9774
-Torneo de Djibouti, carrera 100 m, Arthur CISSÉ, 9793
+Torneo de Djibouti, carrera 100 m, Kayla WHITE, 10055
+Torneo de Djibouti, carrera 100 m, Roberto SKYERS, 10065
+Torneo de Djibouti, carrera 100 m, Christian COLEMAN, 10078
 Torneo de Djibouti, carrera 10000 m, Tsigie GEBRESELAMA, 1616423
 Torneo de Djibouti, carrera 10000 m, Tamirat TOLA, 1620980
 Torneo de Djibouti, carrera 10000 m, Solomon BERIHU, 1622523
@@ -2818,9 +2818,9 @@ Torneo de Djibouti, salto largo, Will CLAYE, 943
 Torneo de Djibouti, salto triple, Diana ZAGAINOVA, 1992
 Torneo de Djibouti, salto triple, Hugues Fabrice ZANGO, 1989
 Torneo de Djibouti, salto triple, Thea LAFOND, 1985
-Torneo de Dominica, carrera 100 m, Andre DE GRASSE, 9777
-Torneo de Dominica, carrera 100 m, Arthur CISSÉ, 9795
-Torneo de Dominica, carrera 100 m, Tebogo MAMATHU, 9821
+Torneo de Dominica, carrera 100 m, Twanisha TERRY, 10042
+Torneo de Dominica, carrera 100 m, Blessing OKAGBARE, 10074
+Torneo de Dominica, carrera 100 m, Tyquendo TRACEY, 10086
 Torneo de Dominica, carrera 10000 m, Berehanu TSEGU, 1611919
 Torneo de Dominica, carrera 10000 m, Jemal Yimer MEKONNEN, 1613589
 Torneo de Dominica, carrera 10000 m, Solomon BERIHU, 1616311
@@ -2878,9 +2878,9 @@ Torneo de Dominica, salto largo, Changzhou HUANG, 952
 Torneo de Dominica, salto triple, Andy DÍAZ, 1993
 Torneo de Dominica, salto triple, Will CLAYE, 1992
 Torneo de Dominica, salto triple, Liadagmis POVEA, 1985
-Torneo de Dominican Republic, carrera 100 m, Mario BURKE, 9810
-Torneo de Dominican Republic, carrera 100 m, Twanisha TERRY, 9831
-Torneo de Dominican Republic, carrera 100 m, Dina ASHER-SMITH, 9922
+Torneo de Dominican Republic, carrera 100 m, Divine ODUDURU, 10011
+Torneo de Dominican Republic, carrera 100 m, Roberto SKYERS, 10051
+Torneo de Dominican Republic, carrera 100 m, Andre DE GRASSE, 10055
 Torneo de Dominican Republic, carrera 10000 m, Tsehay GEMECHU, 1608234
 Torneo de Dominican Republic, carrera 10000 m, Girmawit GEBRZIHAIR, 1614596
 Torneo de Dominican Republic, carrera 10000 m, Hagos GEBRHIWET, 1614612
@@ -2938,9 +2938,9 @@ Torneo de Dominican Republic, salto largo, Maryna BEKH-ROMANCHUK, 953
 Torneo de Dominican Republic, salto triple, Yekaterina KONEVA, 1994
 Torneo de Dominican Republic, salto triple, Pedro Pablo PICHARDO, 1994
 Torneo de Dominican Republic, salto triple, Olga RYPAKOVA, 1990
-Torneo de Ecuador, carrera 100 m, Andre DE GRASSE, 9767
-Torneo de Ecuador, carrera 100 m, Elaine THOMPSON, 9821
-Torneo de Ecuador, carrera 100 m, Zharnel HUGHES, 9841
+Torneo de Ecuador, carrera 100 m, Twanisha TERRY, 10051
+Torneo de Ecuador, carrera 100 m, Justin GATLIN, 10059
+Torneo de Ecuador, carrera 100 m, Michael RODGERS, 10111
 Torneo de Ecuador, carrera 10000 m, Rodgers KWEMOI, 1608075
 Torneo de Ecuador, carrera 10000 m, Selemon BAREGA, 1610717
 Torneo de Ecuador, carrera 10000 m, Letesenbet GIDEY, 1612923
@@ -2998,9 +2998,9 @@ Torneo de Ecuador, salto largo, Caterine IBARGUEN, 953
 Torneo de Ecuador, salto triple, Olga RYPAKOVA, 1995
 Torneo de Ecuador, salto triple, Thea LAFOND, 1994
 Torneo de Ecuador, salto triple, Omar CRADDOCK, 1983
-Torneo de Egypt, carrera 100 m, Zharnel HUGHES, 9773
-Torneo de Egypt, carrera 100 m, Justin GATLIN, 9787
-Torneo de Egypt, carrera 100 m, Manqi GE, 9794
+Torneo de Egypt, carrera 100 m, Aaron BROWN, 10002
+Torneo de Egypt, carrera 100 m, Aleia HOBBS, 10031
+Torneo de Egypt, carrera 100 m, Kayla WHITE, 10073
 Torneo de Egypt, carrera 10000 m, Rosemary Monica WANJIRU, 1613185
 Torneo de Egypt, carrera 10000 m, Zeineba YIMER, 1613411
 Torneo de Egypt, carrera 10000 m, Mogos TUEMAY, 1615090
@@ -3058,9 +3058,9 @@ Torneo de Egypt, salto largo, Ese BRUME, 954
 Torneo de Egypt, salto triple, Liadagmis POVEA, 1994
 Torneo de Egypt, salto triple, Donald SCOTT, 1990
 Torneo de Egypt, salto triple, Kristin GIERISCH, 1983
-Torneo de El Salvador, carrera 100 m, Aleia HOBBS, 9824
-Torneo de El Salvador, carrera 100 m, Mujinga KAMBUNDJI, 9862
-Torneo de El Salvador, carrera 100 m, Michael RODGERS, 9870
+Torneo de El Salvador, carrera 100 m, Mario BURKE, 10005
+Torneo de El Salvador, carrera 100 m, Dafne SCHIPPERS, 10005
+Torneo de El Salvador, carrera 100 m, Raymond EKEVWO, 10019
 Torneo de El Salvador, carrera 10000 m, Gete ALEMAYEHU, 1610122
 Torneo de El Salvador, carrera 10000 m, Susan KRUMINS, 1610183
 Torneo de El Salvador, carrera 10000 m, Solomon BERIHU, 1613073
@@ -3118,9 +3118,9 @@ Torneo de El Salvador, salto largo, Xinglong GAO, 952
 Torneo de El Salvador, salto triple, Pedro Pablo PICHARDO, 1993
 Torneo de El Salvador, salto triple, Will CLAYE, 1991
 Torneo de El Salvador, salto triple, Christian TAYLOR, 1987
-Torneo de Equatorial Guinea, carrera 100 m, Michael RODGERS, 9769
-Torneo de Equatorial Guinea, carrera 100 m, Murielle AHOURÉ, 9770
-Torneo de Equatorial Guinea, carrera 100 m, Marie-Josée TA LOU, 9777
+Torneo de Equatorial Guinea, carrera 100 m, Twanisha TERRY, 10020
+Torneo de Equatorial Guinea, carrera 100 m, Dina ASHER-SMITH, 10064
+Torneo de Equatorial Guinea, carrera 100 m, Aleia HOBBS, 10097
 Torneo de Equatorial Guinea, carrera 10000 m, Degitu AZIMERAW, 1610703
 Torneo de Equatorial Guinea, carrera 10000 m, Rhonex KIPRUTO, 1618117
 Torneo de Equatorial Guinea, carrera 10000 m, Dera DIDA, 1618977
@@ -3178,9 +3178,9 @@ Torneo de Equatorial Guinea, salto largo, Caterine IBARGUEN, 947
 Torneo de Equatorial Guinea, salto triple, Yanis Esmeralda DAVID, 1983
 Torneo de Equatorial Guinea, salto triple, Yosiris URRUTIA, 1978
 Torneo de Equatorial Guinea, salto triple, Diana ZAGAINOVA, 1977
-Torneo de Eritrea, carrera 100 m, Reece PRESCOD, 9791
-Torneo de Eritrea, carrera 100 m, Tebogo MAMATHU, 9804
-Torneo de Eritrea, carrera 100 m, Abdul Hakim SANI BROWN, 9843
+Torneo de Eritrea, carrera 100 m, Twanisha TERRY, 10003
+Torneo de Eritrea, carrera 100 m, Mujinga KAMBUNDJI, 10004
+Torneo de Eritrea, carrera 100 m, Teahna DANIELS, 10011
 Torneo de Eritrea, carrera 10000 m, Hagos GEBRHIWET, 1608136
 Torneo de Eritrea, carrera 10000 m, Hellen OBIRI, 1608470
 Torneo de Eritrea, carrera 10000 m, Marielle HALL, 1609957
@@ -3238,9 +3238,9 @@ Torneo de Eritrea, salto largo, Andwuelle WRIGHT, 945
 Torneo de Eritrea, salto triple, Olga RYPAKOVA, 1996
 Torneo de Eritrea, salto triple, Benjamin WILLIAMS, 1986
 Torneo de Eritrea, salto triple, Hugues Fabrice ZANGO, 1985
-Torneo de Estonia, carrera 100 m, Briana WILLIAMS, 9792
-Torneo de Estonia, carrera 100 m, Yuki KOIKE, 9795
-Torneo de Estonia, carrera 100 m, Zharnel HUGHES, 9800
+Torneo de Estonia, carrera 100 m, Christian COLEMAN, 10030
+Torneo de Estonia, carrera 100 m, Yongli WEI, 10054
+Torneo de Estonia, carrera 100 m, Noah LYLES, 10066
 Torneo de Estonia, carrera 10000 m, Abdallah Kibet MANDE, 1609642
 Torneo de Estonia, carrera 10000 m, Letesenbet GIDEY, 1611840
 Torneo de Estonia, carrera 10000 m, Abadi HADIS, 1612166
@@ -3298,9 +3298,9 @@ Torneo de Estonia, salto largo, Keturah ORJI, 954
 Torneo de Estonia, salto triple, Pedro Pablo PICHARDO, 1994
 Torneo de Estonia, salto triple, Alexsandro MELO, 1987
 Torneo de Estonia, salto triple, Paraskevi PAPACHRISTOU, 1983
-Torneo de Ethiopia, carrera 100 m, Andre DE GRASSE, 9779
-Torneo de Ethiopia, carrera 100 m, Raymond EKEVWO, 9801
-Torneo de Ethiopia, carrera 100 m, Kiara GRANT, 9825
+Torneo de Ethiopia, carrera 100 m, Murielle AHOURÉ, 10060
+Torneo de Ethiopia, carrera 100 m, Christian COLEMAN, 10124
+Torneo de Ethiopia, carrera 100 m, Zharnel HUGHES, 10131
 Torneo de Ethiopia, carrera 10000 m, Abadi HADIS, 1611004
 Torneo de Ethiopia, carrera 10000 m, Selemon BAREGA, 1616769
 Torneo de Ethiopia, carrera 10000 m, Girmawit GEBRZIHAIR, 1617273
@@ -3358,9 +3358,9 @@ Torneo de Ethiopia, salto largo, Tori BOWIE, 947
 Torneo de Ethiopia, salto triple, Omar CRADDOCK, 1994
 Torneo de Ethiopia, salto triple, Donald SCOTT, 1989
 Torneo de Ethiopia, salto triple, Benjamin WILLIAMS, 1984
-Torneo de Fiji, carrera 100 m, Noah LYLES, 9813
-Torneo de Fiji, carrera 100 m, Divine ODUDURU, 9815
-Torneo de Fiji, carrera 100 m, Carina HORN, 9897
+Torneo de Fiji, carrera 100 m, Akani SIMBINE, 10020
+Torneo de Fiji, carrera 100 m, Cravon GILLESPIE, 10064
+Torneo de Fiji, carrera 100 m, Yuki KOIKE, 10090
 Torneo de Fiji, carrera 10000 m, Sifan HASSAN, 1608968
 Torneo de Fiji, carrera 10000 m, Andamlak BELIHU, 1612607
 Torneo de Fiji, carrera 10000 m, Mogos TUEMAY, 1620715
@@ -3418,9 +3418,9 @@ Torneo de Fiji, salto largo, Yanis Esmeralda DAVID, 947
 Torneo de Fiji, salto triple, Kristin GIERISCH, 1995
 Torneo de Fiji, salto triple, Donald SCOTT, 1989
 Torneo de Fiji, salto triple, Patrícia MAMONA, 1988
-Torneo de Finland, carrera 100 m, Dafne SCHIPPERS, 9793
-Torneo de Finland, carrera 100 m, Tebogo MAMATHU, 9794
-Torneo de Finland, carrera 100 m, Mujinga KAMBUNDJI, 9831
+Torneo de Finland, carrera 100 m, Marie-Josée TA LOU, 10007
+Torneo de Finland, carrera 100 m, Michael RODGERS, 10037
+Torneo de Finland, carrera 100 m, Blessing OKAGBARE, 10048
 Torneo de Finland, carrera 10000 m, Hagos GEBRHIWET, 1608769
 Torneo de Finland, carrera 10000 m, Molly HUDDLE, 1612098
 Torneo de Finland, carrera 10000 m, Girmawit GEBRZIHAIR, 1622314
@@ -3478,9 +3478,9 @@ Torneo de Finland, salto largo, Hilary KPATCHA, 953
 Torneo de Finland, salto triple, Tori FRANKLIN, 1989
 Torneo de Finland, salto triple, Ana PELETEIRO, 1974
 Torneo de Finland, salto triple, Liadagmis POVEA, 1967
-Torneo de France, carrera 100 m, Blessing OKAGBARE, 9783
-Torneo de France, carrera 100 m, Elaine THOMPSON, 9822
-Torneo de France, carrera 100 m, Arthur CISSÉ, 9850
+Torneo de France, carrera 100 m, Tyquendo TRACEY, 10044
+Torneo de France, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10050
+Torneo de France, carrera 100 m, Aaron BROWN, 10076
 Torneo de France, carrera 10000 m, Gete ALEMAYEHU, 1616674
 Torneo de France, carrera 10000 m, Rhonex KIPRUTO, 1619846
 Torneo de France, carrera 10000 m, Degitu AZIMERAW, 1620044
@@ -3538,9 +3538,9 @@ Torneo de France, salto largo, Jianan WANG, 953
 Torneo de France, salto triple, Ruiting WU, 1994
 Torneo de France, salto triple, Kimberly WILLIAMS, 1984
 Torneo de France, salto triple, Nadia EKE, 1983
-Torneo de French Guiana, carrera 100 m, Mario BURKE, 9811
-Torneo de French Guiana, carrera 100 m, Mujinga KAMBUNDJI, 9825
-Torneo de French Guiana, carrera 100 m, Elaine THOMPSON, 9826
+Torneo de French Guiana, carrera 100 m, Justin GATLIN, 10001
+Torneo de French Guiana, carrera 100 m, Zharnel HUGHES, 10006
+Torneo de French Guiana, carrera 100 m, Marie-Josée TA LOU, 10045
 Torneo de French Guiana, carrera 10000 m, Mohammed AHMED, 1609287
 Torneo de French Guiana, carrera 10000 m, Tsehay GEMECHU, 1612112
 Torneo de French Guiana, carrera 10000 m, Solomon BERIHU, 1612206
@@ -3598,9 +3598,9 @@ Torneo de French Guiana, salto largo, Ruswahl SAMAAI, 954
 Torneo de French Guiana, salto triple, Darya NIDBAYKINA, 1994
 Torneo de French Guiana, salto triple, Christian TAYLOR, 1990
 Torneo de French Guiana, salto triple, Liadagmis POVEA, 1981
-Torneo de Gabon, carrera 100 m, Tyquendo TRACEY, 9787
-Torneo de Gabon, carrera 100 m, Michael RODGERS, 9805
-Torneo de Gabon, carrera 100 m, Roberto SKYERS, 9815
+Torneo de Gabon, carrera 100 m, Reece PRESCOD, 10023
+Torneo de Gabon, carrera 100 m, Briana WILLIAMS, 10032
+Torneo de Gabon, carrera 100 m, Mario BURKE, 10054
 Torneo de Gabon, carrera 10000 m, Zeineba YIMER, 1611524
 Torneo de Gabon, carrera 10000 m, Julien WANDERS, 1615599
 Torneo de Gabon, carrera 10000 m, Netsanet GUDETA, 1618885
@@ -3658,9 +3658,9 @@ Torneo de Gabon, salto largo, Caterine IBARGUEN, 954
 Torneo de Gabon, salto triple, Keturah ORJI, 1996
 Torneo de Gabon, salto triple, Necatí ER, 1993
 Torneo de Gabon, salto triple, Hugues Fabrice ZANGO, 1992
-Torneo de Gambia, carrera 100 m, Yuki KOIKE, 9764
-Torneo de Gambia, carrera 100 m, Teahna DANIELS, 9825
-Torneo de Gambia, carrera 100 m, Divine ODUDURU, 9831
+Torneo de Gambia, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10002
+Torneo de Gambia, carrera 100 m, Arthur CISSÉ, 10011
+Torneo de Gambia, carrera 100 m, Twanisha TERRY, 10049
 Torneo de Gambia, carrera 10000 m, Yemaneberhan CRIPPA, 1612009
 Torneo de Gambia, carrera 10000 m, Mohammed AHMED, 1619234
 Torneo de Gambia, carrera 10000 m, Yomif KEJELCHA, 1621090
@@ -3718,9 +3718,9 @@ Torneo de Gambia, salto largo, Tajay GAYLE, 948
 Torneo de Gambia, salto triple, Benjamin WILLIAMS, 1990
 Torneo de Gambia, salto triple, Kimberly WILLIAMS, 1986
 Torneo de Gambia, salto triple, Will CLAYE, 1985
-Torneo de Georgia, carrera 100 m, Arthur CISSÉ, 9760
-Torneo de Georgia, carrera 100 m, ShaCarri RICHARDSON, 9789
-Torneo de Georgia, carrera 100 m, Kiara GRANT, 9802
+Torneo de Georgia, carrera 100 m, Reece PRESCOD, 10092
+Torneo de Georgia, carrera 100 m, Twanisha TERRY, 10143
+Torneo de Georgia, carrera 100 m, Yuki KOIKE, 10192
 Torneo de Georgia, carrera 10000 m, Abdallah Kibet MANDE, 1610222
 Torneo de Georgia, carrera 10000 m, Letesenbet GIDEY, 1610525
 Torneo de Georgia, carrera 10000 m, Susan KRUMINS, 1612291
@@ -3778,9 +3778,9 @@ Torneo de Georgia, salto largo, Chantel MALONE, 951
 Torneo de Georgia, salto triple, Yaming ZHU, 1990
 Torneo de Georgia, salto triple, Olga RYPAKOVA, 1988
 Torneo de Georgia, salto triple, Olha SALADUKHA, 1973
-Torneo de Germany, carrera 100 m, Jonielle SMITH, 9763
-Torneo de Germany, carrera 100 m, Yongli WEI, 9820
-Torneo de Germany, carrera 100 m, Teahna DANIELS, 9856
+Torneo de Germany, carrera 100 m, ShaCarri RICHARDSON, 10019
+Torneo de Germany, carrera 100 m, Yuki KOIKE, 10072
+Torneo de Germany, carrera 100 m, Tyquendo TRACEY, 10098
 Torneo de Germany, carrera 10000 m, Rhonex KIPRUTO, 1613377
 Torneo de Germany, carrera 10000 m, Abdallah Kibet MANDE, 1631266
 Torneo de Germany, carrera 10000 m, Girmawit GEBRZIHAIR, 1631961
@@ -3838,9 +3838,9 @@ Torneo de Germany, salto largo, Changzhou HUANG, 950
 Torneo de Germany, salto triple, Omar CRADDOCK, 1994
 Torneo de Germany, salto triple, Alexsandro MELO, 1991
 Torneo de Germany, salto triple, Alexis COPELLO, 1982
-Torneo de Ghana, carrera 100 m, Twanisha TERRY, 9788
-Torneo de Ghana, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9826
-Torneo de Ghana, carrera 100 m, Mujinga KAMBUNDJI, 9896
+Torneo de Ghana, carrera 100 m, Tebogo MAMATHU, 10018
+Torneo de Ghana, carrera 100 m, Blessing OKAGBARE, 10048
+Torneo de Ghana, carrera 100 m, Aaron BROWN, 10053
 Torneo de Ghana, carrera 10000 m, Solomon BERIHU, 1608775
 Torneo de Ghana, carrera 10000 m, Marielle HALL, 1611628
 Torneo de Ghana, carrera 10000 m, Lopez LOMONG, 1614186
@@ -3898,9 +3898,9 @@ Torneo de Ghana, salto largo, Miltiadis TENTOGLOU, 952
 Torneo de Ghana, salto triple, Kimberly WILLIAMS, 1995
 Torneo de Ghana, salto triple, Yanis Esmeralda DAVID, 1992
 Torneo de Ghana, salto triple, Nadia EKE, 1989
-Torneo de Greece, carrera 100 m, Kiara PARKER, 9765
-Torneo de Greece, carrera 100 m, Kiara GRANT, 9769
-Torneo de Greece, carrera 100 m, Abdul Hakim SANI BROWN, 9793
+Torneo de Greece, carrera 100 m, Yohan BLAKE, 10041
+Torneo de Greece, carrera 100 m, Raymond EKEVWO, 10074
+Torneo de Greece, carrera 100 m, Mujinga KAMBUNDJI, 10089
 Torneo de Greece, carrera 10000 m, Susan KRUMINS, 1621746
 Torneo de Greece, carrera 10000 m, Rhonex KIPRUTO, 1624648
 Torneo de Greece, carrera 10000 m, Abdallah Kibet MANDE, 1635618
@@ -3958,9 +3958,9 @@ Torneo de Greece, salto largo, Miltiadis TENTOGLOU, 951
 Torneo de Greece, salto triple, Shanieka RICKETTS, 1986
 Torneo de Greece, salto triple, Chengetayi MAPAYA, 1986
 Torneo de Greece, salto triple, Necatí ER, 1983
-Torneo de Grenada, carrera 100 m, Kiara GRANT, 9813
-Torneo de Grenada, carrera 100 m, Andre DE GRASSE, 9818
-Torneo de Grenada, carrera 100 m, Elaine THOMPSON, 9846
+Torneo de Grenada, carrera 100 m, Noah LYLES, 10014
+Torneo de Grenada, carrera 100 m, Michael RODGERS, 10031
+Torneo de Grenada, carrera 100 m, Kayla WHITE, 10033
 Torneo de Grenada, carrera 10000 m, Netsanet GUDETA, 1614030
 Torneo de Grenada, carrera 10000 m, Hellen OBIRI, 1614683
 Torneo de Grenada, carrera 10000 m, Yomif KEJELCHA, 1617005
@@ -4018,9 +4018,9 @@ Torneo de Grenada, salto largo, Yaoguang ZHANG, 947
 Torneo de Grenada, salto triple, Yulimar ROJAS, 1988
 Torneo de Grenada, salto triple, Olga RYPAKOVA, 1988
 Torneo de Grenada, salto triple, Ruiting WU, 1984
-Torneo de Guatemala, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9807
-Torneo de Guatemala, carrera 100 m, Reece PRESCOD, 9810
-Torneo de Guatemala, carrera 100 m, Marie-Josée TA LOU, 9837
+Torneo de Guatemala, carrera 100 m, Blessing OKAGBARE, 10014
+Torneo de Guatemala, carrera 100 m, Justin GATLIN, 10033
+Torneo de Guatemala, carrera 100 m, Andre DE GRASSE, 10033
 Torneo de Guatemala, carrera 10000 m, Tamirat TOLA, 1609134
 Torneo de Guatemala, carrera 10000 m, Tsehay GEMECHU, 1610997
 Torneo de Guatemala, carrera 10000 m, Andamlak BELIHU, 1611818
@@ -4078,9 +4078,9 @@ Torneo de Guatemala, salto largo, Nafissatou THIAM, 951
 Torneo de Guatemala, salto triple, Tori FRANKLIN, 1987
 Torneo de Guatemala, salto triple, Ana PELETEIRO, 1982
 Torneo de Guatemala, salto triple, Diana ZAGAINOVA, 1979
-Torneo de Guinea, carrera 100 m, Cravon GILLESPIE, 9779
-Torneo de Guinea, carrera 100 m, Dafne SCHIPPERS, 9797
-Torneo de Guinea, carrera 100 m, Arthur CISSÉ, 9799
+Torneo de Guinea, carrera 100 m, Aaron BROWN, 10031
+Torneo de Guinea, carrera 100 m, Noah LYLES, 10083
+Torneo de Guinea, carrera 100 m, Abdul Hakim SANI BROWN, 10085
 Torneo de Guinea, carrera 10000 m, Tsigie GEBRESELAMA, 1610056
 Torneo de Guinea, carrera 10000 m, Berehanu TSEGU, 1610395
 Torneo de Guinea, carrera 10000 m, Sifan HASSAN, 1623829
@@ -4138,9 +4138,9 @@ Torneo de Guinea, salto largo, Jeff HENDERSON, 949
 Torneo de Guinea, salto triple, Kristin GIERISCH, 1985
 Torneo de Guinea, salto triple, Darya NIDBAYKINA, 1983
 Torneo de Guinea, salto triple, Patrícia MAMONA, 1983
-Torneo de Guinea-Bissau, carrera 100 m, Blessing OKAGBARE, 9760
-Torneo de Guinea-Bissau, carrera 100 m, Manqi GE, 9761
-Torneo de Guinea-Bissau, carrera 100 m, Carina HORN, 9800
+Torneo de Guinea-Bissau, carrera 100 m, Zharnel HUGHES, 10007
+Torneo de Guinea-Bissau, carrera 100 m, Yohan BLAKE, 10023
+Torneo de Guinea-Bissau, carrera 100 m, Reece PRESCOD, 10024
 Torneo de Guinea-Bissau, carrera 10000 m, Zeineba YIMER, 1612593
 Torneo de Guinea-Bissau, carrera 10000 m, Abdallah Kibet MANDE, 1624081
 Torneo de Guinea-Bissau, carrera 10000 m, Julien WANDERS, 1626757
@@ -4198,9 +4198,9 @@ Torneo de Guinea-Bissau, salto largo, Zarck VISSER, 954
 Torneo de Guinea-Bissau, salto triple, Kristin GIERISCH, 1995
 Torneo de Guinea-Bissau, salto triple, Shanieka RICKETTS, 1983
 Torneo de Guinea-Bissau, salto triple, Yulimar ROJAS, 1982
-Torneo de Guyana, carrera 100 m, Jonielle SMITH, 9776
-Torneo de Guyana, carrera 100 m, Tynia GAITHER, 9822
-Torneo de Guyana, carrera 100 m, Marie-Josée TA LOU, 9839
+Torneo de Guyana, carrera 100 m, Murielle AHOURÉ, 10044
+Torneo de Guyana, carrera 100 m, Michael RODGERS, 10071
+Torneo de Guyana, carrera 100 m, Kayla WHITE, 10081
 Torneo de Guyana, carrera 10000 m, Senbere TEFERI, 1608244
 Torneo de Guyana, carrera 10000 m, Selemon BAREGA, 1608636
 Torneo de Guyana, carrera 10000 m, Julien WANDERS, 1618783
@@ -4258,9 +4258,9 @@ Torneo de Guyana, salto largo, Yanis Esmeralda DAVID, 946
 Torneo de Guyana, salto triple, Benjamin WILLIAMS, 1996
 Torneo de Guyana, salto triple, Yekaterina KONEVA, 1985
 Torneo de Guyana, salto triple, Paraskevi PAPACHRISTOU, 1978
-Torneo de Haiti, carrera 100 m, Christian COLEMAN, 9777
-Torneo de Haiti, carrera 100 m, Andre DE GRASSE, 9872
-Torneo de Haiti, carrera 100 m, Justin GATLIN, 9901
+Torneo de Haiti, carrera 100 m, Yohan BLAKE, 10002
+Torneo de Haiti, carrera 100 m, Cravon GILLESPIE, 10007
+Torneo de Haiti, carrera 100 m, Carina HORN, 10018
 Torneo de Haiti, carrera 10000 m, Hagos GEBRHIWET, 1610252
 Torneo de Haiti, carrera 10000 m, Gete ALEMAYEHU, 1616399
 Torneo de Haiti, carrera 10000 m, Susan KRUMINS, 1616708
@@ -4318,9 +4318,9 @@ Torneo de Haiti, salto largo, Steffin MCCARTER, 952
 Torneo de Haiti, salto triple, Patrícia MAMONA, 1994
 Torneo de Haiti, salto triple, Necatí ER, 1984
 Torneo de Haiti, salto triple, Ruiting WU, 1969
-Torneo de Honduras, carrera 100 m, Christian COLEMAN, 9769
-Torneo de Honduras, carrera 100 m, Briana WILLIAMS, 9771
-Torneo de Honduras, carrera 100 m, Blessing OKAGBARE, 9789
+Torneo de Honduras, carrera 100 m, Roberto SKYERS, 10053
+Torneo de Honduras, carrera 100 m, Manqi GE, 10069
+Torneo de Honduras, carrera 100 m, Justin GATLIN, 10072
 Torneo de Honduras, carrera 10000 m, Hellen OBIRI, 1609174
 Torneo de Honduras, carrera 10000 m, Girmawit GEBRZIHAIR, 1610538
 Torneo de Honduras, carrera 10000 m, Abadi HADIS, 1618728
@@ -4378,9 +4378,9 @@ Torneo de Honduras, salto largo, Maykel MASSÓ, 953
 Torneo de Honduras, salto triple, Shanieka RICKETTS, 1994
 Torneo de Honduras, salto triple, Caterine IBARGUEN, 1988
 Torneo de Honduras, salto triple, Nadia EKE, 1983
-Torneo de Hungary, carrera 100 m, Noah LYLES, 9767
-Torneo de Hungary, carrera 100 m, Aaron BROWN, 9798
-Torneo de Hungary, carrera 100 m, Tebogo MAMATHU, 9798
+Torneo de Hungary, carrera 100 m, Manqi GE, 10017
+Torneo de Hungary, carrera 100 m, Elaine THOMPSON, 10029
+Torneo de Hungary, carrera 100 m, Divine ODUDURU, 10115
 Torneo de Hungary, carrera 10000 m, Emily SISSON, 1609185
 Torneo de Hungary, carrera 10000 m, Solomon BERIHU, 1620961
 Torneo de Hungary, carrera 10000 m, Tamirat TOLA, 1623727
@@ -4438,9 +4438,9 @@ Torneo de Hungary, salto largo, Florentina Costina IUSCO, 952
 Torneo de Hungary, salto triple, Hugues Fabrice ZANGO, 1982
 Torneo de Hungary, salto triple, Nelson ÉVORA, 1982
 Torneo de Hungary, salto triple, Christian TAYLOR, 1981
-Torneo de Iceland, carrera 100 m, Dafne SCHIPPERS, 9816
-Torneo de Iceland, carrera 100 m, Mario BURKE, 9825
-Torneo de Iceland, carrera 100 m, Kiara PARKER, 9872
+Torneo de Iceland, carrera 100 m, Carina HORN, 10059
+Torneo de Iceland, carrera 100 m, Reece PRESCOD, 10067
+Torneo de Iceland, carrera 100 m, Briana WILLIAMS, 10071
 Torneo de Iceland, carrera 10000 m, Lopez LOMONG, 1615978
 Torneo de Iceland, carrera 10000 m, Zeineba YIMER, 1623386
 Torneo de Iceland, carrera 10000 m, Senbere TEFERI, 1624580
@@ -4498,9 +4498,9 @@ Torneo de Iceland, salto largo, Maryna BEKH-ROMANCHUK, 950
 Torneo de Iceland, salto triple, Kristin GIERISCH, 1995
 Torneo de Iceland, salto triple, Nelson ÉVORA, 1993
 Torneo de Iceland, salto triple, Donald SCOTT, 1992
-Torneo de India, carrera 100 m, Andre DE GRASSE, 9770
-Torneo de India, carrera 100 m, Isiah YOUNG, 9793
-Torneo de India, carrera 100 m, Aaron BROWN, 9825
+Torneo de India, carrera 100 m, Tyquendo TRACEY, 10006
+Torneo de India, carrera 100 m, Carina HORN, 10009
+Torneo de India, carrera 100 m, Dina ASHER-SMITH, 10014
 Torneo de India, carrera 10000 m, Tamirat TOLA, 1614729
 Torneo de India, carrera 10000 m, Degitu AZIMERAW, 1619205
 Torneo de India, carrera 10000 m, Yasemin CAN, 1625660
@@ -4558,9 +4558,9 @@ Torneo de India, salto largo, Ivana ŠPANOVIĆ, 947
 Torneo de India, salto triple, Caterine IBARGUEN, 1987
 Torneo de India, salto triple, Ruiting WU, 1983
 Torneo de India, salto triple, Nadia EKE, 1982
-Torneo de Indonesia, carrera 100 m, Tyquendo TRACEY, 9788
-Torneo de Indonesia, carrera 100 m, Zharnel HUGHES, 9814
-Torneo de Indonesia, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9929
+Torneo de Indonesia, carrera 100 m, Twanisha TERRY, 10021
+Torneo de Indonesia, carrera 100 m, Jonielle SMITH, 10023
+Torneo de Indonesia, carrera 100 m, Kiara GRANT, 10030
 Torneo de Indonesia, carrera 10000 m, Sifan HASSAN, 1610462
 Torneo de Indonesia, carrera 10000 m, Vincent Kiprotich KIBET, 1615248
 Torneo de Indonesia, carrera 10000 m, Mogos TUEMAY, 1617533
@@ -4618,9 +4618,9 @@ Torneo de Indonesia, salto largo, Brittney REESE, 951
 Torneo de Indonesia, salto triple, Paraskevi PAPACHRISTOU, 1996
 Torneo de Indonesia, salto triple, Thea LAFOND, 1996
 Torneo de Indonesia, salto triple, Nadia EKE, 1994
-Torneo de Iran, carrera 100 m, Twanisha TERRY, 9800
-Torneo de Iran, carrera 100 m, Teahna DANIELS, 9832
-Torneo de Iran, carrera 100 m, Elaine THOMPSON, 9856
+Torneo de Iran, carrera 100 m, Tebogo MAMATHU, 10002
+Torneo de Iran, carrera 100 m, Murielle AHOURÉ, 10027
+Torneo de Iran, carrera 100 m, Christian COLEMAN, 10033
 Torneo de Iran, carrera 10000 m, Yomif KEJELCHA, 1609994
 Torneo de Iran, carrera 10000 m, Stephanie TWELL, 1617937
 Torneo de Iran, carrera 10000 m, Andamlak BELIHU, 1620793
@@ -4678,9 +4678,9 @@ Torneo de Iran, salto largo, Darya KLISHINA, 950
 Torneo de Iran, salto triple, Christian TAYLOR, 1983
 Torneo de Iran, salto triple, Ana PELETEIRO, 1982
 Torneo de Iran, salto triple, Darya NIDBAYKINA, 1978
-Torneo de Iraq, carrera 100 m, Dafne SCHIPPERS, 9830
-Torneo de Iraq, carrera 100 m, Dina ASHER-SMITH, 9839
-Torneo de Iraq, carrera 100 m, Yuki KOIKE, 9872
+Torneo de Iraq, carrera 100 m, Andre DE GRASSE, 10009
+Torneo de Iraq, carrera 100 m, Mario BURKE, 10018
+Torneo de Iraq, carrera 100 m, Yohan BLAKE, 10020
 Torneo de Iraq, carrera 10000 m, Zeineba YIMER, 1610216
 Torneo de Iraq, carrera 10000 m, Letesenbet GIDEY, 1616636
 Torneo de Iraq, carrera 10000 m, Yasemin CAN, 1626294
@@ -4738,9 +4738,9 @@ Torneo de Iraq, salto largo, Chantel MALONE, 954
 Torneo de Iraq, salto triple, Jordan Alejandro DÍAZ FORTUN, 1992
 Torneo de Iraq, salto triple, Diana ZAGAINOVA, 1984
 Torneo de Iraq, salto triple, Cristian NÁPOLES, 1979
-Torneo de Ireland, carrera 100 m, Aaron BROWN, 9797
-Torneo de Ireland, carrera 100 m, Michael RODGERS, 9870
-Torneo de Ireland, carrera 100 m, Kiara PARKER, 9877
+Torneo de Ireland, carrera 100 m, Teahna DANIELS, 10010
+Torneo de Ireland, carrera 100 m, Dina ASHER-SMITH, 10011
+Torneo de Ireland, carrera 100 m, Kiara GRANT, 10018
 Torneo de Ireland, carrera 10000 m, Rodgers KWEMOI, 1611534
 Torneo de Ireland, carrera 10000 m, Marielle HALL, 1616677
 Torneo de Ireland, carrera 10000 m, Joshua CHEPTEGEI, 1622827
@@ -4798,9 +4798,9 @@ Torneo de Ireland, salto largo, Zarck VISSER, 944
 Torneo de Ireland, salto triple, Donald SCOTT, 1994
 Torneo de Ireland, salto triple, Darya NIDBAYKINA, 1993
 Torneo de Ireland, salto triple, Shanieka RICKETTS, 1992
-Torneo de Israel, carrera 100 m, Blessing OKAGBARE, 9763
-Torneo de Israel, carrera 100 m, Michael RODGERS, 9765
-Torneo de Israel, carrera 100 m, Tebogo MAMATHU, 9815
+Torneo de Israel, carrera 100 m, Akani SIMBINE, 10008
+Torneo de Israel, carrera 100 m, Kiara PARKER, 10011
+Torneo de Israel, carrera 100 m, Twanisha TERRY, 10017
 Torneo de Israel, carrera 10000 m, Rhonex KIPRUTO, 1608528
 Torneo de Israel, carrera 10000 m, Andamlak BELIHU, 1608767
 Torneo de Israel, carrera 10000 m, Hagos GEBRHIWET, 1612939
@@ -4858,9 +4858,9 @@ Torneo de Israel, salto largo, Yelena SOKOLOVA, 952
 Torneo de Israel, salto triple, Yaming ZHU, 1992
 Torneo de Israel, salto triple, Cristian NÁPOLES, 1991
 Torneo de Israel, salto triple, Yanis Esmeralda DAVID, 1985
-Torneo de Italy, carrera 100 m, Jonielle SMITH, 9774
-Torneo de Italy, carrera 100 m, Christian COLEMAN, 9784
-Torneo de Italy, carrera 100 m, Noah LYLES, 9818
+Torneo de Italy, carrera 100 m, Arthur CISSÉ, 10012
+Torneo de Italy, carrera 100 m, Marie-Josée TA LOU, 10018
+Torneo de Italy, carrera 100 m, Elaine THOMPSON, 10032
 Torneo de Italy, carrera 10000 m, Mohammed AHMED, 1608601
 Torneo de Italy, carrera 10000 m, Girmawit GEBRZIHAIR, 1613352
 Torneo de Italy, carrera 10000 m, Solomon BERIHU, 1617552
@@ -4918,9 +4918,9 @@ Torneo de Italy, salto largo, JuVaughn HARRISON, 955
 Torneo de Italy, salto triple, Yanis Esmeralda DAVID, 1991
 Torneo de Italy, salto triple, Yosiris URRUTIA, 1991
 Torneo de Italy, salto triple, Ruiting WU, 1991
-Torneo de Ivory Coast, carrera 100 m, Tynia GAITHER, 9760
-Torneo de Ivory Coast, carrera 100 m, Murielle AHOURÉ, 9799
-Torneo de Ivory Coast, carrera 100 m, Teahna DANIELS, 9804
+Torneo de Ivory Coast, carrera 100 m, Reece PRESCOD, 10046
+Torneo de Ivory Coast, carrera 100 m, Justin GATLIN, 10072
+Torneo de Ivory Coast, carrera 100 m, Cravon GILLESPIE, 10072
 Torneo de Ivory Coast, carrera 10000 m, Degitu AZIMERAW, 1619152
 Torneo de Ivory Coast, carrera 10000 m, Yasemin CAN, 1626449
 Torneo de Ivory Coast, carrera 10000 m, Jemal Yimer MEKONNEN, 1626745
@@ -4978,9 +4978,9 @@ Torneo de Ivory Coast, salto largo, Alina ROTARU, 954
 Torneo de Ivory Coast, salto triple, Liadagmis POVEA, 1992
 Torneo de Ivory Coast, salto triple, Yosiris URRUTIA, 1986
 Torneo de Ivory Coast, salto triple, Tori FRANKLIN, 1985
-Torneo de Jamaica, carrera 100 m, Mario BURKE, 9771
-Torneo de Jamaica, carrera 100 m, Yuki KOIKE, 9774
-Torneo de Jamaica, carrera 100 m, Murielle AHOURÉ, 9775
+Torneo de Jamaica, carrera 100 m, Christian COLEMAN, 10057
+Torneo de Jamaica, carrera 100 m, Aaron BROWN, 10089
+Torneo de Jamaica, carrera 100 m, Arthur CISSÉ, 10096
 Torneo de Jamaica, carrera 10000 m, Berehanu TSEGU, 1615278
 Torneo de Jamaica, carrera 10000 m, Rodgers KWEMOI, 1617728
 Torneo de Jamaica, carrera 10000 m, Gete ALEMAYEHU, 1617915
@@ -5038,9 +5038,9 @@ Torneo de Jamaica, salto largo, Darya KLISHINA, 948
 Torneo de Jamaica, salto triple, Paraskevi PAPACHRISTOU, 1993
 Torneo de Jamaica, salto triple, Pedro Pablo PICHARDO, 1990
 Torneo de Jamaica, salto triple, Chengetayi MAPAYA, 1990
-Torneo de Japan, carrera 100 m, Elaine THOMPSON, 9773
-Torneo de Japan, carrera 100 m, Yohan BLAKE, 9782
-Torneo de Japan, carrera 100 m, Arthur CISSÉ, 9783
+Torneo de Japan, carrera 100 m, Aaron BROWN, 10003
+Torneo de Japan, carrera 100 m, Mario BURKE, 10032
+Torneo de Japan, carrera 100 m, Marie-Josée TA LOU, 10056
 Torneo de Japan, carrera 10000 m, Berehanu TSEGU, 1613376
 Torneo de Japan, carrera 10000 m, Rhonex KIPRUTO, 1614981
 Torneo de Japan, carrera 10000 m, Netsanet GUDETA, 1616988
@@ -5098,9 +5098,9 @@ Torneo de Japan, salto largo, Kenyattia HACKWORTH, 954
 Torneo de Japan, salto triple, Paraskevi PAPACHRISTOU, 1995
 Torneo de Japan, salto triple, Ruiting WU, 1994
 Torneo de Japan, salto triple, Andy DÍAZ, 1974
-Torneo de Jordan, carrera 100 m, Aaron BROWN, 9764
-Torneo de Jordan, carrera 100 m, Carina HORN, 9777
-Torneo de Jordan, carrera 100 m, Marie-Josée TA LOU, 9787
+Torneo de Jordan, carrera 100 m, Blessing OKAGBARE, 10011
+Torneo de Jordan, carrera 100 m, Twanisha TERRY, 10027
+Torneo de Jordan, carrera 100 m, Michael RODGERS, 10031
 Torneo de Jordan, carrera 10000 m, Lopez LOMONG, 1617217
 Torneo de Jordan, carrera 10000 m, Gete ALEMAYEHU, 1618930
 Torneo de Jordan, carrera 10000 m, Agnes Jebet TIROP, 1619162
@@ -5158,9 +5158,9 @@ Torneo de Jordan, salto largo, Yanis Esmeralda DAVID, 953
 Torneo de Jordan, salto triple, Will CLAYE, 1983
 Torneo de Jordan, salto triple, Benjamin WILLIAMS, 1983
 Torneo de Jordan, salto triple, Chengetayi MAPAYA, 1983
-Torneo de Kazakhstan, carrera 100 m, Andre DE GRASSE, 9788
-Torneo de Kazakhstan, carrera 100 m, Justin GATLIN, 9815
-Torneo de Kazakhstan, carrera 100 m, Twanisha TERRY, 9829
+Torneo de Kazakhstan, carrera 100 m, Dina ASHER-SMITH, 10008
+Torneo de Kazakhstan, carrera 100 m, Carina HORN, 10026
+Torneo de Kazakhstan, carrera 100 m, Noah LYLES, 10055
 Torneo de Kazakhstan, carrera 10000 m, Hagos GEBRHIWET, 1608984
 Torneo de Kazakhstan, carrera 10000 m, Emily SISSON, 1610874
 Torneo de Kazakhstan, carrera 10000 m, Netsanet GUDETA, 1616547
@@ -5218,9 +5218,9 @@ Torneo de Kazakhstan, salto largo, Katarina JOHNSON-THOMPSON, 950
 Torneo de Kazakhstan, salto triple, Keturah ORJI, 1989
 Torneo de Kazakhstan, salto triple, Yaming ZHU, 1989
 Torneo de Kazakhstan, salto triple, Omar CRADDOCK, 1986
-Torneo de Kenya, carrera 100 m, Aaron BROWN, 9766
-Torneo de Kenya, carrera 100 m, Michael RODGERS, 9829
-Torneo de Kenya, carrera 100 m, Noah LYLES, 9846
+Torneo de Kenya, carrera 100 m, Tyquendo TRACEY, 10020
+Torneo de Kenya, carrera 100 m, Kayla WHITE, 10054
+Torneo de Kenya, carrera 100 m, Tynia GAITHER, 10069
 Torneo de Kenya, carrera 10000 m, Yemaneberhan CRIPPA, 1610047
 Torneo de Kenya, carrera 10000 m, Senbere TEFERI, 1617737
 Torneo de Kenya, carrera 10000 m, Abadi HADIS, 1623241
@@ -5278,9 +5278,9 @@ Torneo de Kenya, salto largo, Katarina JOHNSON-THOMPSON, 942
 Torneo de Kenya, salto triple, Dmitriy SOROKIN, 1996
 Torneo de Kenya, salto triple, Darya NIDBAYKINA, 1992
 Torneo de Kenya, salto triple, Necatí ER, 1991
-Torneo de Kiribati, carrera 100 m, Kiara PARKER, 9797
-Torneo de Kiribati, carrera 100 m, Murielle AHOURÉ, 9822
-Torneo de Kiribati, carrera 100 m, Christian COLEMAN, 9853
+Torneo de Kiribati, carrera 100 m, Aaron BROWN, 10035
+Torneo de Kiribati, carrera 100 m, Arthur CISSÉ, 10051
+Torneo de Kiribati, carrera 100 m, Abdul Hakim SANI BROWN, 10060
 Torneo de Kiribati, carrera 10000 m, Lopez LOMONG, 1621008
 Torneo de Kiribati, carrera 10000 m, Netsanet GUDETA, 1626546
 Torneo de Kiribati, carrera 10000 m, Sifan HASSAN, 1636225
@@ -5338,9 +5338,9 @@ Torneo de Kiribati, salto largo, Naa ANANG, 951
 Torneo de Kiribati, salto triple, Darya NIDBAYKINA, 1996
 Torneo de Kiribati, salto triple, Jordan Alejandro DÍAZ FORTUN, 1996
 Torneo de Kiribati, salto triple, Omar CRADDOCK, 1991
-Torneo de Kosovo, carrera 100 m, Kayla WHITE, 9774
-Torneo de Kosovo, carrera 100 m, Mujinga KAMBUNDJI, 9838
-Torneo de Kosovo, carrera 100 m, Yuki KOIKE, 9892
+Torneo de Kosovo, carrera 100 m, Zharnel HUGHES, 10002
+Torneo de Kosovo, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10003
+Torneo de Kosovo, carrera 100 m, Tynia GAITHER, 10040
 Torneo de Kosovo, carrera 10000 m, Tamirat TOLA, 1608079
 Torneo de Kosovo, carrera 10000 m, Stewart MCSWEYN, 1608164
 Torneo de Kosovo, carrera 10000 m, Marielle HALL, 1613424
@@ -5398,9 +5398,9 @@ Torneo de Kosovo, salto largo, Tissanna HICKLING, 953
 Torneo de Kosovo, salto triple, Caterine IBARGUEN, 1993
 Torneo de Kosovo, salto triple, Diana ZAGAINOVA, 1989
 Torneo de Kosovo, salto triple, Ana PELETEIRO, 1987
-Torneo de Kuwait, carrera 100 m, Tebogo MAMATHU, 9763
-Torneo de Kuwait, carrera 100 m, Andre DE GRASSE, 9776
-Torneo de Kuwait, carrera 100 m, ShaCarri RICHARDSON, 9813
+Torneo de Kuwait, carrera 100 m, Raymond EKEVWO, 10009
+Torneo de Kuwait, carrera 100 m, Justin GATLIN, 10023
+Torneo de Kuwait, carrera 100 m, Michael RODGERS, 10035
 Torneo de Kuwait, carrera 10000 m, Julien WANDERS, 1611611
 Torneo de Kuwait, carrera 10000 m, Yemaneberhan CRIPPA, 1613663
 Torneo de Kuwait, carrera 10000 m, Rhonex KIPRUTO, 1615436
@@ -5458,9 +5458,9 @@ Torneo de Kuwait, salto largo, Juan Miguel ECHEVARRÍA, 954
 Torneo de Kuwait, salto triple, Jordan Alejandro DÍAZ FORTUN, 1993
 Torneo de Kuwait, salto triple, Donald SCOTT, 1989
 Torneo de Kuwait, salto triple, Dmitriy SOROKIN, 1987
-Torneo de Kyrgyzstan, carrera 100 m, Tynia GAITHER, 9760
-Torneo de Kyrgyzstan, carrera 100 m, Reece PRESCOD, 9770
-Torneo de Kyrgyzstan, carrera 100 m, Aleia HOBBS, 9800
+Torneo de Kyrgyzstan, carrera 100 m, Yohan BLAKE, 10067
+Torneo de Kyrgyzstan, carrera 100 m, Kiara PARKER, 10118
+Torneo de Kyrgyzstan, carrera 100 m, Kiara GRANT, 10183
 Torneo de Kyrgyzstan, carrera 10000 m, Hagos GEBRHIWET, 1610366
 Torneo de Kyrgyzstan, carrera 10000 m, Berehanu TSEGU, 1621224
 Torneo de Kyrgyzstan, carrera 10000 m, Abadi HADIS, 1623162
@@ -5518,9 +5518,9 @@ Torneo de Kyrgyzstan, salto largo, Andwuelle WRIGHT, 950
 Torneo de Kyrgyzstan, salto triple, Darya NIDBAYKINA, 1993
 Torneo de Kyrgyzstan, salto triple, Andy DÍAZ, 1992
 Torneo de Kyrgyzstan, salto triple, Benjamin WILLIAMS, 1989
-Torneo de Laos, carrera 100 m, Zharnel HUGHES, 9781
-Torneo de Laos, carrera 100 m, Dafne SCHIPPERS, 9790
-Torneo de Laos, carrera 100 m, Roberto SKYERS, 9845
+Torneo de Laos, carrera 100 m, ShaCarri RICHARDSON, 10016
+Torneo de Laos, carrera 100 m, Tebogo MAMATHU, 10025
+Torneo de Laos, carrera 100 m, Yongli WEI, 10046
 Torneo de Laos, carrera 10000 m, Vincent Kiprotich KIBET, 1612952
 Torneo de Laos, carrera 10000 m, Julien WANDERS, 1621857
 Torneo de Laos, carrera 10000 m, Mogos TUEMAY, 1629909
@@ -5578,9 +5578,9 @@ Torneo de Laos, salto largo, Hilary KPATCHA, 954
 Torneo de Laos, salto triple, Liadagmis POVEA, 1988
 Torneo de Laos, salto triple, Keturah ORJI, 1978
 Torneo de Laos, salto triple, Kimberly WILLIAMS, 1977
-Torneo de Latvia, carrera 100 m, Marie-Josée TA LOU, 9760
-Torneo de Latvia, carrera 100 m, ShaCarri RICHARDSON, 9769
-Torneo de Latvia, carrera 100 m, Andre DE GRASSE, 9777
+Torneo de Latvia, carrera 100 m, Yongli WEI, 10006
+Torneo de Latvia, carrera 100 m, Jonielle SMITH, 10022
+Torneo de Latvia, carrera 100 m, Reece PRESCOD, 10046
 Torneo de Latvia, carrera 10000 m, Berehanu TSEGU, 1608954
 Torneo de Latvia, carrera 10000 m, Julien WANDERS, 1620132
 Torneo de Latvia, carrera 10000 m, Rosemary Monica WANJIRU, 1620334
@@ -5638,9 +5638,9 @@ Torneo de Latvia, salto largo, Shoutarou SHIROYAMA, 955
 Torneo de Latvia, salto triple, Ana PELETEIRO, 1985
 Torneo de Latvia, salto triple, Nelson ÉVORA, 1983
 Torneo de Latvia, salto triple, Jordan Alejandro DÍAZ FORTUN, 1979
-Torneo de Lebanon, carrera 100 m, Michael RODGERS, 9760
-Torneo de Lebanon, carrera 100 m, Elaine THOMPSON, 9769
-Torneo de Lebanon, carrera 100 m, Blessing OKAGBARE, 9795
+Torneo de Lebanon, carrera 100 m, Mujinga KAMBUNDJI, 10001
+Torneo de Lebanon, carrera 100 m, Twanisha TERRY, 10016
+Torneo de Lebanon, carrera 100 m, Andre DE GRASSE, 10058
 Torneo de Lebanon, carrera 10000 m, Mohammed AHMED, 1610675
 Torneo de Lebanon, carrera 10000 m, Abdallah Kibet MANDE, 1619649
 Torneo de Lebanon, carrera 10000 m, Degitu AZIMERAW, 1619852
@@ -5698,9 +5698,9 @@ Torneo de Lebanon, salto largo, Maykel MASSÓ, 947
 Torneo de Lebanon, salto triple, Ruiting WU, 1993
 Torneo de Lebanon, salto triple, Nelson ÉVORA, 1993
 Torneo de Lebanon, salto triple, Caterine IBARGUEN, 1991
-Torneo de Lesotho, carrera 100 m, Marie-Josée TA LOU, 9786
-Torneo de Lesotho, carrera 100 m, Aleia HOBBS, 9812
-Torneo de Lesotho, carrera 100 m, Divine ODUDURU, 9867
+Torneo de Lesotho, carrera 100 m, Christian COLEMAN, 10047
+Torneo de Lesotho, carrera 100 m, Briana WILLIAMS, 10079
+Torneo de Lesotho, carrera 100 m, Reece PRESCOD, 10150
 Torneo de Lesotho, carrera 10000 m, Lopez LOMONG, 1608388
 Torneo de Lesotho, carrera 10000 m, Joshua CHEPTEGEI, 1610483
 Torneo de Lesotho, carrera 10000 m, Dera DIDA, 1621684
@@ -5758,9 +5758,9 @@ Torneo de Lesotho, salto largo, Nafissatou THIAM, 949
 Torneo de Lesotho, salto triple, Liadagmis POVEA, 1980
 Torneo de Lesotho, salto triple, Kimberly WILLIAMS, 1977
 Torneo de Lesotho, salto triple, Olga RYPAKOVA, 1977
-Torneo de Liberia, carrera 100 m, Noah LYLES, 9764
-Torneo de Liberia, carrera 100 m, Justin GATLIN, 9766
-Torneo de Liberia, carrera 100 m, Tebogo MAMATHU, 9773
+Torneo de Liberia, carrera 100 m, Yongli WEI, 10010
+Torneo de Liberia, carrera 100 m, Abdul Hakim SANI BROWN, 10011
+Torneo de Liberia, carrera 100 m, Divine ODUDURU, 10041
 Torneo de Liberia, carrera 10000 m, Letesenbet GIDEY, 1608326
 Torneo de Liberia, carrera 10000 m, Joshua CHEPTEGEI, 1625730
 Torneo de Liberia, carrera 10000 m, Rosemary Monica WANJIRU, 1637868
@@ -5818,9 +5818,9 @@ Torneo de Liberia, salto largo, Luvo MANYONGA, 947
 Torneo de Liberia, salto triple, Chengetayi MAPAYA, 1994
 Torneo de Liberia, salto triple, Cristian NÁPOLES, 1986
 Torneo de Liberia, salto triple, Patrícia MAMONA, 1955
-Torneo de Libya, carrera 100 m, Jonielle SMITH, 9766
-Torneo de Libya, carrera 100 m, Mujinga KAMBUNDJI, 9784
-Torneo de Libya, carrera 100 m, Kiara PARKER, 9805
+Torneo de Libya, carrera 100 m, Tynia GAITHER, 10008
+Torneo de Libya, carrera 100 m, Arthur CISSÉ, 10033
+Torneo de Libya, carrera 100 m, Andre DE GRASSE, 10116
 Torneo de Libya, carrera 10000 m, Stephanie TWELL, 1612577
 Torneo de Libya, carrera 10000 m, Agnes Jebet TIROP, 1614365
 Torneo de Libya, carrera 10000 m, Susan KRUMINS, 1619956
@@ -5878,9 +5878,9 @@ Torneo de Libya, salto largo, Luvo MANYONGA, 951
 Torneo de Libya, salto triple, Yosiris URRUTIA, 1994
 Torneo de Libya, salto triple, Patrícia MAMONA, 1975
 Torneo de Libya, salto triple, Kimberly WILLIAMS, 1974
-Torneo de Liechtenstein, carrera 100 m, Abdul Hakim SANI BROWN, 9771
-Torneo de Liechtenstein, carrera 100 m, Christian COLEMAN, 9868
-Torneo de Liechtenstein, carrera 100 m, Kiara GRANT, 9875
+Torneo de Liechtenstein, carrera 100 m, Elaine THOMPSON, 10028
+Torneo de Liechtenstein, carrera 100 m, Teahna DANIELS, 10036
+Torneo de Liechtenstein, carrera 100 m, Isiah YOUNG, 10040
 Torneo de Liechtenstein, carrera 10000 m, Stephanie TWELL, 1613220
 Torneo de Liechtenstein, carrera 10000 m, Yemaneberhan CRIPPA, 1615473
 Torneo de Liechtenstein, carrera 10000 m, Netsanet GUDETA, 1625646
@@ -5938,9 +5938,9 @@ Torneo de Liechtenstein, salto largo, Changzhou HUANG, 950
 Torneo de Liechtenstein, salto triple, Benjamin WILLIAMS, 1993
 Torneo de Liechtenstein, salto triple, Will CLAYE, 1992
 Torneo de Liechtenstein, salto triple, Omar CRADDOCK, 1988
-Torneo de Lithuania, carrera 100 m, Kiara GRANT, 9763
-Torneo de Lithuania, carrera 100 m, Twanisha TERRY, 9790
-Torneo de Lithuania, carrera 100 m, Yuki KOIKE, 9792
+Torneo de Lithuania, carrera 100 m, Roberto SKYERS, 10005
+Torneo de Lithuania, carrera 100 m, Tebogo MAMATHU, 10073
+Torneo de Lithuania, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10127
 Torneo de Lithuania, carrera 10000 m, Dera DIDA, 1613444
 Torneo de Lithuania, carrera 10000 m, Stephanie TWELL, 1613962
 Torneo de Lithuania, carrera 10000 m, Sifan HASSAN, 1623177
@@ -5998,9 +5998,9 @@ Torneo de Lithuania, salto largo, Shoutarou SHIROYAMA, 952
 Torneo de Lithuania, salto triple, Hugues Fabrice ZANGO, 1992
 Torneo de Lithuania, salto triple, Yosiris URRUTIA, 1991
 Torneo de Lithuania, salto triple, Keturah ORJI, 1985
-Torneo de Luxembourg, carrera 100 m, Abdul Hakim SANI BROWN, 9785
-Torneo de Luxembourg, carrera 100 m, Murielle AHOURÉ, 9806
-Torneo de Luxembourg, carrera 100 m, Briana WILLIAMS, 9854
+Torneo de Luxembourg, carrera 100 m, Christian COLEMAN, 10019
+Torneo de Luxembourg, carrera 100 m, Kiara PARKER, 10026
+Torneo de Luxembourg, carrera 100 m, Noah LYLES, 10036
 Torneo de Luxembourg, carrera 10000 m, Abdallah Kibet MANDE, 1608063
 Torneo de Luxembourg, carrera 10000 m, Stephanie TWELL, 1611533
 Torneo de Luxembourg, carrera 10000 m, Mohammed AHMED, 1616047
@@ -6058,9 +6058,9 @@ Torneo de Luxembourg, salto largo, Yelena SOKOLOVA, 955
 Torneo de Luxembourg, salto triple, Ruiting WU, 1996
 Torneo de Luxembourg, salto triple, Andy DÍAZ, 1995
 Torneo de Luxembourg, salto triple, Olha SALADUKHA, 1991
-Torneo de Macedonia, carrera 100 m, Isiah YOUNG, 9769
-Torneo de Macedonia, carrera 100 m, Arthur CISSÉ, 9784
-Torneo de Macedonia, carrera 100 m, Tyquendo TRACEY, 9791
+Torneo de Macedonia, carrera 100 m, Marie-Josée TA LOU, 10005
+Torneo de Macedonia, carrera 100 m, Reece PRESCOD, 10025
+Torneo de Macedonia, carrera 100 m, Tebogo MAMATHU, 10071
 Torneo de Macedonia, carrera 10000 m, Letesenbet GIDEY, 1614966
 Torneo de Macedonia, carrera 10000 m, Netsanet GUDETA, 1619055
 Torneo de Macedonia, carrera 10000 m, Mogos TUEMAY, 1620902
@@ -6118,9 +6118,9 @@ Torneo de Macedonia, salto largo, JuVaughn HARRISON, 954
 Torneo de Macedonia, salto triple, Nelson ÉVORA, 1996
 Torneo de Macedonia, salto triple, Tori FRANKLIN, 1989
 Torneo de Macedonia, salto triple, Kristin GIERISCH, 1986
-Torneo de Madagascar, carrera 100 m, Noah LYLES, 9776
-Torneo de Madagascar, carrera 100 m, Michael RODGERS, 9813
-Torneo de Madagascar, carrera 100 m, Christian COLEMAN, 9839
+Torneo de Madagascar, carrera 100 m, Carina HORN, 10004
+Torneo de Madagascar, carrera 100 m, Manqi GE, 10019
+Torneo de Madagascar, carrera 100 m, Yongli WEI, 10020
 Torneo de Madagascar, carrera 10000 m, Letesenbet GIDEY, 1618813
 Torneo de Madagascar, carrera 10000 m, Tsigie GEBRESELAMA, 1618889
 Torneo de Madagascar, carrera 10000 m, Tsehay GEMECHU, 1620546
@@ -6178,9 +6178,9 @@ Torneo de Madagascar, salto largo, Chantel MALONE, 954
 Torneo de Madagascar, salto triple, Cristian NÁPOLES, 1989
 Torneo de Madagascar, salto triple, Darya NIDBAYKINA, 1987
 Torneo de Madagascar, salto triple, Paraskevi PAPACHRISTOU, 1987
-Torneo de Malawi, carrera 100 m, Akani SIMBINE, 9825
-Torneo de Malawi, carrera 100 m, Marie-Josée TA LOU, 9832
-Torneo de Malawi, carrera 100 m, Mario BURKE, 9859
+Torneo de Malawi, carrera 100 m, Tynia GAITHER, 10009
+Torneo de Malawi, carrera 100 m, Andre DE GRASSE, 10011
+Torneo de Malawi, carrera 100 m, Blessing OKAGBARE, 10014
 Torneo de Malawi, carrera 10000 m, Stephanie TWELL, 1612130
 Torneo de Malawi, carrera 10000 m, Agnes Jebet TIROP, 1614644
 Torneo de Malawi, carrera 10000 m, Abadi HADIS, 1616709
@@ -6238,9 +6238,9 @@ Torneo de Malawi, salto largo, Xinglong GAO, 951
 Torneo de Malawi, salto triple, Nelson ÉVORA, 1996
 Torneo de Malawi, salto triple, Alexsandro MELO, 1992
 Torneo de Malawi, salto triple, Ruiting WU, 1981
-Torneo de Malaysia, carrera 100 m, Abdul Hakim SANI BROWN, 9785
-Torneo de Malaysia, carrera 100 m, Reece PRESCOD, 9806
-Torneo de Malaysia, carrera 100 m, Tebogo MAMATHU, 9815
+Torneo de Malaysia, carrera 100 m, Isiah YOUNG, 10018
+Torneo de Malaysia, carrera 100 m, Murielle AHOURÉ, 10051
+Torneo de Malaysia, carrera 100 m, Jonielle SMITH, 10060
 Torneo de Malaysia, carrera 10000 m, Girmawit GEBRZIHAIR, 1622410
 Torneo de Malaysia, carrera 10000 m, Andamlak BELIHU, 1623532
 Torneo de Malaysia, carrera 10000 m, Mogos TUEMAY, 1631272
@@ -6298,9 +6298,9 @@ Torneo de Malaysia, salto largo, Yuki HASHIOKA, 950
 Torneo de Malaysia, salto triple, Cristian NÁPOLES, 1993
 Torneo de Malaysia, salto triple, Will CLAYE, 1984
 Torneo de Malaysia, salto triple, Donald SCOTT, 1981
-Torneo de Maldives, carrera 100 m, Murielle AHOURÉ, 9766
-Torneo de Maldives, carrera 100 m, Abdul Hakim SANI BROWN, 9770
-Torneo de Maldives, carrera 100 m, Yohan BLAKE, 9775
+Torneo de Maldives, carrera 100 m, Tynia GAITHER, 10012
+Torneo de Maldives, carrera 100 m, Dina ASHER-SMITH, 10019
+Torneo de Maldives, carrera 100 m, Kiara PARKER, 10033
 Torneo de Maldives, carrera 10000 m, Gete ALEMAYEHU, 1616826
 Torneo de Maldives, carrera 10000 m, Zeineba YIMER, 1621192
 Torneo de Maldives, carrera 10000 m, Rosemary Monica WANJIRU, 1621219
@@ -6358,9 +6358,9 @@ Torneo de Maldives, salto largo, Hilary KPATCHA, 954
 Torneo de Maldives, salto triple, Cristian NÁPOLES, 1996
 Torneo de Maldives, salto triple, Pedro Pablo PICHARDO, 1991
 Torneo de Maldives, salto triple, Darya NIDBAYKINA, 1977
-Torneo de Mali, carrera 100 m, Abdul Hakim SANI BROWN, 9763
-Torneo de Mali, carrera 100 m, Tynia GAITHER, 9814
-Torneo de Mali, carrera 100 m, Roberto SKYERS, 9839
+Torneo de Mali, carrera 100 m, Noah LYLES, 10015
+Torneo de Mali, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10058
+Torneo de Mali, carrera 100 m, Yuki KOIKE, 10081
 Torneo de Mali, carrera 10000 m, Abdallah Kibet MANDE, 1610904
 Torneo de Mali, carrera 10000 m, Julien WANDERS, 1612350
 Torneo de Mali, carrera 10000 m, Solomon BERIHU, 1612912
@@ -6418,9 +6418,9 @@ Torneo de Mali, salto largo, Miltiadis TENTOGLOU, 946
 Torneo de Mali, salto triple, Necatí ER, 1991
 Torneo de Mali, salto triple, Liadagmis POVEA, 1979
 Torneo de Mali, salto triple, Diana ZAGAINOVA, 1961
-Torneo de Malta, carrera 100 m, Justin GATLIN, 9776
-Torneo de Malta, carrera 100 m, Tebogo MAMATHU, 9780
-Torneo de Malta, carrera 100 m, Christian COLEMAN, 9794
+Torneo de Malta, carrera 100 m, Isiah YOUNG, 10002
+Torneo de Malta, carrera 100 m, Michael RODGERS, 10025
+Torneo de Malta, carrera 100 m, Roberto SKYERS, 10029
 Torneo de Malta, carrera 10000 m, Gete ALEMAYEHU, 1611633
 Torneo de Malta, carrera 10000 m, Andamlak BELIHU, 1619323
 Torneo de Malta, carrera 10000 m, Julien WANDERS, 1621636
@@ -6478,9 +6478,9 @@ Torneo de Malta, salto largo, Chantel MALONE, 955
 Torneo de Malta, salto triple, Diana ZAGAINOVA, 1996
 Torneo de Malta, salto triple, Olha SALADUKHA, 1992
 Torneo de Malta, salto triple, Will CLAYE, 1987
-Torneo de Marshall Islands, carrera 100 m, Divine ODUDURU, 9779
-Torneo de Marshall Islands, carrera 100 m, Abdul Hakim SANI BROWN, 9811
-Torneo de Marshall Islands, carrera 100 m, Arthur CISSÉ, 9837
+Torneo de Marshall Islands, carrera 100 m, Justin GATLIN, 10002
+Torneo de Marshall Islands, carrera 100 m, Mario BURKE, 10003
+Torneo de Marshall Islands, carrera 100 m, Briana WILLIAMS, 10045
 Torneo de Marshall Islands, carrera 10000 m, Andamlak BELIHU, 1614510
 Torneo de Marshall Islands, carrera 10000 m, Hellen OBIRI, 1626964
 Torneo de Marshall Islands, carrera 10000 m, Dera DIDA, 1640152
@@ -6538,9 +6538,9 @@ Torneo de Marshall Islands, salto largo, Ese BRUME, 949
 Torneo de Marshall Islands, salto triple, Shanieka RICKETTS, 1986
 Torneo de Marshall Islands, salto triple, Andy DÍAZ, 1986
 Torneo de Marshall Islands, salto triple, Omar CRADDOCK, 1970
-Torneo de Mauritania, carrera 100 m, Kiara GRANT, 9763
-Torneo de Mauritania, carrera 100 m, Noah LYLES, 9788
-Torneo de Mauritania, carrera 100 m, Marie-Josée TA LOU, 9812
+Torneo de Mauritania, carrera 100 m, Carina HORN, 10000
+Torneo de Mauritania, carrera 100 m, Andre DE GRASSE, 10019
+Torneo de Mauritania, carrera 100 m, Reece PRESCOD, 10036
 Torneo de Mauritania, carrera 10000 m, Sifan HASSAN, 1609467
 Torneo de Mauritania, carrera 10000 m, Hagos GEBRHIWET, 1611138
 Torneo de Mauritania, carrera 10000 m, Tsigie GEBRESELAMA, 1611473
@@ -6598,9 +6598,9 @@ Torneo de Mauritania, salto largo, Jianan WANG, 952
 Torneo de Mauritania, salto triple, Andy DÍAZ, 1994
 Torneo de Mauritania, salto triple, Nadia EKE, 1989
 Torneo de Mauritania, salto triple, Cristian NÁPOLES, 1989
-Torneo de Mauritius, carrera 100 m, Yohan BLAKE, 9810
-Torneo de Mauritius, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9812
-Torneo de Mauritius, carrera 100 m, Cravon GILLESPIE, 9849
+Torneo de Mauritius, carrera 100 m, Justin GATLIN, 10001
+Torneo de Mauritius, carrera 100 m, Manqi GE, 10024
+Torneo de Mauritius, carrera 100 m, Kiara GRANT, 10031
 Torneo de Mauritius, carrera 10000 m, Abadi HADIS, 1610797
 Torneo de Mauritius, carrera 10000 m, Sifan HASSAN, 1622477
 Torneo de Mauritius, carrera 10000 m, Senbere TEFERI, 1625565
@@ -6658,9 +6658,9 @@ Torneo de Mauritius, salto largo, Yelena SOKOLOVA, 954
 Torneo de Mauritius, salto triple, Olha SALADUKHA, 1991
 Torneo de Mauritius, salto triple, Alexsandro MELO, 1986
 Torneo de Mauritius, salto triple, Christian TAYLOR, 1982
-Torneo de Mexico, carrera 100 m, Twanisha TERRY, 9799
-Torneo de Mexico, carrera 100 m, Akani SIMBINE, 9805
-Torneo de Mexico, carrera 100 m, Murielle AHOURÉ, 9810
+Torneo de Mexico, carrera 100 m, Yongli WEI, 10062
+Torneo de Mexico, carrera 100 m, Raymond EKEVWO, 10082
+Torneo de Mexico, carrera 100 m, Jonielle SMITH, 10132
 Torneo de Mexico, carrera 10000 m, Andamlak BELIHU, 1608408
 Torneo de Mexico, carrera 10000 m, Mogos TUEMAY, 1611081
 Torneo de Mexico, carrera 10000 m, Selemon BAREGA, 1612280
@@ -6718,9 +6718,9 @@ Torneo de Mexico, salto largo, Kenyattia HACKWORTH, 952
 Torneo de Mexico, salto triple, Caterine IBARGUEN, 1987
 Torneo de Mexico, salto triple, Pedro Pablo PICHARDO, 1987
 Torneo de Mexico, salto triple, Darya NIDBAYKINA, 1973
-Torneo de Micronesia, carrera 100 m, Yohan BLAKE, 9770
-Torneo de Micronesia, carrera 100 m, Dina ASHER-SMITH, 9814
-Torneo de Micronesia, carrera 100 m, Carina HORN, 9852
+Torneo de Micronesia, carrera 100 m, Briana WILLIAMS, 10052
+Torneo de Micronesia, carrera 100 m, Murielle AHOURÉ, 10074
+Torneo de Micronesia, carrera 100 m, Twanisha TERRY, 10097
 Torneo de Micronesia, carrera 10000 m, Selemon BAREGA, 1608749
 Torneo de Micronesia, carrera 10000 m, Senbere TEFERI, 1622673
 Torneo de Micronesia, carrera 10000 m, Mogos TUEMAY, 1624079
@@ -6778,9 +6778,9 @@ Torneo de Micronesia, salto largo, Andwuelle WRIGHT, 950
 Torneo de Micronesia, salto triple, Alexsandro MELO, 1991
 Torneo de Micronesia, salto triple, Liadagmis POVEA, 1983
 Torneo de Micronesia, salto triple, Kimberly WILLIAMS, 1983
-Torneo de Moldova, carrera 100 m, Blessing OKAGBARE, 9763
-Torneo de Moldova, carrera 100 m, Kayla WHITE, 9775
-Torneo de Moldova, carrera 100 m, Manqi GE, 9788
+Torneo de Moldova, carrera 100 m, Mario BURKE, 10024
+Torneo de Moldova, carrera 100 m, Jonielle SMITH, 10086
+Torneo de Moldova, carrera 100 m, Zharnel HUGHES, 10087
 Torneo de Moldova, carrera 10000 m, Joshua CHEPTEGEI, 1621196
 Torneo de Moldova, carrera 10000 m, Degitu AZIMERAW, 1622195
 Torneo de Moldova, carrera 10000 m, Stewart MCSWEYN, 1625836
@@ -6838,9 +6838,9 @@ Torneo de Moldova, salto largo, Shara PROCTOR, 951
 Torneo de Moldova, salto triple, Yaoqing FANG, 1996
 Torneo de Moldova, salto triple, Olga RYPAKOVA, 1988
 Torneo de Moldova, salto triple, Shanieka RICKETTS, 1986
-Torneo de Monaco, carrera 100 m, Isiah YOUNG, 9791
-Torneo de Monaco, carrera 100 m, Yohan BLAKE, 9823
-Torneo de Monaco, carrera 100 m, Zharnel HUGHES, 9851
+Torneo de Monaco, carrera 100 m, Teahna DANIELS, 10015
+Torneo de Monaco, carrera 100 m, Raymond EKEVWO, 10041
+Torneo de Monaco, carrera 100 m, Christian COLEMAN, 10043
 Torneo de Monaco, carrera 10000 m, Susan KRUMINS, 1609056
 Torneo de Monaco, carrera 10000 m, Hagos GEBRHIWET, 1610947
 Torneo de Monaco, carrera 10000 m, Sifan HASSAN, 1617522
@@ -6898,9 +6898,9 @@ Torneo de Monaco, salto largo, Xinglong GAO, 955
 Torneo de Monaco, salto triple, Cristian NÁPOLES, 1984
 Torneo de Monaco, salto triple, Yekaterina KONEVA, 1980
 Torneo de Monaco, salto triple, Nadia EKE, 1976
-Torneo de Mongolia, carrera 100 m, Arthur CISSÉ, 9772
-Torneo de Mongolia, carrera 100 m, Yongli WEI, 9779
-Torneo de Mongolia, carrera 100 m, Briana WILLIAMS, 9789
+Torneo de Mongolia, carrera 100 m, Dina ASHER-SMITH, 10003
+Torneo de Mongolia, carrera 100 m, Kiara GRANT, 10007
+Torneo de Mongolia, carrera 100 m, Raymond EKEVWO, 10019
 Torneo de Mongolia, carrera 10000 m, Berehanu TSEGU, 1616653
 Torneo de Mongolia, carrera 10000 m, Julien WANDERS, 1622607
 Torneo de Mongolia, carrera 10000 m, Dera DIDA, 1622688
@@ -6958,9 +6958,9 @@ Torneo de Mongolia, salto largo, Yanis Esmeralda DAVID, 955
 Torneo de Mongolia, salto triple, Omar CRADDOCK, 1993
 Torneo de Mongolia, salto triple, Thea LAFOND, 1992
 Torneo de Mongolia, salto triple, Yosiris URRUTIA, 1990
-Torneo de Montenegro, carrera 100 m, Raymond EKEVWO, 9767
-Torneo de Montenegro, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9770
-Torneo de Montenegro, carrera 100 m, Aleia HOBBS, 9820
+Torneo de Montenegro, carrera 100 m, Tyquendo TRACEY, 10001
+Torneo de Montenegro, carrera 100 m, Arthur CISSÉ, 10006
+Torneo de Montenegro, carrera 100 m, Divine ODUDURU, 10035
 Torneo de Montenegro, carrera 10000 m, Dera DIDA, 1609982
 Torneo de Montenegro, carrera 10000 m, Abadi HADIS, 1610121
 Torneo de Montenegro, carrera 10000 m, Berehanu TSEGU, 1611499
@@ -7018,9 +7018,9 @@ Torneo de Montenegro, salto largo, Jeff HENDERSON, 952
 Torneo de Montenegro, salto triple, Necatí ER, 1996
 Torneo de Montenegro, salto triple, Yaoqing FANG, 1996
 Torneo de Montenegro, salto triple, Jordan Alejandro DÍAZ FORTUN, 1993
-Torneo de Morocco, carrera 100 m, Tynia GAITHER, 9769
-Torneo de Morocco, carrera 100 m, Kiara GRANT, 9770
-Torneo de Morocco, carrera 100 m, Yuki KOIKE, 9844
+Torneo de Morocco, carrera 100 m, Yohan BLAKE, 10047
+Torneo de Morocco, carrera 100 m, Arthur CISSÉ, 10048
+Torneo de Morocco, carrera 100 m, Elaine THOMPSON, 10076
 Torneo de Morocco, carrera 10000 m, Stephanie TWELL, 1610159
 Torneo de Morocco, carrera 10000 m, Gete ALEMAYEHU, 1610635
 Torneo de Morocco, carrera 10000 m, Rosemary Monica WANJIRU, 1619437
@@ -7078,9 +7078,9 @@ Torneo de Morocco, salto largo, Katarina JOHNSON-THOMPSON, 948
 Torneo de Morocco, salto triple, Benjamin WILLIAMS, 1992
 Torneo de Morocco, salto triple, Paraskevi PAPACHRISTOU, 1989
 Torneo de Morocco, salto triple, Shanieka RICKETTS, 1988
-Torneo de Mozambique, carrera 100 m, Kiara PARKER, 9765
-Torneo de Mozambique, carrera 100 m, Cravon GILLESPIE, 9773
-Torneo de Mozambique, carrera 100 m, Aaron BROWN, 9781
+Torneo de Mozambique, carrera 100 m, Manqi GE, 10023
+Torneo de Mozambique, carrera 100 m, Abdul Hakim SANI BROWN, 10040
+Torneo de Mozambique, carrera 100 m, Tynia GAITHER, 10103
 Torneo de Mozambique, carrera 10000 m, Joshua CHEPTEGEI, 1610298
 Torneo de Mozambique, carrera 10000 m, Yomif KEJELCHA, 1613922
 Torneo de Mozambique, carrera 10000 m, Tsigie GEBRESELAMA, 1617060
@@ -7138,9 +7138,9 @@ Torneo de Mozambique, salto largo, Ruswahl SAMAAI, 954
 Torneo de Mozambique, salto triple, Yosiris URRUTIA, 1992
 Torneo de Mozambique, salto triple, Paraskevi PAPACHRISTOU, 1986
 Torneo de Mozambique, salto triple, Jordan Alejandro DÍAZ FORTUN, 1981
-Torneo de Myanmar, carrera 100 m, Aleia HOBBS, 9789
-Torneo de Myanmar, carrera 100 m, Cravon GILLESPIE, 9807
-Torneo de Myanmar, carrera 100 m, Murielle AHOURÉ, 9819
+Torneo de Myanmar, carrera 100 m, Christian COLEMAN, 10016
+Torneo de Myanmar, carrera 100 m, Manqi GE, 10034
+Torneo de Myanmar, carrera 100 m, Raymond EKEVWO, 10093
 Torneo de Myanmar, carrera 10000 m, Susan KRUMINS, 1609965
 Torneo de Myanmar, carrera 10000 m, Berehanu TSEGU, 1615354
 Torneo de Myanmar, carrera 10000 m, Stewart MCSWEYN, 1619614
@@ -7198,9 +7198,9 @@ Torneo de Myanmar, salto largo, Will CLAYE, 948
 Torneo de Myanmar, salto triple, Yekaterina KONEVA, 1995
 Torneo de Myanmar, salto triple, Yanis Esmeralda DAVID, 1990
 Torneo de Myanmar, salto triple, Nadia EKE, 1988
-Torneo de Namibia, carrera 100 m, Aleia HOBBS, 9760
-Torneo de Namibia, carrera 100 m, Mujinga KAMBUNDJI, 9800
-Torneo de Namibia, carrera 100 m, Yongli WEI, 9808
+Torneo de Namibia, carrera 100 m, Dafne SCHIPPERS, 10069
+Torneo de Namibia, carrera 100 m, Tynia GAITHER, 10107
+Torneo de Namibia, carrera 100 m, Noah LYLES, 10168
 Torneo de Namibia, carrera 10000 m, Letesenbet GIDEY, 1608812
 Torneo de Namibia, carrera 10000 m, Tsigie GEBRESELAMA, 1618199
 Torneo de Namibia, carrera 10000 m, Yasemin CAN, 1618816
@@ -7258,9 +7258,9 @@ Torneo de Namibia, salto largo, JuVaughn HARRISON, 954
 Torneo de Namibia, salto triple, Almir DOS SANTOS, 1994
 Torneo de Namibia, salto triple, Caterine IBARGUEN, 1993
 Torneo de Namibia, salto triple, Alexis COPELLO, 1974
-Torneo de Nauru, carrera 100 m, Raymond EKEVWO, 9776
-Torneo de Nauru, carrera 100 m, Kiara GRANT, 9792
-Torneo de Nauru, carrera 100 m, Isiah YOUNG, 9800
+Torneo de Nauru, carrera 100 m, Andre DE GRASSE, 10006
+Torneo de Nauru, carrera 100 m, Manqi GE, 10022
+Torneo de Nauru, carrera 100 m, Tebogo MAMATHU, 10038
 Torneo de Nauru, carrera 10000 m, Molly HUDDLE, 1608736
 Torneo de Nauru, carrera 10000 m, Abadi HADIS, 1616125
 Torneo de Nauru, carrera 10000 m, Sifan HASSAN, 1616778
@@ -7318,9 +7318,9 @@ Torneo de Nauru, salto largo, Ruswahl SAMAAI, 954
 Torneo de Nauru, salto triple, Yaoqing FANG, 1996
 Torneo de Nauru, salto triple, Yanis Esmeralda DAVID, 1989
 Torneo de Nauru, salto triple, Benjamin WILLIAMS, 1988
-Torneo de Nepal, carrera 100 m, Yongli WEI, 9787
-Torneo de Nepal, carrera 100 m, Christian COLEMAN, 9792
-Torneo de Nepal, carrera 100 m, Jonielle SMITH, 9859
+Torneo de Nepal, carrera 100 m, Kiara GRANT, 10012
+Torneo de Nepal, carrera 100 m, Divine ODUDURU, 10016
+Torneo de Nepal, carrera 100 m, Yuki KOIKE, 10041
 Torneo de Nepal, carrera 10000 m, Yemaneberhan CRIPPA, 1609848
 Torneo de Nepal, carrera 10000 m, Jemal Yimer MEKONNEN, 1611811
 Torneo de Nepal, carrera 10000 m, Mogos TUEMAY, 1614589
@@ -7378,9 +7378,9 @@ Torneo de Nepal, salto largo, Chantel MALONE, 951
 Torneo de Nepal, salto triple, Thea LAFOND, 1996
 Torneo de Nepal, salto triple, Almir DOS SANTOS, 1992
 Torneo de Nepal, salto triple, Necatí ER, 1985
-Torneo de Netherlands, carrera 100 m, Mario BURKE, 9766
-Torneo de Netherlands, carrera 100 m, Aleia HOBBS, 9775
-Torneo de Netherlands, carrera 100 m, Carina HORN, 9781
+Torneo de Netherlands, carrera 100 m, Tebogo MAMATHU, 10007
+Torneo de Netherlands, carrera 100 m, Cravon GILLESPIE, 10026
+Torneo de Netherlands, carrera 100 m, Abdul Hakim SANI BROWN, 10044
 Torneo de Netherlands, carrera 10000 m, Yemaneberhan CRIPPA, 1609113
 Torneo de Netherlands, carrera 10000 m, Selemon BAREGA, 1609228
 Torneo de Netherlands, carrera 10000 m, Gete ALEMAYEHU, 1610200
@@ -7438,9 +7438,9 @@ Torneo de Netherlands, salto largo, Tissanna HICKLING, 951
 Torneo de Netherlands, salto triple, Yaming ZHU, 1994
 Torneo de Netherlands, salto triple, Pedro Pablo PICHARDO, 1990
 Torneo de Netherlands, salto triple, Thea LAFOND, 1989
-Torneo de New Zealand, carrera 100 m, Mujinga KAMBUNDJI, 9774
-Torneo de New Zealand, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9775
-Torneo de New Zealand, carrera 100 m, Dafne SCHIPPERS, 9786
+Torneo de New Zealand, carrera 100 m, Aleia HOBBS, 10005
+Torneo de New Zealand, carrera 100 m, Blessing OKAGBARE, 10106
+Torneo de New Zealand, carrera 100 m, Raymond EKEVWO, 10132
 Torneo de New Zealand, carrera 10000 m, Sifan HASSAN, 1611030
 Torneo de New Zealand, carrera 10000 m, Rosemary Monica WANJIRU, 1614111
 Torneo de New Zealand, carrera 10000 m, Yemaneberhan CRIPPA, 1617915
@@ -7498,9 +7498,9 @@ Torneo de New Zealand, salto largo, Jianan WANG, 953
 Torneo de New Zealand, salto triple, Yaming ZHU, 1994
 Torneo de New Zealand, salto triple, Ana PELETEIRO, 1993
 Torneo de New Zealand, salto triple, Benjamin WILLIAMS, 1983
-Torneo de Nicaragua, carrera 100 m, Marie-Josée TA LOU, 9764
-Torneo de Nicaragua, carrera 100 m, Abdul Hakim SANI BROWN, 9786
-Torneo de Nicaragua, carrera 100 m, Kayla WHITE, 9789
+Torneo de Nicaragua, carrera 100 m, Cravon GILLESPIE, 10002
+Torneo de Nicaragua, carrera 100 m, Twanisha TERRY, 10019
+Torneo de Nicaragua, carrera 100 m, Yuki KOIKE, 10031
 Torneo de Nicaragua, carrera 10000 m, Hellen OBIRI, 1611279
 Torneo de Nicaragua, carrera 10000 m, Tsigie GEBRESELAMA, 1619548
 Torneo de Nicaragua, carrera 10000 m, Susan KRUMINS, 1620259
@@ -7558,9 +7558,9 @@ Torneo de Nicaragua, salto largo, Florentina Costina IUSCO, 949
 Torneo de Nicaragua, salto triple, Shanieka RICKETTS, 1992
 Torneo de Nicaragua, salto triple, Alexis COPELLO, 1983
 Torneo de Nicaragua, salto triple, Nelson ÉVORA, 1982
-Torneo de Niger, carrera 100 m, Reece PRESCOD, 9762
-Torneo de Niger, carrera 100 m, Elaine THOMPSON, 9768
-Torneo de Niger, carrera 100 m, Divine ODUDURU, 9807
+Torneo de Niger, carrera 100 m, Kiara PARKER, 10015
+Torneo de Niger, carrera 100 m, Tynia GAITHER, 10031
+Torneo de Niger, carrera 100 m, Briana WILLIAMS, 10059
 Torneo de Niger, carrera 10000 m, Abadi HADIS, 1610764
 Torneo de Niger, carrera 10000 m, Tsehay GEMECHU, 1612423
 Torneo de Niger, carrera 10000 m, Netsanet GUDETA, 1616454
@@ -7618,9 +7618,9 @@ Torneo de Niger, salto largo, Steffin MCCARTER, 950
 Torneo de Niger, salto triple, Chengetayi MAPAYA, 1990
 Torneo de Niger, salto triple, Yaming ZHU, 1985
 Torneo de Niger, salto triple, Jordan Alejandro DÍAZ FORTUN, 1983
-Torneo de Nigeria, carrera 100 m, Abdul Hakim SANI BROWN, 9769
-Torneo de Nigeria, carrera 100 m, Zharnel HUGHES, 9774
-Torneo de Nigeria, carrera 100 m, Raymond EKEVWO, 9788
+Torneo de Nigeria, carrera 100 m, Kiara PARKER, 10012
+Torneo de Nigeria, carrera 100 m, Tebogo MAMATHU, 10023
+Torneo de Nigeria, carrera 100 m, Marie-Josée TA LOU, 10033
 Torneo de Nigeria, carrera 10000 m, Yasemin CAN, 1608857
 Torneo de Nigeria, carrera 10000 m, Marielle HALL, 1615932
 Torneo de Nigeria, carrera 10000 m, Rhonex KIPRUTO, 1618461
@@ -7678,9 +7678,9 @@ Torneo de Nigeria, salto largo, Alina ROTARU, 948
 Torneo de Nigeria, salto triple, Thea LAFOND, 1995
 Torneo de Nigeria, salto triple, Yosiris URRUTIA, 1988
 Torneo de Nigeria, salto triple, Kimberly WILLIAMS, 1985
-Torneo de North Korea, carrera 100 m, Isiah YOUNG, 9777
-Torneo de North Korea, carrera 100 m, Reece PRESCOD, 9820
-Torneo de North Korea, carrera 100 m, Cravon GILLESPIE, 9833
+Torneo de North Korea, carrera 100 m, Roberto SKYERS, 10020
+Torneo de North Korea, carrera 100 m, Yuki KOIKE, 10059
+Torneo de North Korea, carrera 100 m, Christian COLEMAN, 10100
 Torneo de North Korea, carrera 10000 m, Hellen OBIRI, 1609097
 Torneo de North Korea, carrera 10000 m, Agnes Jebet TIROP, 1624275
 Torneo de North Korea, carrera 10000 m, Stewart MCSWEYN, 1641530
@@ -7738,9 +7738,9 @@ Torneo de North Korea, salto largo, JuVaughn HARRISON, 948
 Torneo de North Korea, salto triple, Olha SALADUKHA, 1991
 Torneo de North Korea, salto triple, Patrícia MAMONA, 1990
 Torneo de North Korea, salto triple, Yaoqing FANG, 1976
-Torneo de Northern Ireland, carrera 100 m, Mujinga KAMBUNDJI, 9764
-Torneo de Northern Ireland, carrera 100 m, Elaine THOMPSON, 9805
-Torneo de Northern Ireland, carrera 100 m, Zharnel HUGHES, 9811
+Torneo de Northern Ireland, carrera 100 m, Christian COLEMAN, 10015
+Torneo de Northern Ireland, carrera 100 m, Justin GATLIN, 10036
+Torneo de Northern Ireland, carrera 100 m, Carina HORN, 10051
 Torneo de Northern Ireland, carrera 10000 m, Lopez LOMONG, 1619451
 Torneo de Northern Ireland, carrera 10000 m, Yomif KEJELCHA, 1619458
 Torneo de Northern Ireland, carrera 10000 m, Hellen OBIRI, 1621231
@@ -7798,9 +7798,9 @@ Torneo de Northern Ireland, salto largo, Caterine IBARGUEN, 950
 Torneo de Northern Ireland, salto triple, Yekaterina KONEVA, 1994
 Torneo de Northern Ireland, salto triple, Paraskevi PAPACHRISTOU, 1990
 Torneo de Northern Ireland, salto triple, Jordan Alejandro DÍAZ FORTUN, 1990
-Torneo de Norway, carrera 100 m, Roberto SKYERS, 9788
-Torneo de Norway, carrera 100 m, Teahna DANIELS, 9822
-Torneo de Norway, carrera 100 m, Blessing OKAGBARE, 9824
+Torneo de Norway, carrera 100 m, Akani SIMBINE, 10069
+Torneo de Norway, carrera 100 m, Aaron BROWN, 10078
+Torneo de Norway, carrera 100 m, Noah LYLES, 10083
 Torneo de Norway, carrera 10000 m, Marielle HALL, 1609896
 Torneo de Norway, carrera 10000 m, Yemaneberhan CRIPPA, 1610250
 Torneo de Norway, carrera 10000 m, Senbere TEFERI, 1613698
@@ -7858,9 +7858,9 @@ Torneo de Norway, salto largo, Alina ROTARU, 954
 Torneo de Norway, salto triple, Pedro Pablo PICHARDO, 1996
 Torneo de Norway, salto triple, Jordan Alejandro DÍAZ FORTUN, 1996
 Torneo de Norway, salto triple, Darya NIDBAYKINA, 1988
-Torneo de Oman, carrera 100 m, Akani SIMBINE, 9772
-Torneo de Oman, carrera 100 m, Kiara PARKER, 9791
-Torneo de Oman, carrera 100 m, Cravon GILLESPIE, 9830
+Torneo de Oman, carrera 100 m, Jonielle SMITH, 10051
+Torneo de Oman, carrera 100 m, Arthur CISSÉ, 10061
+Torneo de Oman, carrera 100 m, Mario BURKE, 10067
 Torneo de Oman, carrera 10000 m, Letesenbet GIDEY, 1608738
 Torneo de Oman, carrera 10000 m, Marielle HALL, 1611663
 Torneo de Oman, carrera 10000 m, Stephanie TWELL, 1617067
@@ -7918,9 +7918,9 @@ Torneo de Oman, salto largo, Hilary KPATCHA, 950
 Torneo de Oman, salto triple, Kimberly WILLIAMS, 1990
 Torneo de Oman, salto triple, Nelson ÉVORA, 1990
 Torneo de Oman, salto triple, Diana ZAGAINOVA, 1981
-Torneo de Pakistan, carrera 100 m, Abdul Hakim SANI BROWN, 9793
-Torneo de Pakistan, carrera 100 m, Yuki KOIKE, 9798
-Torneo de Pakistan, carrera 100 m, Carina HORN, 9807
+Torneo de Pakistan, carrera 100 m, Arthur CISSÉ, 10000
+Torneo de Pakistan, carrera 100 m, Christian COLEMAN, 10058
+Torneo de Pakistan, carrera 100 m, Akani SIMBINE, 10061
 Torneo de Pakistan, carrera 10000 m, Julien WANDERS, 1608920
 Torneo de Pakistan, carrera 10000 m, Tsehay GEMECHU, 1610074
 Torneo de Pakistan, carrera 10000 m, Tsigie GEBRESELAMA, 1611021
@@ -7978,9 +7978,9 @@ Torneo de Pakistan, salto largo, Ese BRUME, 948
 Torneo de Pakistan, salto triple, Liadagmis POVEA, 1993
 Torneo de Pakistan, salto triple, Christian TAYLOR, 1985
 Torneo de Pakistan, salto triple, Omar CRADDOCK, 1983
-Torneo de Palau, carrera 100 m, Akani SIMBINE, 9765
-Torneo de Palau, carrera 100 m, Kiara PARKER, 9803
-Torneo de Palau, carrera 100 m, Isiah YOUNG, 9820
+Torneo de Palau, carrera 100 m, Divine ODUDURU, 10032
+Torneo de Palau, carrera 100 m, Briana WILLIAMS, 10035
+Torneo de Palau, carrera 100 m, Marie-Josée TA LOU, 10042
 Torneo de Palau, carrera 10000 m, Molly HUDDLE, 1618424
 Torneo de Palau, carrera 10000 m, Stephanie TWELL, 1621967
 Torneo de Palau, carrera 10000 m, Sifan HASSAN, 1626634
@@ -8038,9 +8038,9 @@ Torneo de Palau, salto largo, Maykel MASSÓ, 953
 Torneo de Palau, salto triple, Hugues Fabrice ZANGO, 1994
 Torneo de Palau, salto triple, Pedro Pablo PICHARDO, 1989
 Torneo de Palau, salto triple, Yulimar ROJAS, 1981
-Torneo de Panama, carrera 100 m, Michael RODGERS, 9764
-Torneo de Panama, carrera 100 m, Yuki KOIKE, 9777
-Torneo de Panama, carrera 100 m, Kayla WHITE, 9787
+Torneo de Panama, carrera 100 m, Zharnel HUGHES, 10015
+Torneo de Panama, carrera 100 m, Blessing OKAGBARE, 10043
+Torneo de Panama, carrera 100 m, Yongli WEI, 10044
 Torneo de Panama, carrera 10000 m, Gete ALEMAYEHU, 1614972
 Torneo de Panama, carrera 10000 m, Molly HUDDLE, 1618197
 Torneo de Panama, carrera 10000 m, Stewart MCSWEYN, 1622500
@@ -8098,9 +8098,9 @@ Torneo de Panama, salto largo, Yanis Esmeralda DAVID, 956
 Torneo de Panama, salto triple, Kimberly WILLIAMS, 1995
 Torneo de Panama, salto triple, Tori FRANKLIN, 1995
 Torneo de Panama, salto triple, Alexsandro MELO, 1981
-Torneo de Papua New Guinea, carrera 100 m, Kayla WHITE, 9782
-Torneo de Papua New Guinea, carrera 100 m, ShaCarri RICHARDSON, 9785
-Torneo de Papua New Guinea, carrera 100 m, Abdul Hakim SANI BROWN, 9792
+Torneo de Papua New Guinea, carrera 100 m, Marie-Josée TA LOU, 10023
+Torneo de Papua New Guinea, carrera 100 m, Reece PRESCOD, 10110
+Torneo de Papua New Guinea, carrera 100 m, Mujinga KAMBUNDJI, 10110
 Torneo de Papua New Guinea, carrera 10000 m, Julien WANDERS, 1613885
 Torneo de Papua New Guinea, carrera 10000 m, Degitu AZIMERAW, 1622969
 Torneo de Papua New Guinea, carrera 10000 m, Vincent Kiprotich KIBET, 1626879
@@ -8158,9 +8158,9 @@ Torneo de Papua New Guinea, salto largo, Abigail IROZURU, 948
 Torneo de Papua New Guinea, salto triple, Chengetayi MAPAYA, 1994
 Torneo de Papua New Guinea, salto triple, Alexis COPELLO, 1992
 Torneo de Papua New Guinea, salto triple, Thea LAFOND, 1985
-Torneo de Paraguay, carrera 100 m, Marie-Josée TA LOU, 9798
-Torneo de Paraguay, carrera 100 m, Blessing OKAGBARE, 9832
-Torneo de Paraguay, carrera 100 m, Yuki KOIKE, 9868
+Torneo de Paraguay, carrera 100 m, Michael RODGERS, 10012
+Torneo de Paraguay, carrera 100 m, Reece PRESCOD, 10015
+Torneo de Paraguay, carrera 100 m, Elaine THOMPSON, 10021
 Torneo de Paraguay, carrera 10000 m, Girmawit GEBRZIHAIR, 1608151
 Torneo de Paraguay, carrera 10000 m, Mohammed AHMED, 1609223
 Torneo de Paraguay, carrera 10000 m, Tamirat TOLA, 1620274
@@ -8218,9 +8218,9 @@ Torneo de Paraguay, salto largo, Ruswahl SAMAAI, 951
 Torneo de Paraguay, salto triple, Darya NIDBAYKINA, 1995
 Torneo de Paraguay, salto triple, Yaoqing FANG, 1990
 Torneo de Paraguay, salto triple, Alexis COPELLO, 1988
-Torneo de Peru, carrera 100 m, ShaCarri RICHARDSON, 9827
-Torneo de Peru, carrera 100 m, Justin GATLIN, 9836
-Torneo de Peru, carrera 100 m, Christian COLEMAN, 9843
+Torneo de Peru, carrera 100 m, Kiara GRANT, 10019
+Torneo de Peru, carrera 100 m, Zharnel HUGHES, 10063
+Torneo de Peru, carrera 100 m, Teahna DANIELS, 10070
 Torneo de Peru, carrera 10000 m, Rhonex KIPRUTO, 1614145
 Torneo de Peru, carrera 10000 m, Dera DIDA, 1617156
 Torneo de Peru, carrera 10000 m, Andamlak BELIHU, 1623698
@@ -8278,9 +8278,9 @@ Torneo de Peru, salto largo, Abigail IROZURU, 953
 Torneo de Peru, salto triple, Yanis Esmeralda DAVID, 1994
 Torneo de Peru, salto triple, Cristian NÁPOLES, 1986
 Torneo de Peru, salto triple, Shanieka RICKETTS, 1984
-Torneo de Philippines, carrera 100 m, Christian COLEMAN, 9762
-Torneo de Philippines, carrera 100 m, Aaron BROWN, 9781
-Torneo de Philippines, carrera 100 m, Elaine THOMPSON, 9815
+Torneo de Philippines, carrera 100 m, Marie-Josée TA LOU, 10020
+Torneo de Philippines, carrera 100 m, Isiah YOUNG, 10037
+Torneo de Philippines, carrera 100 m, Divine ODUDURU, 10108
 Torneo de Philippines, carrera 10000 m, Rosemary Monica WANJIRU, 1608863
 Torneo de Philippines, carrera 10000 m, Mogos TUEMAY, 1611340
 Torneo de Philippines, carrera 10000 m, Sifan HASSAN, 1613912
@@ -8338,9 +8338,9 @@ Torneo de Philippines, salto largo, Kenyattia HACKWORTH, 951
 Torneo de Philippines, salto triple, Christian TAYLOR, 1993
 Torneo de Philippines, salto triple, Thea LAFOND, 1984
 Torneo de Philippines, salto triple, Hugues Fabrice ZANGO, 1982
-Torneo de Poland, carrera 100 m, Yohan BLAKE, 9844
-Torneo de Poland, carrera 100 m, Tebogo MAMATHU, 9845
-Torneo de Poland, carrera 100 m, Twanisha TERRY, 9864
+Torneo de Poland, carrera 100 m, Manqi GE, 10035
+Torneo de Poland, carrera 100 m, Mujinga KAMBUNDJI, 10047
+Torneo de Poland, carrera 100 m, Yuki KOIKE, 10052
 Torneo de Poland, carrera 10000 m, Solomon BERIHU, 1615743
 Torneo de Poland, carrera 10000 m, Yasemin CAN, 1620496
 Torneo de Poland, carrera 10000 m, Stephanie TWELL, 1638632
@@ -8398,9 +8398,9 @@ Torneo de Poland, salto largo, Shoutarou SHIROYAMA, 950
 Torneo de Poland, salto triple, Donald SCOTT, 1980
 Torneo de Poland, salto triple, Yaming ZHU, 1976
 Torneo de Poland, salto triple, Yosiris URRUTIA, 1975
-Torneo de Portugal, carrera 100 m, Aleia HOBBS, 9794
-Torneo de Portugal, carrera 100 m, Justin GATLIN, 9838
-Torneo de Portugal, carrera 100 m, Dina ASHER-SMITH, 9847
+Torneo de Portugal, carrera 100 m, Murielle AHOURÉ, 10031
+Torneo de Portugal, carrera 100 m, Carina HORN, 10053
+Torneo de Portugal, carrera 100 m, Andre DE GRASSE, 10059
 Torneo de Portugal, carrera 10000 m, Hagos GEBRHIWET, 1613295
 Torneo de Portugal, carrera 10000 m, Gete ALEMAYEHU, 1622101
 Torneo de Portugal, carrera 10000 m, Hellen OBIRI, 1624570
@@ -8458,9 +8458,9 @@ Torneo de Portugal, salto largo, Ruswahl SAMAAI, 942
 Torneo de Portugal, salto triple, Olha SALADUKHA, 1980
 Torneo de Portugal, salto triple, Cristian NÁPOLES, 1972
 Torneo de Portugal, salto triple, Kristin GIERISCH, 1966
-Torneo de Puerto Rico, carrera 100 m, Noah LYLES, 9760
-Torneo de Puerto Rico, carrera 100 m, Elaine THOMPSON, 9761
-Torneo de Puerto Rico, carrera 100 m, Cravon GILLESPIE, 9774
+Torneo de Puerto Rico, carrera 100 m, Marie-Josée TA LOU, 10020
+Torneo de Puerto Rico, carrera 100 m, Akani SIMBINE, 10024
+Torneo de Puerto Rico, carrera 100 m, Mujinga KAMBUNDJI, 10061
 Torneo de Puerto Rico, carrera 10000 m, Berehanu TSEGU, 1611915
 Torneo de Puerto Rico, carrera 10000 m, Hellen OBIRI, 1617908
 Torneo de Puerto Rico, carrera 10000 m, Sifan HASSAN, 1624127
@@ -8518,9 +8518,9 @@ Torneo de Puerto Rico, salto largo, Ivana ŠPANOVIĆ, 949
 Torneo de Puerto Rico, salto triple, Yaming ZHU, 1996
 Torneo de Puerto Rico, salto triple, Yaoqing FANG, 1981
 Torneo de Puerto Rico, salto triple, Paraskevi PAPACHRISTOU, 1977
-Torneo de Qatar, carrera 100 m, Briana WILLIAMS, 9762
-Torneo de Qatar, carrera 100 m, Mario BURKE, 9781
-Torneo de Qatar, carrera 100 m, Twanisha TERRY, 9784
+Torneo de Qatar, carrera 100 m, Noah LYLES, 10057
+Torneo de Qatar, carrera 100 m, Yohan BLAKE, 10076
+Torneo de Qatar, carrera 100 m, ShaCarri RICHARDSON, 10113
 Torneo de Qatar, carrera 10000 m, Agnes Jebet TIROP, 1609962
 Torneo de Qatar, carrera 10000 m, Marielle HALL, 1612535
 Torneo de Qatar, carrera 10000 m, Stephanie TWELL, 1620816
@@ -8578,9 +8578,9 @@ Torneo de Qatar, salto largo, Chantel MALONE, 951
 Torneo de Qatar, salto triple, Christian TAYLOR, 1994
 Torneo de Qatar, salto triple, Benjamin WILLIAMS, 1988
 Torneo de Qatar, salto triple, Necatí ER, 1986
-Torneo de Romania, carrera 100 m, Tynia GAITHER, 9769
-Torneo de Romania, carrera 100 m, Marie-Josée TA LOU, 9778
-Torneo de Romania, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9780
+Torneo de Romania, carrera 100 m, Mujinga KAMBUNDJI, 10006
+Torneo de Romania, carrera 100 m, Aaron BROWN, 10018
+Torneo de Romania, carrera 100 m, Aleia HOBBS, 10060
 Torneo de Romania, carrera 10000 m, Stewart MCSWEYN, 1608543
 Torneo de Romania, carrera 10000 m, Berehanu TSEGU, 1611961
 Torneo de Romania, carrera 10000 m, Hellen OBIRI, 1624592
@@ -8638,9 +8638,9 @@ Torneo de Romania, salto largo, Abigail IROZURU, 952
 Torneo de Romania, salto triple, Nadia EKE, 1995
 Torneo de Romania, salto triple, Nelson ÉVORA, 1991
 Torneo de Romania, salto triple, Ruiting WU, 1987
-Torneo de Russia, carrera 100 m, Twanisha TERRY, 9788
-Torneo de Russia, carrera 100 m, Teahna DANIELS, 9809
-Torneo de Russia, carrera 100 m, Aaron BROWN, 9814
+Torneo de Russia, carrera 100 m, Tynia GAITHER, 10014
+Torneo de Russia, carrera 100 m, Murielle AHOURÉ, 10023
+Torneo de Russia, carrera 100 m, Yohan BLAKE, 10044
 Torneo de Russia, carrera 10000 m, Gete ALEMAYEHU, 1608667
 Torneo de Russia, carrera 10000 m, Agnes Jebet TIROP, 1608740
 Torneo de Russia, carrera 10000 m, Girmawit GEBRZIHAIR, 1609841
@@ -8698,9 +8698,9 @@ Torneo de Russia, salto largo, Tajay GAYLE, 950
 Torneo de Russia, salto triple, Ana PELETEIRO, 1993
 Torneo de Russia, salto triple, Omar CRADDOCK, 1989
 Torneo de Russia, salto triple, Benjamin WILLIAMS, 1984
-Torneo de Rwanda, carrera 100 m, Aaron BROWN, 9779
-Torneo de Rwanda, carrera 100 m, Divine ODUDURU, 9795
-Torneo de Rwanda, carrera 100 m, Michael RODGERS, 9798
+Torneo de Rwanda, carrera 100 m, Dina ASHER-SMITH, 10001
+Torneo de Rwanda, carrera 100 m, Roberto SKYERS, 10023
+Torneo de Rwanda, carrera 100 m, Murielle AHOURÉ, 10030
 Torneo de Rwanda, carrera 10000 m, Susan KRUMINS, 1609150
 Torneo de Rwanda, carrera 10000 m, Abadi HADIS, 1609765
 Torneo de Rwanda, carrera 10000 m, Stewart MCSWEYN, 1611338
@@ -8758,9 +8758,9 @@ Torneo de Rwanda, salto largo, Yanis Esmeralda DAVID, 952
 Torneo de Rwanda, salto triple, Benjamin WILLIAMS, 1995
 Torneo de Rwanda, salto triple, Keturah ORJI, 1992
 Torneo de Rwanda, salto triple, Diana ZAGAINOVA, 1990
-Torneo de Saint Kitts and Nevis, carrera 100 m, Yuki KOIKE, 9826
-Torneo de Saint Kitts and Nevis, carrera 100 m, Raymond EKEVWO, 9830
-Torneo de Saint Kitts and Nevis, carrera 100 m, Aleia HOBBS, 9904
+Torneo de Saint Kitts and Nevis, carrera 100 m, Divine ODUDURU, 10004
+Torneo de Saint Kitts and Nevis, carrera 100 m, Arthur CISSÉ, 10007
+Torneo de Saint Kitts and Nevis, carrera 100 m, Dina ASHER-SMITH, 10012
 Torneo de Saint Kitts and Nevis, carrera 10000 m, Tsigie GEBRESELAMA, 1614795
 Torneo de Saint Kitts and Nevis, carrera 10000 m, Tsehay GEMECHU, 1619300
 Torneo de Saint Kitts and Nevis, carrera 10000 m, Senbere TEFERI, 1620504
@@ -8818,9 +8818,9 @@ Torneo de Saint Kitts and Nevis, salto largo, Jianan WANG, 951
 Torneo de Saint Kitts and Nevis, salto triple, Yaoqing FANG, 1993
 Torneo de Saint Kitts and Nevis, salto triple, Yanis Esmeralda DAVID, 1987
 Torneo de Saint Kitts and Nevis, salto triple, Keturah ORJI, 1984
-Torneo de Saint Lucia, carrera 100 m, Divine ODUDURU, 9769
-Torneo de Saint Lucia, carrera 100 m, Tynia GAITHER, 9776
-Torneo de Saint Lucia, carrera 100 m, Arthur CISSÉ, 9780
+Torneo de Saint Lucia, carrera 100 m, Dina ASHER-SMITH, 10024
+Torneo de Saint Lucia, carrera 100 m, Michael RODGERS, 10029
+Torneo de Saint Lucia, carrera 100 m, Carina HORN, 10039
 Torneo de Saint Lucia, carrera 10000 m, Tsigie GEBRESELAMA, 1608952
 Torneo de Saint Lucia, carrera 10000 m, Rodgers KWEMOI, 1609714
 Torneo de Saint Lucia, carrera 10000 m, Agnes Jebet TIROP, 1615259
@@ -8878,9 +8878,9 @@ Torneo de Saint Lucia, salto largo, Tissanna HICKLING, 951
 Torneo de Saint Lucia, salto triple, Almir DOS SANTOS, 1993
 Torneo de Saint Lucia, salto triple, Kristin GIERISCH, 1991
 Torneo de Saint Lucia, salto triple, Shanieka RICKETTS, 1944
-Torneo de Saint Vincent and the Grenadines, carrera 100 m, Andre DE GRASSE, 9781
-Torneo de Saint Vincent and the Grenadines, carrera 100 m, Tebogo MAMATHU, 9782
-Torneo de Saint Vincent and the Grenadines, carrera 100 m, Aleia HOBBS, 9783
+Torneo de Saint Vincent and the Grenadines, carrera 100 m, Carina HORN, 10016
+Torneo de Saint Vincent and the Grenadines, carrera 100 m, Yongli WEI, 10059
+Torneo de Saint Vincent and the Grenadines, carrera 100 m, Akani SIMBINE, 10114
 Torneo de Saint Vincent and the Grenadines, carrera 10000 m, Senbere TEFERI, 1610700
 Torneo de Saint Vincent and the Grenadines, carrera 10000 m, Abadi HADIS, 1611544
 Torneo de Saint Vincent and the Grenadines, carrera 10000 m, Stewart MCSWEYN, 1614340
@@ -8938,9 +8938,9 @@ Torneo de Saint Vincent and the Grenadines, salto largo, Thobias MONTLER, 951
 Torneo de Saint Vincent and the Grenadines, salto triple, Yulimar ROJAS, 1988
 Torneo de Saint Vincent and the Grenadines, salto triple, Kristin GIERISCH, 1978
 Torneo de Saint Vincent and the Grenadines, salto triple, Yaming ZHU, 1975
-Torneo de Samoa, carrera 100 m, Blessing OKAGBARE, 9764
-Torneo de Samoa, carrera 100 m, Andre DE GRASSE, 9772
-Torneo de Samoa, carrera 100 m, Yuki KOIKE, 9802
+Torneo de Samoa, carrera 100 m, Dina ASHER-SMITH, 10023
+Torneo de Samoa, carrera 100 m, Abdul Hakim SANI BROWN, 10025
+Torneo de Samoa, carrera 100 m, Twanisha TERRY, 10077
 Torneo de Samoa, carrera 10000 m, Selemon BAREGA, 1608688
 Torneo de Samoa, carrera 10000 m, Gete ALEMAYEHU, 1613165
 Torneo de Samoa, carrera 10000 m, Julien WANDERS, 1625444
@@ -8998,9 +8998,9 @@ Torneo de Samoa, salto largo, Juan Miguel ECHEVARRÍA, 950
 Torneo de Samoa, salto triple, Cristian NÁPOLES, 1983
 Torneo de Samoa, salto triple, Yosiris URRUTIA, 1977
 Torneo de Samoa, salto triple, Christian TAYLOR, 1965
-Torneo de San Marino, carrera 100 m, Mario BURKE, 9760
-Torneo de San Marino, carrera 100 m, Yuki KOIKE, 9823
-Torneo de San Marino, carrera 100 m, Kiara GRANT, 9828
+Torneo de San Marino, carrera 100 m, Dafne SCHIPPERS, 10011
+Torneo de San Marino, carrera 100 m, Murielle AHOURÉ, 10027
+Torneo de San Marino, carrera 100 m, Tebogo MAMATHU, 10027
 Torneo de San Marino, carrera 10000 m, Emily SISSON, 1611894
 Torneo de San Marino, carrera 10000 m, Tsigie GEBRESELAMA, 1622156
 Torneo de San Marino, carrera 10000 m, Molly HUDDLE, 1622685
@@ -9058,9 +9058,9 @@ Torneo de San Marino, salto largo, Changzhou HUANG, 947
 Torneo de San Marino, salto triple, Will CLAYE, 1996
 Torneo de San Marino, salto triple, Olha SALADUKHA, 1992
 Torneo de San Marino, salto triple, Thea LAFOND, 1991
-Torneo de Sao Tome and Principe, carrera 100 m, Elaine THOMPSON, 9779
-Torneo de Sao Tome and Principe, carrera 100 m, ShaCarri RICHARDSON, 9800
-Torneo de Sao Tome and Principe, carrera 100 m, Arthur CISSÉ, 9815
+Torneo de Sao Tome and Principe, carrera 100 m, Akani SIMBINE, 10098
+Torneo de Sao Tome and Principe, carrera 100 m, Zharnel HUGHES, 10111
+Torneo de Sao Tome and Principe, carrera 100 m, Reece PRESCOD, 10119
 Torneo de Sao Tome and Principe, carrera 10000 m, Lopez LOMONG, 1608801
 Torneo de Sao Tome and Principe, carrera 10000 m, Gete ALEMAYEHU, 1610609
 Torneo de Sao Tome and Principe, carrera 10000 m, Netsanet GUDETA, 1615957
@@ -9118,9 +9118,9 @@ Torneo de Sao Tome and Principe, salto largo, Andwuelle WRIGHT, 954
 Torneo de Sao Tome and Principe, salto triple, Hugues Fabrice ZANGO, 1993
 Torneo de Sao Tome and Principe, salto triple, Chengetayi MAPAYA, 1979
 Torneo de Sao Tome and Principe, salto triple, Caterine IBARGUEN, 1977
-Torneo de Saudi Arabia, carrera 100 m, Yuki KOIKE, 9830
-Torneo de Saudi Arabia, carrera 100 m, Carina HORN, 9832
-Torneo de Saudi Arabia, carrera 100 m, Divine ODUDURU, 9834
+Torneo de Saudi Arabia, carrera 100 m, Tebogo MAMATHU, 10021
+Torneo de Saudi Arabia, carrera 100 m, Arthur CISSÉ, 10036
+Torneo de Saudi Arabia, carrera 100 m, Andre DE GRASSE, 10058
 Torneo de Saudi Arabia, carrera 10000 m, Agnes Jebet TIROP, 1618733
 Torneo de Saudi Arabia, carrera 10000 m, Tamirat TOLA, 1634100
 Torneo de Saudi Arabia, carrera 10000 m, Marielle HALL, 1635601
@@ -9178,9 +9178,9 @@ Torneo de Saudi Arabia, salto largo, Katarina JOHNSON-THOMPSON, 951
 Torneo de Saudi Arabia, salto triple, Almir DOS SANTOS, 1969
 Torneo de Saudi Arabia, salto triple, Darya NIDBAYKINA, 1966
 Torneo de Saudi Arabia, salto triple, Caterine IBARGUEN, 1964
-Torneo de Scotland, carrera 100 m, Twanisha TERRY, 9769
-Torneo de Scotland, carrera 100 m, Divine ODUDURU, 9775
-Torneo de Scotland, carrera 100 m, Dafne SCHIPPERS, 9798
+Torneo de Scotland, carrera 100 m, Raymond EKEVWO, 10025
+Torneo de Scotland, carrera 100 m, Dina ASHER-SMITH, 10099
+Torneo de Scotland, carrera 100 m, Kayla WHITE, 10100
 Torneo de Scotland, carrera 10000 m, Susan KRUMINS, 1611264
 Torneo de Scotland, carrera 10000 m, Sifan HASSAN, 1613823
 Torneo de Scotland, carrera 10000 m, Yemaneberhan CRIPPA, 1616413
@@ -9238,9 +9238,9 @@ Torneo de Scotland, salto largo, Yanis Esmeralda DAVID, 949
 Torneo de Scotland, salto triple, Thea LAFOND, 1996
 Torneo de Scotland, salto triple, Alexsandro MELO, 1991
 Torneo de Scotland, salto triple, Yosiris URRUTIA, 1982
-Torneo de Senegal, carrera 100 m, Tebogo MAMATHU, 9777
-Torneo de Senegal, carrera 100 m, Tyquendo TRACEY, 9783
-Torneo de Senegal, carrera 100 m, Abdul Hakim SANI BROWN, 9788
+Torneo de Senegal, carrera 100 m, Isiah YOUNG, 10109
+Torneo de Senegal, carrera 100 m, Mario BURKE, 10110
+Torneo de Senegal, carrera 100 m, ShaCarri RICHARDSON, 10167
 Torneo de Senegal, carrera 10000 m, Tsigie GEBRESELAMA, 1608996
 Torneo de Senegal, carrera 10000 m, Letesenbet GIDEY, 1609226
 Torneo de Senegal, carrera 10000 m, Solomon BERIHU, 1611471
@@ -9298,9 +9298,9 @@ Torneo de Senegal, salto largo, Darya KLISHINA, 947
 Torneo de Senegal, salto triple, Kimberly WILLIAMS, 1995
 Torneo de Senegal, salto triple, Ruiting WU, 1995
 Torneo de Senegal, salto triple, Alexis COPELLO, 1995
-Torneo de Serbia, carrera 100 m, Justin GATLIN, 9811
-Torneo de Serbia, carrera 100 m, Elaine THOMPSON, 9822
-Torneo de Serbia, carrera 100 m, Tebogo MAMATHU, 9834
+Torneo de Serbia, carrera 100 m, Akani SIMBINE, 10003
+Torneo de Serbia, carrera 100 m, Arthur CISSÉ, 10020
+Torneo de Serbia, carrera 100 m, Michael RODGERS, 10026
 Torneo de Serbia, carrera 10000 m, Netsanet GUDETA, 1611167
 Torneo de Serbia, carrera 10000 m, Berehanu TSEGU, 1620216
 Torneo de Serbia, carrera 10000 m, Emily SISSON, 1630955
@@ -9358,9 +9358,9 @@ Torneo de Serbia, salto largo, Jeff HENDERSON, 944
 Torneo de Serbia, salto triple, Alexis COPELLO, 1994
 Torneo de Serbia, salto triple, Yulimar ROJAS, 1989
 Torneo de Serbia, salto triple, Diana ZAGAINOVA, 1977
-Torneo de Seychelles, carrera 100 m, Arthur CISSÉ, 9763
-Torneo de Seychelles, carrera 100 m, Aleia HOBBS, 9794
-Torneo de Seychelles, carrera 100 m, Kayla WHITE, 9842
+Torneo de Seychelles, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10053
+Torneo de Seychelles, carrera 100 m, Zharnel HUGHES, 10065
+Torneo de Seychelles, carrera 100 m, Akani SIMBINE, 10206
 Torneo de Seychelles, carrera 10000 m, Yomif KEJELCHA, 1608123
 Torneo de Seychelles, carrera 10000 m, Senbere TEFERI, 1614976
 Torneo de Seychelles, carrera 10000 m, Netsanet GUDETA, 1618794
@@ -9418,9 +9418,9 @@ Torneo de Seychelles, salto largo, Will CLAYE, 953
 Torneo de Seychelles, salto triple, Nelson ÉVORA, 1991
 Torneo de Seychelles, salto triple, Yaoqing FANG, 1984
 Torneo de Seychelles, salto triple, Alexis COPELLO, 1978
-Torneo de Sierra Leone, carrera 100 m, Abdul Hakim SANI BROWN, 9765
-Torneo de Sierra Leone, carrera 100 m, Raymond EKEVWO, 9768
-Torneo de Sierra Leone, carrera 100 m, Kiara GRANT, 9853
+Torneo de Sierra Leone, carrera 100 m, Elaine THOMPSON, 10028
+Torneo de Sierra Leone, carrera 100 m, Isiah YOUNG, 10045
+Torneo de Sierra Leone, carrera 100 m, Murielle AHOURÉ, 10071
 Torneo de Sierra Leone, carrera 10000 m, Senbere TEFERI, 1615933
 Torneo de Sierra Leone, carrera 10000 m, Mogos TUEMAY, 1618115
 Torneo de Sierra Leone, carrera 10000 m, Julien WANDERS, 1622563
@@ -9478,9 +9478,9 @@ Torneo de Sierra Leone, salto largo, Ruswahl SAMAAI, 954
 Torneo de Sierra Leone, salto triple, Alexis COPELLO, 1994
 Torneo de Sierra Leone, salto triple, Yosiris URRUTIA, 1981
 Torneo de Sierra Leone, salto triple, Ruiting WU, 1972
-Torneo de Singapore, carrera 100 m, Zharnel HUGHES, 9803
-Torneo de Singapore, carrera 100 m, Jonielle SMITH, 9816
-Torneo de Singapore, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9845
+Torneo de Singapore, carrera 100 m, Abdul Hakim SANI BROWN, 10059
+Torneo de Singapore, carrera 100 m, Yongli WEI, 10059
+Torneo de Singapore, carrera 100 m, Mujinga KAMBUNDJI, 10084
 Torneo de Singapore, carrera 10000 m, Susan KRUMINS, 1611818
 Torneo de Singapore, carrera 10000 m, Hellen OBIRI, 1611970
 Torneo de Singapore, carrera 10000 m, Yomif KEJELCHA, 1612189
@@ -9538,9 +9538,9 @@ Torneo de Singapore, salto largo, Tajay GAYLE, 946
 Torneo de Singapore, salto triple, Yanis Esmeralda DAVID, 1988
 Torneo de Singapore, salto triple, Alexsandro MELO, 1985
 Torneo de Singapore, salto triple, Keturah ORJI, 1970
-Torneo de Slovakia, carrera 100 m, Michael RODGERS, 9777
-Torneo de Slovakia, carrera 100 m, Blessing OKAGBARE, 9796
-Torneo de Slovakia, carrera 100 m, Reece PRESCOD, 9801
+Torneo de Slovakia, carrera 100 m, Mujinga KAMBUNDJI, 10045
+Torneo de Slovakia, carrera 100 m, Yohan BLAKE, 10054
+Torneo de Slovakia, carrera 100 m, Andre DE GRASSE, 10063
 Torneo de Slovakia, carrera 10000 m, Yasemin CAN, 1609022
 Torneo de Slovakia, carrera 10000 m, Yemaneberhan CRIPPA, 1609169
 Torneo de Slovakia, carrera 10000 m, Andamlak BELIHU, 1609374
@@ -9598,9 +9598,9 @@ Torneo de Slovakia, salto largo, Tajay GAYLE, 952
 Torneo de Slovakia, salto triple, Pedro Pablo PICHARDO, 1979
 Torneo de Slovakia, salto triple, Almir DOS SANTOS, 1979
 Torneo de Slovakia, salto triple, Shanieka RICKETTS, 1976
-Torneo de Slovenia, carrera 100 m, Mujinga KAMBUNDJI, 9798
-Torneo de Slovenia, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9812
-Torneo de Slovenia, carrera 100 m, Tyquendo TRACEY, 9813
+Torneo de Slovenia, carrera 100 m, Manqi GE, 10006
+Torneo de Slovenia, carrera 100 m, Twanisha TERRY, 10038
+Torneo de Slovenia, carrera 100 m, Zharnel HUGHES, 10086
 Torneo de Slovenia, carrera 10000 m, Tsehay GEMECHU, 1608416
 Torneo de Slovenia, carrera 10000 m, Rhonex KIPRUTO, 1613410
 Torneo de Slovenia, carrera 10000 m, Joshua CHEPTEGEI, 1617973
@@ -9658,9 +9658,9 @@ Torneo de Slovenia, salto largo, Andwuelle WRIGHT, 946
 Torneo de Slovenia, salto triple, Dmitriy SOROKIN, 1995
 Torneo de Slovenia, salto triple, Christian TAYLOR, 1994
 Torneo de Slovenia, salto triple, Kimberly WILLIAMS, 1993
-Torneo de Solomon Islands, carrera 100 m, Raymond EKEVWO, 9791
-Torneo de Solomon Islands, carrera 100 m, Christian COLEMAN, 9819
-Torneo de Solomon Islands, carrera 100 m, Elaine THOMPSON, 9875
+Torneo de Solomon Islands, carrera 100 m, Dina ASHER-SMITH, 10027
+Torneo de Solomon Islands, carrera 100 m, Arthur CISSÉ, 10039
+Torneo de Solomon Islands, carrera 100 m, Andre DE GRASSE, 10135
 Torneo de Solomon Islands, carrera 10000 m, Hagos GEBRHIWET, 1609972
 Torneo de Solomon Islands, carrera 10000 m, Gete ALEMAYEHU, 1619250
 Torneo de Solomon Islands, carrera 10000 m, Senbere TEFERI, 1623426
@@ -9718,9 +9718,9 @@ Torneo de Solomon Islands, salto largo, Alina ROTARU, 952
 Torneo de Solomon Islands, salto triple, Caterine IBARGUEN, 1990
 Torneo de Solomon Islands, salto triple, Will CLAYE, 1979
 Torneo de Solomon Islands, salto triple, Yosiris URRUTIA, 1977
-Torneo de Somalia, carrera 100 m, Murielle AHOURÉ, 9764
-Torneo de Somalia, carrera 100 m, Mujinga KAMBUNDJI, 9836
-Torneo de Somalia, carrera 100 m, Reece PRESCOD, 9891
+Torneo de Somalia, carrera 100 m, Justin GATLIN, 10001
+Torneo de Somalia, carrera 100 m, Roberto SKYERS, 10055
+Torneo de Somalia, carrera 100 m, Arthur CISSÉ, 10079
 Torneo de Somalia, carrera 10000 m, Yasemin CAN, 1609645
 Torneo de Somalia, carrera 10000 m, Susan KRUMINS, 1609900
 Torneo de Somalia, carrera 10000 m, Abdallah Kibet MANDE, 1612330
@@ -9778,9 +9778,9 @@ Torneo de Somalia, salto largo, Hibiki TSUHA, 947
 Torneo de Somalia, salto triple, Kimberly WILLIAMS, 1995
 Torneo de Somalia, salto triple, Necatí ER, 1995
 Torneo de Somalia, salto triple, Yekaterina KONEVA, 1994
-Torneo de South Africa, carrera 100 m, Twanisha TERRY, 9778
-Torneo de South Africa, carrera 100 m, Zharnel HUGHES, 9874
-Torneo de South Africa, carrera 100 m, Andre DE GRASSE, 9882
+Torneo de South Africa, carrera 100 m, Aleia HOBBS, 10001
+Torneo de South Africa, carrera 100 m, Noah LYLES, 10075
+Torneo de South Africa, carrera 100 m, Abdul Hakim SANI BROWN, 10124
 Torneo de South Africa, carrera 10000 m, Tsigie GEBRESELAMA, 1610825
 Torneo de South Africa, carrera 10000 m, Stephanie TWELL, 1611196
 Torneo de South Africa, carrera 10000 m, Marielle HALL, 1611827
@@ -9838,9 +9838,9 @@ Torneo de South Africa, salto largo, Will CLAYE, 949
 Torneo de South Africa, salto triple, Necatí ER, 1965
 Torneo de South Africa, salto triple, Nadia EKE, 1963
 Torneo de South Africa, salto triple, Olga RYPAKOVA, 1953
-Torneo de South Korea, carrera 100 m, Kiara GRANT, 9787
-Torneo de South Korea, carrera 100 m, Divine ODUDURU, 9811
-Torneo de South Korea, carrera 100 m, Carina HORN, 9826
+Torneo de South Korea, carrera 100 m, Roberto SKYERS, 10013
+Torneo de South Korea, carrera 100 m, Teahna DANIELS, 10047
+Torneo de South Korea, carrera 100 m, ShaCarri RICHARDSON, 10049
 Torneo de South Korea, carrera 10000 m, Dera DIDA, 1612103
 Torneo de South Korea, carrera 10000 m, Molly HUDDLE, 1613539
 Torneo de South Korea, carrera 10000 m, Abdallah Kibet MANDE, 1619472
@@ -9898,9 +9898,9 @@ Torneo de South Korea, salto largo, Miltiadis TENTOGLOU, 950
 Torneo de South Korea, salto triple, Alexsandro MELO, 1995
 Torneo de South Korea, salto triple, Keturah ORJI, 1991
 Torneo de South Korea, salto triple, Diana ZAGAINOVA, 1990
-Torneo de South Sudan, carrera 100 m, Tyquendo TRACEY, 9784
-Torneo de South Sudan, carrera 100 m, Christian COLEMAN, 9815
-Torneo de South Sudan, carrera 100 m, Jonielle SMITH, 9833
+Torneo de South Sudan, carrera 100 m, Cravon GILLESPIE, 10041
+Torneo de South Sudan, carrera 100 m, Reece PRESCOD, 10047
+Torneo de South Sudan, carrera 100 m, Blessing OKAGBARE, 10095
 Torneo de South Sudan, carrera 10000 m, Tamirat TOLA, 1622647
 Torneo de South Sudan, carrera 10000 m, Julien WANDERS, 1623151
 Torneo de South Sudan, carrera 10000 m, Yasemin CAN, 1626030
@@ -9958,9 +9958,9 @@ Torneo de South Sudan, salto largo, Yaoguang ZHANG, 954
 Torneo de South Sudan, salto triple, Liadagmis POVEA, 1992
 Torneo de South Sudan, salto triple, Nelson ÉVORA, 1987
 Torneo de South Sudan, salto triple, Ruiting WU, 1974
-Torneo de Spain, carrera 100 m, Kiara PARKER, 9811
-Torneo de Spain, carrera 100 m, Christian COLEMAN, 9823
-Torneo de Spain, carrera 100 m, Aaron BROWN, 9840
+Torneo de Spain, carrera 100 m, Mario BURKE, 10004
+Torneo de Spain, carrera 100 m, Yongli WEI, 10006
+Torneo de Spain, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10008
 Torneo de Spain, carrera 10000 m, Rodgers KWEMOI, 1617019
 Torneo de Spain, carrera 10000 m, Marielle HALL, 1620008
 Torneo de Spain, carrera 10000 m, Dera DIDA, 1623260
@@ -10018,9 +10018,9 @@ Torneo de Spain, salto largo, Tajay GAYLE, 944
 Torneo de Spain, salto triple, Olga RYPAKOVA, 1992
 Torneo de Spain, salto triple, Pedro Pablo PICHARDO, 1992
 Torneo de Spain, salto triple, Diana ZAGAINOVA, 1987
-Torneo de Sri Lanka, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9764
-Torneo de Sri Lanka, carrera 100 m, Noah LYLES, 9765
-Torneo de Sri Lanka, carrera 100 m, Zharnel HUGHES, 9766
+Torneo de Sri Lanka, carrera 100 m, Yohan BLAKE, 10012
+Torneo de Sri Lanka, carrera 100 m, Yongli WEI, 10023
+Torneo de Sri Lanka, carrera 100 m, Tyquendo TRACEY, 10040
 Torneo de Sri Lanka, carrera 10000 m, Berehanu TSEGU, 1608888
 Torneo de Sri Lanka, carrera 10000 m, Rhonex KIPRUTO, 1612481
 Torneo de Sri Lanka, carrera 10000 m, Mogos TUEMAY, 1614268
@@ -10078,9 +10078,9 @@ Torneo de Sri Lanka, salto largo, Juan Miguel ECHEVARRÍA, 952
 Torneo de Sri Lanka, salto triple, Keturah ORJI, 1992
 Torneo de Sri Lanka, salto triple, Olga RYPAKOVA, 1991
 Torneo de Sri Lanka, salto triple, Paraskevi PAPACHRISTOU, 1990
-Torneo de Sudan, carrera 100 m, Tynia GAITHER, 9767
-Torneo de Sudan, carrera 100 m, Arthur CISSÉ, 9772
-Torneo de Sudan, carrera 100 m, Carina HORN, 9789
+Torneo de Sudan, carrera 100 m, Divine ODUDURU, 10011
+Torneo de Sudan, carrera 100 m, Akani SIMBINE, 10019
+Torneo de Sudan, carrera 100 m, Justin GATLIN, 10025
 Torneo de Sudan, carrera 10000 m, Rodgers KWEMOI, 1616526
 Torneo de Sudan, carrera 10000 m, Berehanu TSEGU, 1618774
 Torneo de Sudan, carrera 10000 m, Tsigie GEBRESELAMA, 1625035
@@ -10138,9 +10138,9 @@ Torneo de Sudan, salto largo, Caterine IBARGUEN, 954
 Torneo de Sudan, salto triple, Jordan Alejandro DÍAZ FORTUN, 1995
 Torneo de Sudan, salto triple, Almir DOS SANTOS, 1987
 Torneo de Sudan, salto triple, Necatí ER, 1983
-Torneo de Suriname, carrera 100 m, ShaCarri RICHARDSON, 9760
-Torneo de Suriname, carrera 100 m, Roberto SKYERS, 9780
-Torneo de Suriname, carrera 100 m, Zharnel HUGHES, 9789
+Torneo de Suriname, carrera 100 m, Isiah YOUNG, 10039
+Torneo de Suriname, carrera 100 m, Tynia GAITHER, 10079
+Torneo de Suriname, carrera 100 m, Michael RODGERS, 10101
 Torneo de Suriname, carrera 10000 m, Sifan HASSAN, 1621727
 Torneo de Suriname, carrera 10000 m, Abdallah Kibet MANDE, 1629832
 Torneo de Suriname, carrera 10000 m, Molly HUDDLE, 1646650
@@ -10198,9 +10198,9 @@ Torneo de Suriname, salto largo, Tajay GAYLE, 952
 Torneo de Suriname, salto triple, Kristin GIERISCH, 1996
 Torneo de Suriname, salto triple, Diana ZAGAINOVA, 1995
 Torneo de Suriname, salto triple, Donald SCOTT, 1995
-Torneo de Sweden, carrera 100 m, Andre DE GRASSE, 9785
-Torneo de Sweden, carrera 100 m, Briana WILLIAMS, 9846
-Torneo de Sweden, carrera 100 m, Arthur CISSÉ, 9872
+Torneo de Sweden, carrera 100 m, Twanisha TERRY, 10018
+Torneo de Sweden, carrera 100 m, Kayla WHITE, 10073
+Torneo de Sweden, carrera 100 m, Noah LYLES, 10110
 Torneo de Sweden, carrera 10000 m, Gete ALEMAYEHU, 1612630
 Torneo de Sweden, carrera 10000 m, Molly HUDDLE, 1613780
 Torneo de Sweden, carrera 10000 m, Tamirat TOLA, 1616228
@@ -10258,9 +10258,9 @@ Torneo de Sweden, salto largo, Ivana ŠPANOVIĆ, 954
 Torneo de Sweden, salto triple, Darya NIDBAYKINA, 1996
 Torneo de Sweden, salto triple, Omar CRADDOCK, 1989
 Torneo de Sweden, salto triple, Christian TAYLOR, 1986
-Torneo de Switzerland, carrera 100 m, Yohan BLAKE, 9770
-Torneo de Switzerland, carrera 100 m, Cravon GILLESPIE, 9793
-Torneo de Switzerland, carrera 100 m, Kiara GRANT, 9797
+Torneo de Switzerland, carrera 100 m, ShaCarri RICHARDSON, 10027
+Torneo de Switzerland, carrera 100 m, Tebogo MAMATHU, 10028
+Torneo de Switzerland, carrera 100 m, Yuki KOIKE, 10051
 Torneo de Switzerland, carrera 10000 m, Marielle HALL, 1608971
 Torneo de Switzerland, carrera 10000 m, Yemaneberhan CRIPPA, 1613167
 Torneo de Switzerland, carrera 10000 m, Mogos TUEMAY, 1617310
@@ -10318,9 +10318,9 @@ Torneo de Switzerland, salto largo, Florentina Costina IUSCO, 947
 Torneo de Switzerland, salto triple, Chengetayi MAPAYA, 1996
 Torneo de Switzerland, salto triple, Ruiting WU, 1982
 Torneo de Switzerland, salto triple, Yaming ZHU, 1982
-Torneo de Syria, carrera 100 m, Teahna DANIELS, 9793
-Torneo de Syria, carrera 100 m, Blessing OKAGBARE, 9797
-Torneo de Syria, carrera 100 m, Isiah YOUNG, 9802
+Torneo de Syria, carrera 100 m, Carina HORN, 10000
+Torneo de Syria, carrera 100 m, Dafne SCHIPPERS, 10060
+Torneo de Syria, carrera 100 m, Noah LYLES, 10072
 Torneo de Syria, carrera 10000 m, Jemal Yimer MEKONNEN, 1614442
 Torneo de Syria, carrera 10000 m, Girmawit GEBRZIHAIR, 1614485
 Torneo de Syria, carrera 10000 m, Senbere TEFERI, 1620020
@@ -10378,9 +10378,9 @@ Torneo de Syria, salto largo, Malaika MIHAMBO, 951
 Torneo de Syria, salto triple, Alexis COPELLO, 1994
 Torneo de Syria, salto triple, Alexsandro MELO, 1989
 Torneo de Syria, salto triple, Yaming ZHU, 1983
-Torneo de Taiwan, carrera 100 m, Arthur CISSÉ, 9773
-Torneo de Taiwan, carrera 100 m, Shelly-Ann FRASER-PRYCE, 9783
-Torneo de Taiwan, carrera 100 m, Akani SIMBINE, 9798
+Torneo de Taiwan, carrera 100 m, Jonielle SMITH, 10007
+Torneo de Taiwan, carrera 100 m, Kayla WHITE, 10037
+Torneo de Taiwan, carrera 100 m, Noah LYLES, 10170
 Torneo de Taiwan, carrera 10000 m, Yemaneberhan CRIPPA, 1609970
 Torneo de Taiwan, carrera 10000 m, Stewart MCSWEYN, 1612871
 Torneo de Taiwan, carrera 10000 m, Hagos GEBRHIWET, 1615405
@@ -10438,9 +10438,9 @@ Torneo de Taiwan, salto largo, Juan Miguel ECHEVARRÍA, 952
 Torneo de Taiwan, salto triple, Nelson ÉVORA, 1994
 Torneo de Taiwan, salto triple, Tori FRANKLIN, 1976
 Torneo de Taiwan, salto triple, Necatí ER, 1970
-Torneo de Tajikistan, carrera 100 m, Jonielle SMITH, 9839
-Torneo de Tajikistan, carrera 100 m, Yongli WEI, 9849
-Torneo de Tajikistan, carrera 100 m, Blessing OKAGBARE, 9866
+Torneo de Tajikistan, carrera 100 m, Dafne SCHIPPERS, 10008
+Torneo de Tajikistan, carrera 100 m, Twanisha TERRY, 10013
+Torneo de Tajikistan, carrera 100 m, Elaine THOMPSON, 10026
 Torneo de Tajikistan, carrera 10000 m, Agnes Jebet TIROP, 1612470
 Torneo de Tajikistan, carrera 10000 m, Susan KRUMINS, 1614210
 Torneo de Tajikistan, carrera 10000 m, Gete ALEMAYEHU, 1623874
@@ -10498,9 +10498,9 @@ Torneo de Tajikistan, salto largo, Hilary KPATCHA, 950
 Torneo de Tajikistan, salto triple, Nelson ÉVORA, 1985
 Torneo de Tajikistan, salto triple, Nadia EKE, 1984
 Torneo de Tajikistan, salto triple, Jordan Alejandro DÍAZ FORTUN, 1984
-Torneo de Tanzania, carrera 100 m, Mario BURKE, 9767
-Torneo de Tanzania, carrera 100 m, Akani SIMBINE, 9782
-Torneo de Tanzania, carrera 100 m, Carina HORN, 9816
+Torneo de Tanzania, carrera 100 m, Michael RODGERS, 10041
+Torneo de Tanzania, carrera 100 m, Zharnel HUGHES, 10095
+Torneo de Tanzania, carrera 100 m, Jonielle SMITH, 10116
 Torneo de Tanzania, carrera 10000 m, Joshua CHEPTEGEI, 1618680
 Torneo de Tanzania, carrera 10000 m, Agnes Jebet TIROP, 1621379
 Torneo de Tanzania, carrera 10000 m, Degitu AZIMERAW, 1625664
@@ -10558,9 +10558,9 @@ Torneo de Tanzania, salto largo, Steffin MCCARTER, 950
 Torneo de Tanzania, salto triple, Omar CRADDOCK, 1995
 Torneo de Tanzania, salto triple, Jordan Alejandro DÍAZ FORTUN, 1993
 Torneo de Tanzania, salto triple, Kristin GIERISCH, 1992
-Torneo de Thailand, carrera 100 m, Briana WILLIAMS, 9766
-Torneo de Thailand, carrera 100 m, Yongli WEI, 9785
-Torneo de Thailand, carrera 100 m, Kiara GRANT, 9817
+Torneo de Thailand, carrera 100 m, Akani SIMBINE, 10001
+Torneo de Thailand, carrera 100 m, Twanisha TERRY, 10003
+Torneo de Thailand, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10009
 Torneo de Thailand, carrera 10000 m, Joshua CHEPTEGEI, 1609174
 Torneo de Thailand, carrera 10000 m, Molly HUDDLE, 1609722
 Torneo de Thailand, carrera 10000 m, Julien WANDERS, 1619377
@@ -10618,9 +10618,9 @@ Torneo de Thailand, salto largo, Yuki HASHIOKA, 944
 Torneo de Thailand, salto triple, Benjamin WILLIAMS, 1995
 Torneo de Thailand, salto triple, Liadagmis POVEA, 1990
 Torneo de Thailand, salto triple, Yaming ZHU, 1986
-Torneo de Timor-Leste, carrera 100 m, Zharnel HUGHES, 9827
-Torneo de Timor-Leste, carrera 100 m, Carina HORN, 9838
-Torneo de Timor-Leste, carrera 100 m, Kiara GRANT, 9849
+Torneo de Timor-Leste, carrera 100 m, Aleia HOBBS, 10010
+Torneo de Timor-Leste, carrera 100 m, Blessing OKAGBARE, 10024
+Torneo de Timor-Leste, carrera 100 m, Roberto SKYERS, 10029
 Torneo de Timor-Leste, carrera 10000 m, Solomon BERIHU, 1610964
 Torneo de Timor-Leste, carrera 10000 m, Abadi HADIS, 1617400
 Torneo de Timor-Leste, carrera 10000 m, Lopez LOMONG, 1618357
@@ -10678,9 +10678,9 @@ Torneo de Timor-Leste, salto largo, Alina ROTARU, 952
 Torneo de Timor-Leste, salto triple, Kimberly WILLIAMS, 1992
 Torneo de Timor-Leste, salto triple, Nelson ÉVORA, 1991
 Torneo de Timor-Leste, salto triple, Christian TAYLOR, 1983
-Torneo de Togo, carrera 100 m, Isiah YOUNG, 9798
-Torneo de Togo, carrera 100 m, Manqi GE, 9917
-Torneo de Togo, carrera 100 m, Briana WILLIAMS, 9919
+Torneo de Togo, carrera 100 m, Marie-Josée TA LOU, 10003
+Torneo de Togo, carrera 100 m, Teahna DANIELS, 10013
+Torneo de Togo, carrera 100 m, Abdul Hakim SANI BROWN, 10014
 Torneo de Togo, carrera 10000 m, Marielle HALL, 1614745
 Torneo de Togo, carrera 10000 m, Gete ALEMAYEHU, 1614887
 Torneo de Togo, carrera 10000 m, Girmawit GEBRZIHAIR, 1615076
@@ -10738,9 +10738,9 @@ Torneo de Togo, salto largo, Xinglong GAO, 950
 Torneo de Togo, salto triple, Yulimar ROJAS, 1996
 Torneo de Togo, salto triple, Patrícia MAMONA, 1995
 Torneo de Togo, salto triple, Tori FRANKLIN, 1983
-Torneo de Tonga, carrera 100 m, Elaine THOMPSON, 9816
-Torneo de Tonga, carrera 100 m, Isiah YOUNG, 9835
-Torneo de Tonga, carrera 100 m, Tebogo MAMATHU, 9837
+Torneo de Tonga, carrera 100 m, Briana WILLIAMS, 10028
+Torneo de Tonga, carrera 100 m, Dina ASHER-SMITH, 10038
+Torneo de Tonga, carrera 100 m, Divine ODUDURU, 10090
 Torneo de Tonga, carrera 10000 m, Selemon BAREGA, 1617639
 Torneo de Tonga, carrera 10000 m, Girmawit GEBRZIHAIR, 1621638
 Torneo de Tonga, carrera 10000 m, Rodgers KWEMOI, 1623286
@@ -10798,9 +10798,9 @@ Torneo de Tonga, salto largo, Steffin MCCARTER, 943
 Torneo de Tonga, salto triple, Will CLAYE, 1991
 Torneo de Tonga, salto triple, Yulimar ROJAS, 1991
 Torneo de Tonga, salto triple, Hugues Fabrice ZANGO, 1982
-Torneo de Trinidad and Tobago, carrera 100 m, Mario BURKE, 9784
-Torneo de Trinidad and Tobago, carrera 100 m, Aleia HOBBS, 9807
-Torneo de Trinidad and Tobago, carrera 100 m, Mujinga KAMBUNDJI, 9818
+Torneo de Trinidad and Tobago, carrera 100 m, Abdul Hakim SANI BROWN, 10015
+Torneo de Trinidad and Tobago, carrera 100 m, Zharnel HUGHES, 10016
+Torneo de Trinidad and Tobago, carrera 100 m, Yohan BLAKE, 10076
 Torneo de Trinidad and Tobago, carrera 10000 m, Solomon BERIHU, 1612222
 Torneo de Trinidad and Tobago, carrera 10000 m, Yomif KEJELCHA, 1614021
 Torneo de Trinidad and Tobago, carrera 10000 m, Rhonex KIPRUTO, 1614441
@@ -10858,9 +10858,9 @@ Torneo de Trinidad and Tobago, salto largo, Ruswahl SAMAAI, 954
 Torneo de Trinidad and Tobago, salto triple, Diana ZAGAINOVA, 1987
 Torneo de Trinidad and Tobago, salto triple, Necatí ER, 1984
 Torneo de Trinidad and Tobago, salto triple, Olga RYPAKOVA, 1981
-Torneo de Tunisia, carrera 100 m, Justin GATLIN, 9779
-Torneo de Tunisia, carrera 100 m, Mario BURKE, 9811
-Torneo de Tunisia, carrera 100 m, Aaron BROWN, 9903
+Torneo de Tunisia, carrera 100 m, Jonielle SMITH, 10041
+Torneo de Tunisia, carrera 100 m, Zharnel HUGHES, 10070
+Torneo de Tunisia, carrera 100 m, Manqi GE, 10071
 Torneo de Tunisia, carrera 10000 m, Yomif KEJELCHA, 1609845
 Torneo de Tunisia, carrera 10000 m, Rodgers KWEMOI, 1610655
 Torneo de Tunisia, carrera 10000 m, Rosemary Monica WANJIRU, 1612811
@@ -10918,9 +10918,9 @@ Torneo de Tunisia, salto largo, Yanis Esmeralda DAVID, 945
 Torneo de Tunisia, salto triple, Necatí ER, 1996
 Torneo de Tunisia, salto triple, Olga RYPAKOVA, 1988
 Torneo de Tunisia, salto triple, Yaming ZHU, 1980
-Torneo de Turkey, carrera 100 m, Carina HORN, 9808
-Torneo de Turkey, carrera 100 m, ShaCarri RICHARDSON, 9833
-Torneo de Turkey, carrera 100 m, Mujinga KAMBUNDJI, 9843
+Torneo de Turkey, carrera 100 m, Twanisha TERRY, 10002
+Torneo de Turkey, carrera 100 m, Zharnel HUGHES, 10003
+Torneo de Turkey, carrera 100 m, Tynia GAITHER, 10027
 Torneo de Turkey, carrera 10000 m, Senbere TEFERI, 1611462
 Torneo de Turkey, carrera 10000 m, Girmawit GEBRZIHAIR, 1615289
 Torneo de Turkey, carrera 10000 m, Lopez LOMONG, 1630403
@@ -10978,9 +10978,9 @@ Torneo de Turkey, salto largo, Changzhou HUANG, 954
 Torneo de Turkey, salto triple, Dmitriy SOROKIN, 1988
 Torneo de Turkey, salto triple, Olga RYPAKOVA, 1969
 Torneo de Turkey, salto triple, Ruiting WU, 1960
-Torneo de Turkmenistan, carrera 100 m, Divine ODUDURU, 9770
-Torneo de Turkmenistan, carrera 100 m, Reece PRESCOD, 9779
-Torneo de Turkmenistan, carrera 100 m, Yohan BLAKE, 9795
+Torneo de Turkmenistan, carrera 100 m, Aleia HOBBS, 10031
+Torneo de Turkmenistan, carrera 100 m, Andre DE GRASSE, 10039
+Torneo de Turkmenistan, carrera 100 m, Shelly-Ann FRASER-PRYCE, 10068
 Torneo de Turkmenistan, carrera 10000 m, Stewart MCSWEYN, 1608360
 Torneo de Turkmenistan, carrera 10000 m, Yemaneberhan CRIPPA, 1609145
 Torneo de Turkmenistan, carrera 10000 m, Vincent Kiprotich KIBET, 1620478
@@ -11038,9 +11038,9 @@ Torneo de Turkmenistan, salto largo, Caterine IBARGUEN, 942
 Torneo de Turkmenistan, salto triple, Paraskevi PAPACHRISTOU, 1995
 Torneo de Turkmenistan, salto triple, Keturah ORJI, 1990
 Torneo de Turkmenistan, salto triple, Nadia EKE, 1990
-Torneo de Tuvalu, carrera 100 m, Mario BURKE, 9770
-Torneo de Tuvalu, carrera 100 m, Michael RODGERS, 9787
-Torneo de Tuvalu, carrera 100 m, Twanisha TERRY, 9816
+Torneo de Tuvalu, carrera 100 m, Teahna DANIELS, 10025
+Torneo de Tuvalu, carrera 100 m, Murielle AHOURÉ, 10028
+Torneo de Tuvalu, carrera 100 m, Tebogo MAMATHU, 10032
 Torneo de Tuvalu, carrera 10000 m, Yomif KEJELCHA, 1611517
 Torneo de Tuvalu, carrera 10000 m, Rhonex KIPRUTO, 1611652
 Torneo de Tuvalu, carrera 10000 m, Jemal Yimer MEKONNEN, 1613187
@@ -11098,9 +11098,9 @@ Torneo de Tuvalu, salto largo, Jianan WANG, 955
 Torneo de Tuvalu, salto triple, Kristin GIERISCH, 1995
 Torneo de Tuvalu, salto triple, Patrícia MAMONA, 1987
 Torneo de Tuvalu, salto triple, Donald SCOTT, 1984
-Torneo de Uganda, carrera 100 m, Kayla WHITE, 9803
-Torneo de Uganda, carrera 100 m, Divine ODUDURU, 9821
-Torneo de Uganda, carrera 100 m, Briana WILLIAMS, 9840
+Torneo de Uganda, carrera 100 m, Twanisha TERRY, 10025
+Torneo de Uganda, carrera 100 m, Akani SIMBINE, 10061
+Torneo de Uganda, carrera 100 m, Marie-Josée TA LOU, 10081
 Torneo de Uganda, carrera 10000 m, Selemon BAREGA, 1608852
 Torneo de Uganda, carrera 10000 m, Emily SISSON, 1611154
 Torneo de Uganda, carrera 10000 m, Berehanu TSEGU, 1617615
@@ -11158,9 +11158,9 @@ Torneo de Uganda, salto largo, Ese BRUME, 950
 Torneo de Uganda, salto triple, Kristin GIERISCH, 1994
 Torneo de Uganda, salto triple, Almir DOS SANTOS, 1989
 Torneo de Uganda, salto triple, Yulimar ROJAS, 1976
-Torneo de Ukraine, carrera 100 m, Briana WILLIAMS, 9788
-Torneo de Ukraine, carrera 100 m, Raymond EKEVWO, 9797
-Torneo de Ukraine, carrera 100 m, Christian COLEMAN, 9810
+Torneo de Ukraine, carrera 100 m, Blessing OKAGBARE, 10034
+Torneo de Ukraine, carrera 100 m, ShaCarri RICHARDSON, 10038
+Torneo de Ukraine, carrera 100 m, Marie-Josée TA LOU, 10078
 Torneo de Ukraine, carrera 10000 m, Julien WANDERS, 1611291
 Torneo de Ukraine, carrera 10000 m, Abadi HADIS, 1611503
 Torneo de Ukraine, carrera 10000 m, Abdallah Kibet MANDE, 1613415
@@ -11218,9 +11218,9 @@ Torneo de Ukraine, salto largo, Maryna BEKH-ROMANCHUK, 953
 Torneo de Ukraine, salto triple, Hugues Fabrice ZANGO, 1994
 Torneo de Ukraine, salto triple, Tori FRANKLIN, 1993
 Torneo de Ukraine, salto triple, Thea LAFOND, 1990
-Torneo de United Arab Emirates, carrera 100 m, Blessing OKAGBARE, 9766
-Torneo de United Arab Emirates, carrera 100 m, Raymond EKEVWO, 9782
-Torneo de United Arab Emirates, carrera 100 m, Cravon GILLESPIE, 9825
+Torneo de United Arab Emirates, carrera 100 m, Kiara GRANT, 10009
+Torneo de United Arab Emirates, carrera 100 m, Divine ODUDURU, 10010
+Torneo de United Arab Emirates, carrera 100 m, Dina ASHER-SMITH, 10025
 Torneo de United Arab Emirates, carrera 10000 m, Yasemin CAN, 1613653
 Torneo de United Arab Emirates, carrera 10000 m, Vincent Kiprotich KIBET, 1617003
 Torneo de United Arab Emirates, carrera 10000 m, Emily SISSON, 1617927
@@ -11278,9 +11278,9 @@ Torneo de United Arab Emirates, salto largo, Maryna BEKH-ROMANCHUK, 954
 Torneo de United Arab Emirates, salto triple, Olha SALADUKHA, 1996
 Torneo de United Arab Emirates, salto triple, Omar CRADDOCK, 1991
 Torneo de United Arab Emirates, salto triple, Will CLAYE, 1990
-Torneo de United Kingdom, carrera 100 m, Tynia GAITHER, 9779
-Torneo de United Kingdom, carrera 100 m, Yohan BLAKE, 9796
-Torneo de United Kingdom, carrera 100 m, Yuki KOIKE, 9829
+Torneo de United Kingdom, carrera 100 m, Dina ASHER-SMITH, 10025
+Torneo de United Kingdom, carrera 100 m, Isiah YOUNG, 10027
+Torneo de United Kingdom, carrera 100 m, Manqi GE, 10038
 Torneo de United Kingdom, carrera 10000 m, Agnes Jebet TIROP, 1609950
 Torneo de United Kingdom, carrera 10000 m, Tsehay GEMECHU, 1611888
 Torneo de United Kingdom, carrera 10000 m, Rodgers KWEMOI, 1611996
@@ -11338,9 +11338,9 @@ Torneo de United Kingdom, salto largo, Jianan WANG, 953
 Torneo de United Kingdom, salto triple, Ana PELETEIRO, 1996
 Torneo de United Kingdom, salto triple, Diana ZAGAINOVA, 1993
 Torneo de United Kingdom, salto triple, Alexsandro MELO, 1989
-Torneo de United States, carrera 100 m, Murielle AHOURÉ, 9760
-Torneo de United States, carrera 100 m, Yohan BLAKE, 9761
-Torneo de United States, carrera 100 m, Dina ASHER-SMITH, 9826
+Torneo de United States, carrera 100 m, Isiah YOUNG, 10012
+Torneo de United States, carrera 100 m, Aaron BROWN, 10020
+Torneo de United States, carrera 100 m, Elaine THOMPSON, 10049
 Torneo de United States, carrera 10000 m, Stewart MCSWEYN, 1612835
 Torneo de United States, carrera 10000 m, Tsigie GEBRESELAMA, 1617697
 Torneo de United States, carrera 10000 m, Mohammed AHMED, 1623898
@@ -11398,9 +11398,9 @@ Torneo de United States, salto largo, Brittney REESE, 952
 Torneo de United States, salto triple, Darya NIDBAYKINA, 1995
 Torneo de United States, salto triple, Kristin GIERISCH, 1994
 Torneo de United States, salto triple, Olga RYPAKOVA, 1994
-Torneo de Uruguay, carrera 100 m, Christian COLEMAN, 9763
-Torneo de Uruguay, carrera 100 m, Cravon GILLESPIE, 9781
-Torneo de Uruguay, carrera 100 m, Divine ODUDURU, 9800
+Torneo de Uruguay, carrera 100 m, Andre DE GRASSE, 10018
+Torneo de Uruguay, carrera 100 m, Twanisha TERRY, 10020
+Torneo de Uruguay, carrera 100 m, Mujinga KAMBUNDJI, 10025
 Torneo de Uruguay, carrera 10000 m, Yasemin CAN, 1608516
 Torneo de Uruguay, carrera 10000 m, Agnes Jebet TIROP, 1611463
 Torneo de Uruguay, carrera 10000 m, Dera DIDA, 1616235
@@ -11458,9 +11458,9 @@ Torneo de Uruguay, salto largo, Caterine IBARGUEN, 952
 Torneo de Uruguay, salto triple, Alexsandro MELO, 1992
 Torneo de Uruguay, salto triple, Yosiris URRUTIA, 1991
 Torneo de Uruguay, salto triple, Thea LAFOND, 1986
-Torneo de Uzbekistan, carrera 100 m, Isiah YOUNG, 9778
-Torneo de Uzbekistan, carrera 100 m, Dafne SCHIPPERS, 9836
-Torneo de Uzbekistan, carrera 100 m, Akani SIMBINE, 9856
+Torneo de Uzbekistan, carrera 100 m, Elaine THOMPSON, 10000
+Torneo de Uzbekistan, carrera 100 m, Tynia GAITHER, 10004
+Torneo de Uzbekistan, carrera 100 m, Raymond EKEVWO, 10023
 Torneo de Uzbekistan, carrera 10000 m, Yomif KEJELCHA, 1614128
 Torneo de Uzbekistan, carrera 10000 m, Tsehay GEMECHU, 1627815
 Torneo de Uzbekistan, carrera 10000 m, Netsanet GUDETA, 1629919
@@ -11518,9 +11518,9 @@ Torneo de Uzbekistan, salto largo, Malaika MIHAMBO, 948
 Torneo de Uzbekistan, salto triple, Thea LAFOND, 1991
 Torneo de Uzbekistan, salto triple, Pedro Pablo PICHARDO, 1991
 Torneo de Uzbekistan, salto triple, Jordan Alejandro DÍAZ FORTUN, 1991
-Torneo de Vanuatu, carrera 100 m, Tebogo MAMATHU, 9776
-Torneo de Vanuatu, carrera 100 m, Christian COLEMAN, 9799
-Torneo de Vanuatu, carrera 100 m, Zharnel HUGHES, 9817
+Torneo de Vanuatu, carrera 100 m, Jonielle SMITH, 10033
+Torneo de Vanuatu, carrera 100 m, Andre DE GRASSE, 10043
+Torneo de Vanuatu, carrera 100 m, Kiara GRANT, 10049
 Torneo de Vanuatu, carrera 10000 m, Senbere TEFERI, 1610719
 Torneo de Vanuatu, carrera 10000 m, Yomif KEJELCHA, 1610808
 Torneo de Vanuatu, carrera 10000 m, Letesenbet GIDEY, 1614160
@@ -11578,9 +11578,9 @@ Torneo de Vanuatu, salto largo, JuVaughn HARRISON, 950
 Torneo de Vanuatu, salto triple, Dmitriy SOROKIN, 1990
 Torneo de Vanuatu, salto triple, Keturah ORJI, 1978
 Torneo de Vanuatu, salto triple, Necatí ER, 1972
-Torneo de Vatican City, carrera 100 m, Kiara GRANT, 9760
-Torneo de Vatican City, carrera 100 m, Yuki KOIKE, 9807
-Torneo de Vatican City, carrera 100 m, Murielle AHOURÉ, 9875
+Torneo de Vatican City, carrera 100 m, Aaron BROWN, 10012
+Torneo de Vatican City, carrera 100 m, Twanisha TERRY, 10029
+Torneo de Vatican City, carrera 100 m, Carina HORN, 10039
 Torneo de Vatican City, carrera 10000 m, Selemon BAREGA, 1608676
 Torneo de Vatican City, carrera 10000 m, Sifan HASSAN, 1611239
 Torneo de Vatican City, carrera 10000 m, Tamirat TOLA, 1619318
@@ -11638,9 +11638,9 @@ Torneo de Vatican City, salto largo, Maykel MASSÓ, 950
 Torneo de Vatican City, salto triple, Jordan Alejandro DÍAZ FORTUN, 1975
 Torneo de Vatican City, salto triple, Pedro Pablo PICHARDO, 1974
 Torneo de Vatican City, salto triple, Yaming ZHU, 1966
-Torneo de Venezuela, carrera 100 m, Isiah YOUNG, 9794
-Torneo de Venezuela, carrera 100 m, Kiara GRANT, 9822
-Torneo de Venezuela, carrera 100 m, Tynia GAITHER, 9823
+Torneo de Venezuela, carrera 100 m, Aaron BROWN, 10007
+Torneo de Venezuela, carrera 100 m, Teahna DANIELS, 10009
+Torneo de Venezuela, carrera 100 m, Yohan BLAKE, 10017
 Torneo de Venezuela, carrera 10000 m, Hagos GEBRHIWET, 1609008
 Torneo de Venezuela, carrera 10000 m, Sifan HASSAN, 1611414
 Torneo de Venezuela, carrera 10000 m, Tamirat TOLA, 1611777
@@ -11698,9 +11698,9 @@ Torneo de Venezuela, salto largo, Shoutarou SHIROYAMA, 954
 Torneo de Venezuela, salto triple, Necatí ER, 1995
 Torneo de Venezuela, salto triple, Caterine IBARGUEN, 1986
 Torneo de Venezuela, salto triple, Cristian NÁPOLES, 1974
-Torneo de Vietnam, carrera 100 m, Zharnel HUGHES, 9767
-Torneo de Vietnam, carrera 100 m, Briana WILLIAMS, 9794
-Torneo de Vietnam, carrera 100 m, Roberto SKYERS, 9812
+Torneo de Vietnam, carrera 100 m, Divine ODUDURU, 10032
+Torneo de Vietnam, carrera 100 m, Yohan BLAKE, 10081
+Torneo de Vietnam, carrera 100 m, Manqi GE, 10089
 Torneo de Vietnam, carrera 10000 m, Vincent Kiprotich KIBET, 1609953
 Torneo de Vietnam, carrera 10000 m, Andamlak BELIHU, 1617364
 Torneo de Vietnam, carrera 10000 m, Julien WANDERS, 1620306
@@ -11758,9 +11758,9 @@ Torneo de Vietnam, salto largo, Jianan WANG, 945
 Torneo de Vietnam, salto triple, Yosiris URRUTIA, 1980
 Torneo de Vietnam, salto triple, Christian TAYLOR, 1977
 Torneo de Vietnam, salto triple, Paraskevi PAPACHRISTOU, 1964
-Torneo de Virgin Islands (British), carrera 100 m, Shelly-Ann FRASER-PRYCE, 9848
-Torneo de Virgin Islands (British), carrera 100 m, Elaine THOMPSON, 9865
-Torneo de Virgin Islands (British), carrera 100 m, Tebogo MAMATHU, 9873
+Torneo de Virgin Islands (British), carrera 100 m, Andre DE GRASSE, 10035
+Torneo de Virgin Islands (British), carrera 100 m, Kiara GRANT, 10045
+Torneo de Virgin Islands (British), carrera 100 m, Raymond EKEVWO, 10076
 Torneo de Virgin Islands (British), carrera 10000 m, Netsanet GUDETA, 1615479
 Torneo de Virgin Islands (British), carrera 10000 m, Yomif KEJELCHA, 1617876
 Torneo de Virgin Islands (British), carrera 10000 m, Senbere TEFERI, 1620061
@@ -11818,9 +11818,9 @@ Torneo de Virgin Islands (British), salto largo, Juan Miguel ECHEVARRÍA, 950
 Torneo de Virgin Islands (British), salto triple, Yaoqing FANG, 1995
 Torneo de Virgin Islands (British), salto triple, Thea LAFOND, 1993
 Torneo de Virgin Islands (British), salto triple, Paraskevi PAPACHRISTOU, 1989
-Torneo de Wales, carrera 100 m, Divine ODUDURU, 9763
-Torneo de Wales, carrera 100 m, Andre DE GRASSE, 9786
-Torneo de Wales, carrera 100 m, Justin GATLIN, 9816
+Torneo de Wales, carrera 100 m, Teahna DANIELS, 10037
+Torneo de Wales, carrera 100 m, Mujinga KAMBUNDJI, 10056
+Torneo de Wales, carrera 100 m, Aaron BROWN, 10065
 Torneo de Wales, carrera 10000 m, Abdallah Kibet MANDE, 1609304
 Torneo de Wales, carrera 10000 m, Agnes Jebet TIROP, 1612606
 Torneo de Wales, carrera 10000 m, Tsehay GEMECHU, 1628024
@@ -11878,9 +11878,9 @@ Torneo de Wales, salto largo, Shara PROCTOR, 952
 Torneo de Wales, salto triple, Shanieka RICKETTS, 1988
 Torneo de Wales, salto triple, Patrícia MAMONA, 1981
 Torneo de Wales, salto triple, Yulimar ROJAS, 1978
-Torneo de Yemen, carrera 100 m, Elaine THOMPSON, 9789
-Torneo de Yemen, carrera 100 m, Yohan BLAKE, 9807
-Torneo de Yemen, carrera 100 m, Kiara GRANT, 9811
+Torneo de Yemen, carrera 100 m, Abdul Hakim SANI BROWN, 10002
+Torneo de Yemen, carrera 100 m, Twanisha TERRY, 10027
+Torneo de Yemen, carrera 100 m, Michael RODGERS, 10036
 Torneo de Yemen, carrera 10000 m, Mohammed AHMED, 1609981
 Torneo de Yemen, carrera 10000 m, Stephanie TWELL, 1610187
 Torneo de Yemen, carrera 10000 m, Emily SISSON, 1618662
@@ -11938,9 +11938,9 @@ Torneo de Yemen, salto largo, Yanis Esmeralda DAVID, 949
 Torneo de Yemen, salto triple, Ruiting WU, 1987
 Torneo de Yemen, salto triple, Cristian NÁPOLES, 1986
 Torneo de Yemen, salto triple, Alexsandro MELO, 1984
-Torneo de Zambia, carrera 100 m, Kayla WHITE, 9787
-Torneo de Zambia, carrera 100 m, Andre DE GRASSE, 9802
-Torneo de Zambia, carrera 100 m, Cravon GILLESPIE, 9884
+Torneo de Zambia, carrera 100 m, Briana WILLIAMS, 10007
+Torneo de Zambia, carrera 100 m, Blessing OKAGBARE, 10009
+Torneo de Zambia, carrera 100 m, Reece PRESCOD, 10025
 Torneo de Zambia, carrera 10000 m, Selemon BAREGA, 1608319
 Torneo de Zambia, carrera 10000 m, Netsanet GUDETA, 1616946
 Torneo de Zambia, carrera 10000 m, Mogos TUEMAY, 1622075
@@ -11998,9 +11998,9 @@ Torneo de Zambia, salto largo, Malaika MIHAMBO, 948
 Torneo de Zambia, salto triple, Yanis Esmeralda DAVID, 1995
 Torneo de Zambia, salto triple, Tori FRANKLIN, 1994
 Torneo de Zambia, salto triple, Christian TAYLOR, 1987
-Torneo de Zimbabwe, carrera 100 m, Yuki KOIKE, 9799
-Torneo de Zimbabwe, carrera 100 m, Mujinga KAMBUNDJI, 9800
-Torneo de Zimbabwe, carrera 100 m, Cravon GILLESPIE, 9820
+Torneo de Zimbabwe, carrera 100 m, Isiah YOUNG, 10007
+Torneo de Zimbabwe, carrera 100 m, Reece PRESCOD, 10011
+Torneo de Zimbabwe, carrera 100 m, Kayla WHITE, 10026
 Torneo de Zimbabwe, carrera 10000 m, Vincent Kiprotich KIBET, 1612613
 Torneo de Zimbabwe, carrera 10000 m, Sifan HASSAN, 1625232
 Torneo de Zimbabwe, carrera 10000 m, Stewart MCSWEYN, 1626448
