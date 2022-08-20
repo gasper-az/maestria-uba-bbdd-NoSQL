@@ -39,31 +39,21 @@ def procesar_fila(database, fila):
     if fila["nombre_deportista"] != "Christian COLEMAN" or fila["nombre_ciudad_torneo"] != "Buenos Aires":
         return
 
-    tupla_a_insertar = (
-        fila["id_especialidad"],
-        fila["nombre_especialidad"],
-        fila["id_tipo_especialidad"],
-        fila["nombre_tipo_especialidad"],
-    )
-    
-    # si la tupla no está en la database, la agregamos (append)
-    if tupla_a_insertar not in database:
-        database.append(tupla_a_insertar)
+    database.append(fila)
 
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 def generar_reporte(database):
-    # ordenamos por nombre_tipo_especialidad
-    database_ordenada = sorted(database, key = lambda x : x[3])
-
+    # ordenamos por nombre_especialidad
+    database_ordenada = sorted(database, key = lambda x : x["nombre_especialidad"])
+    columnas = ["nombre_especialidad", "nombre_tipo_especialidad"]
     archivo = open(nombre_archivo_resultado_ejercicio, 'w')
     
     # Procesamos elemento por elemento de la BBDD
     for elemento in database_ordenada:
-        # (nombre_especialidad y nombre_tipo_especialidad)
         elemento_a_insertar = ", ".join(
-            [str(elemento[i]) if elemento[i] is not None else "" for i in (1,3)])
+            [str(elemento[i]) if elemento[i] is not None else "" for i in columnas])
         
         grabar_linea(archivo, elemento_a_insertar)
 
