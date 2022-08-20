@@ -1,6 +1,8 @@
 import csv
 import codecs
 
+from tp1_ej08 import ordenDescendiente
+
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = '../../recursos generales/full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tp1_ej07.txt'
@@ -27,60 +29,37 @@ def grabar_linea(archivo, linea):
 
 # Funcion para poner el codigo que cree las estructuras a usarse en el este ejercicio
 def inicializar(conn):
-    ## Para este ejercicio, la BBDD constará de una tupla
-    return {}
+    ## Para este ejercicio, la BBDD constará de una lista
+    return []
 
 
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
 # necesarios
 def procesar_fila(database, fila):
-    # Nuestra key será el "nombre_especialidad"
-    database_key = fila["nombre_especialidad"]
-
-    # Si la key no está en nuestra BBDD, agregamos un elemento
-    if database_key not in database.keys():
-        # Tupla: contiene lista de elementos (torneo, deportista, marca)
-        # y el nombre del tipo de especialidad (se utilizará para determinar ordenamiento en el podio)
-        database[database_key] = ([], fila["nombre_tipo_especialidad"])
-    
-    tupla_a_insertar = (
-        fila["id_torneo"],
-        fila["nombre_torneo"],
-        fila["id_deportista"],
-        fila["nombre_deportista"],
-        int(fila["marca"]) # importante hacer el cast a int
-    )
-
-    torneos_por_especialidad = database[database_key][0] ## Lista dentro de nuestra tupla
-    torneos_por_especialidad.append(tupla_a_insertar) if tupla_a_insertar not in torneos_por_especialidad else torneos_por_especialidad
+    database.append(fila)
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 def generar_reporte(database):
     archivo = codecs.open(nombre_archivo_resultado_ejercicio, encoding='utf-8', mode='w')
 
-    ## Ordenamos por nombre_especialidad
-    especialidades_ordenadas = sorted(database.keys(), key = lambda x : x)
-
-    for especialidad in especialidades_ordenadas:
-        datos = database[especialidad][0] ## todos los datos por especialidad (id torneo, tornero, id deportista, deportista, marca)
-        nombre_tipo_especialidad = database[especialidad][1]
-        distintos_torneos = set(map(lambda x : x[1], datos)) # obtenemos los nombres torneos
-        distintos_torneos_ordenados = sorted(distintos_torneos, key = lambda x : x) # ordenamos alfabéticamente
-
-        agrupacion_por_torneo = [[y for y in datos if y[1] == x] for x in distintos_torneos_ordenados] # agrupamos por nombre de torneo
-        for grupo in agrupacion_por_torneo:
-            ## Ordenamos por marca  (acá utilizamos "nombre_tipo_especialidad" para saber si el orden deber ser Ascendente o no)
-            grupo_ordenado = sorted(grupo, key = (lambda x : x[4]), reverse=ordenDescendiente(nombre_tipo_especialidad))
-            # Procesamos el TOP 3
-            for elemento in grupo_ordenado[: 3]:
-                elemento_a_insertar = "{torneo}, {especialidad}, {deportista}, {marca}".format(
-                    torneo = str(elemento[1]),
-                    especialidad = especialidad,
-                    deportista = str(elemento[3]),
-                    marca = str(elemento[4])
+    distintas_especialidades = set(map(lambda x : x["nombre_especialidad"], database))
+    agrupacion_especialidad = [[registro for registro in database if registro["nombre_especialidad"] == especialidad] for especialidad in distintas_especialidades]
+    agrupacion_especialidad_ordenadas = sorted(agrupacion_especialidad, key= lambda x : x[0]["nombre_especialidad"])
+    
+    for agrupacion_especialidad in agrupacion_especialidad_ordenadas:
+        ## tomamos el primero, ya que son todas los mismos tipos para una misma especialidad
+        tipo_especializacion = agrupacion_especialidad[0]["nombre_tipo_especialidad"]
+        ordenados = sorted(agrupacion_especialidad, key=(lambda x : int(x["marca"])), reverse=ordenDescendiente(tipo_especializacion))
+        for elemento in ordenados[:3]:
+            elemento_a_insertar = "{torneo}, {especialidad}, {deportista}, {marca}".format(
+                    torneo = str(elemento["nombre_torneo"]),
+                    especialidad = str(elemento["nombre_especialidad"]),
+                    deportista = str(elemento["nombre_deportista"]),
+                    marca = str(elemento["marca"])
                 )
 
-                grabar_linea(archivo, elemento_a_insertar)
+            grabar_linea(archivo, elemento_a_insertar)
+                
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(database):
