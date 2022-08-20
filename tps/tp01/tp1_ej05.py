@@ -39,33 +39,21 @@ def procesar_fila(database, fila):
     if fila["nombre_especialidad"] != "carrera 100 m" or fila["nombre_torneo"] != "Torneo de Argentina":
         return
 
-    tupla_a_insertar = (
-        fila["id_torneo"],
-        fila["nombre_torneo"],
-        fila["id_especialidad"],
-        fila["nombre_especialidad"],
-        fila["id_deportista"],
-        fila["nombre_deportista"],
-        int(fila["marca"]) # importante hacer el cast a int
-    )
-    
-    # si la tupla no está en la database, la agregamos (append)
-    if tupla_a_insertar not in database:
-        database.append(tupla_a_insertar)
+    database.append(fila)
 
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 def generar_reporte(database):
     # ordenamos por nombre_tipo_especialidad, y luego por marca
-    database_ordenada = sorted(database, key = lambda x : (x[3], x[6]))
-
+    database_ordenada = sorted(database, key = lambda x : (x["nombre_especialidad"], int(x["marca"])))
+    columnas = ["nombre_torneo", "nombre_especialidad", "nombre_deportista", "marca"]
     archivo = open(nombre_archivo_resultado_ejercicio, 'w')
     
     # Procesamos el top 3
     for elemento in database_ordenada[: 3]:
         # (nombre_torneo, nombre_especialidad, nombre_deportista, marca)
         elemento_a_insertar = ", ".join(
-            [str(elemento[i]) if elemento[i] is not None else "" for i in (1,3,5,6)])
+            [str(elemento[i]) if elemento[i] is not None else "" for i in columnas])
         
         grabar_linea(archivo, elemento_a_insertar)
 
