@@ -1,0 +1,4 @@
+1, tiempo, 12
+2, altura, 2
+3, largo, 2
+4, lanzamiento, 4

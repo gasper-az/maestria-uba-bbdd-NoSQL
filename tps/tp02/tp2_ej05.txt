@@ -1,0 +1,1606 @@
+Aaron BROWN, carrera 100 m, Torneo de Jordan, 1, 9764.0
+Aaron BROWN, carrera 100 m, Torneo de Micronesia, 1, 10726.0
+Aaron BROWN, carrera 200 m, Torneo de Greece, 1, 19503.0
+Aaron BROWN, carrera 200 m, Torneo de Morocco, 1, 21448.0
+Ababel YESHANEH, carrera 42000 m, Torneo de Albania, 1, 7304941.0
+Ababel YESHANEH, carrera 42000 m, Torneo de Lithuania, 1, 8030474.0
+Abadi HADIS, carrera 10000 m, Torneo de Belgium, 1, 1608999.0
+Abadi HADIS, carrera 10000 m, Torneo de South Sudan, 1, 1767320.0
+Abadi HADIS, carrera 21000 m, Torneo de Kazakhstan, 1, 3481565.0
+Abadi HADIS, carrera 21000 m, Torneo de Moldova, 1, 3828537.0
+Abadi HADIS, carrera 5000 m, Torneo de Estonia, 1, 772645.0
+Abadi HADIS, carrera 5000 m, Torneo de Lithuania, 1, 849157.0
+Abdallah Kibet MANDE, carrera 10000 m, Torneo de Luxembourg, 1, 1608063.0
+Abdallah Kibet MANDE, carrera 10000 m, Torneo de Netherlands, 1, 1768314.0
+Abdelaati IGUIDER, carrera 1500 m, Torneo de Papua New Guinea, 1, 208795.0
+Abdelaati IGUIDER, carrera 1500 m, Torneo de Wales, 1, 229640.0
+Abdelmalik LAHOULOU, carrera 400 m con vallas, Torneo de Chile, 1, 46099.0
+Abdelmalik LAHOULOU, carrera 400 m con vallas, Torneo de Lithuania, 1, 50702.0
+Abderrahman SAMBA, carrera 400 m, Torneo de Estonia, 1, 43477.0
+Abderrahman SAMBA, carrera 400 m, Torneo de Taiwan, 1, 47769.0
+Abderrahman SAMBA, carrera 400 m con vallas, Torneo de Tuvalu, 1, 46102.0
+Abderrahman SAMBA, carrera 400 m con vallas, Torneo de Antigua and Barbuda, 1, 50676.0
+Abdul Hakim SANI BROWN, carrera 100 m, Torneo de Mali, 1, 9763.0
+Abdul Hakim SANI BROWN, carrera 100 m, Torneo de Equatorial Guinea, 1, 10731.0
+Abdul Hakim SANI BROWN, carrera 200 m, Torneo de United Arab Emirates, 1, 19515.0
+Abdul Hakim SANI BROWN, carrera 200 m, Torneo de Sweden, 1, 21450.0
+Abebe Negewo DEGEFA, carrera 42000 m, Torneo de Congo Republic of the, 1, 7311718.0
+Abebe Negewo DEGEFA, carrera 42000 m, Torneo de Andorra, 1, 8030767.0
+Abigail IROZURU, salto largo, Torneo de Uruguay, 9, 955.0
+Abigail IROZURU, salto largo, Torneo de Argentina, 8, 869.0
+Abraham KIBIWOT, carrera 3000 m con vallas, Torneo de Marshall Islands, 1, 481060.0
+Abraham KIBIWOT, carrera 3000 m con vallas, Torneo de Paraguay, 1, 528923.0
+Abubaker Haydar ABDALLA, carrera 800 m, Torneo de Yemen, 1, 101895.0
+Abubaker Haydar ABDALLA, carrera 800 m, Torneo de Colombia, 1, 112075.0
+Adam GEMILI, carrera 200 m, Torneo de Monaco, 1, 19509.0
+Adam GEMILI, carrera 200 m, Torneo de Congo Republic of the, 1, 21406.0
+Agnes Jebet TIROP, carrera 10000 m, Torneo de Russia, 1, 1608740.0
+Agnes Jebet TIROP, carrera 10000 m, Torneo de Iran, 1, 1768146.0
+Agnes Jebet TIROP, carrera 5000 m, Torneo de Maldives, 1, 772162.0
+Agnes Jebet TIROP, carrera 5000 m, Torneo de Mongolia, 1, 849293.0
+Ajee WILSON, carrera 800 m, Torneo de Angola, 1, 101983.0
+Ajee WILSON, carrera 800 m, Torneo de Japan, 1, 112078.0
+Akani SIMBINE, carrera 100 m, Torneo de Palau, 1, 9765.0
+Akani SIMBINE, carrera 100 m, Torneo de Mali, 1, 10736.0
+Akeem BLOOMFIELD, carrera 400 m, Torneo de Burkina Faso, 1, 43476.0
+Akeem BLOOMFIELD, carrera 400 m, Torneo de Malaysia, 1, 47760.0
+Albert CHEMUTAI, carrera 3000 m con vallas, Torneo de Armenia, 1, 481195.0
+Albert CHEMUTAI, carrera 3000 m con vallas, Torneo de Ukraine, 1, 529086.0
+Aleia HOBBS, carrera 100 m, Torneo de Namibia, 1, 9760.0
+Aleia HOBBS, carrera 100 m, Torneo de Haiti, 1, 10736.0
+Alemu MEGERTU, carrera 21000 m, Torneo de Puerto Rico, 1, 3482593.0
+Alemu MEGERTU, carrera 21000 m, Torneo de Scotland, 1, 3826947.0
+Alex QUIÑÓNEZ, carrera 200 m, Torneo de Lebanon, 1, 19514.0
+Alex QUIÑÓNEZ, carrera 200 m, Torneo de Solomon Islands, 1, 21446.0
+Alex ROSE, lanzamiento de disco, Torneo de Peru, 10, 7904.0
+Alex ROSE, lanzamiento de disco, Torneo de Burkina Faso, 9, 7186.0
+Alex WILSON, carrera 200 m, Torneo de Venezuela, 1, 19515.0
+Alex WILSON, carrera 200 m, Torneo de Jamaica, 1, 21422.0
+Alexandra TAVERNIER, lanzamiento de martillo, Torneo de Russia, 9, 8990.0
+Alexandra TAVERNIER, lanzamiento de martillo, Torneo de Lebanon, 9, 8179.0
+Alexie ALAÏS, lanzamiento de jabalina, Torneo de Tunisia, 4, 9965.0
+Alexie ALAÏS, lanzamiento de jabalina, Torneo de North Korea, 8, 9063.0
+Alexis COPELLO, salto triple, Torneo de Senegal, 8, 1995.0
+Alexis COPELLO, salto triple, Torneo de Congo Democratic Republic of the, 7, 1815.0
+Alexsandro MELO, salto triple, Torneo de South Korea, 4, 1995.0
+Alexsandro MELO, salto triple, Torneo de Niger, 8, 1814.0
+Alfred KIPKETER, carrera 800 m, Torneo de Argentina, 1, 101945.0
+Alfred KIPKETER, carrera 800 m, Torneo de Philippines, 1, 112066.0
+Alin Alexandru FIRFIRICA, lanzamiento de disco, Torneo de Chad, 3, 7905.0
+Alin Alexandru FIRFIRICA, lanzamiento de disco, Torneo de Myanmar, 3, 7187.0
+Alina ROTARU, salto largo, Torneo de Sierra Leone, 8, 956.0
+Alina ROTARU, salto largo, Torneo de Bahamas, 2, 870.0
+Aliona DUBITSKAYA, lanzamiento de bala, Torneo de South Sudan, 4, 2513.0
+Aliona DUBITSKAYA, lanzamiento de bala, Torneo de Brazil, 10, 2291.0
+Alison DOS SANTOS, carrera 400 m con vallas, Torneo de Mexico, 1, 46095.0
+Alison DOS SANTOS, carrera 400 m con vallas, Torneo de Wales, 1, 50689.0
+Almir DOS SANTOS, salto triple, Torneo de Namibia, 1, 1994.0
+Almir DOS SANTOS, salto triple, Torneo de Haiti, 10, 1814.0
+Alyona GORDEYEVA, lanzamiento de bala, Torneo de Scotland, 8, 2521.0
+Alyona GORDEYEVA, lanzamiento de bala, Torneo de Bhutan, 6, 2292.0
+Alysha NEWMAN, salto con pertiga, Torneo de Kenya, 3, 667.0
+Alysha NEWMAN, salto con pertiga, Torneo de Comoros, 9, 606.0
+Amalie IUEL, carrera 400 m con vallas, Torneo de Serbia, 1, 46104.0
+Amalie IUEL, carrera 400 m con vallas, Torneo de Germany, 1, 50693.0
+Amel TUKA, carrera 800 m, Torneo de Guinea, 1, 101946.0
+Amel TUKA, carrera 800 m, Torneo de Spain, 1, 112071.0
+Amere LATTIN, carrera 400 m con vallas, Torneo de Mexico, 1, 46115.0
+Amere LATTIN, carrera 400 m con vallas, Torneo de Chile, 1, 50682.0
+Aminat JAMAL, carrera 400 m con vallas, Torneo de Haiti, 1, 46108.0
+Aminat JAMAL, carrera 400 m con vallas, Torneo de Botswana, 1, 50698.0
+Aminatou SEYNI, carrera 400 m, Torneo de Niger, 1, 43484.0
+Aminatou SEYNI, carrera 400 m, Torneo de Guatemala, 1, 47772.0
+Amy HUNT, carrera 200 m, Torneo de Greece, 1, 19501.0
+Amy HUNT, carrera 200 m, Torneo de Netherlands, 1, 21438.0
+Ana PELETEIRO, salto triple, Torneo de United Kingdom, 2, 1996.0
+Ana PELETEIRO, salto triple, Torneo de French Guiana, 1, 1814.0
+Ana ŠIMIĆ, salto de altura, Torneo de Nicaragua, 6, 261.0
+Ana ŠIMIĆ, salto de altura, Torneo de Albania, 3, 237.0
+Anastasia LE-ROY, carrera 400 m, Torneo de Monaco, 1, 43462.0
+Anastasia LE-ROY, carrera 400 m, Torneo de Czechia, 1, 47792.0
+Andamlak BELIHU, carrera 10000 m, Torneo de Mexico, 1, 1608408.0
+Andamlak BELIHU, carrera 10000 m, Torneo de New Zealand, 1, 1767554.0
+Andamlak BELIHU, carrera 21000 m, Torneo de Ghana, 1, 3482665.0
+Andamlak BELIHU, carrera 21000 m, Torneo de Myanmar, 1, 3827938.0
+Anderson PETERS, lanzamiento de jabalina, Torneo de Liechtenstein, 8, 9966.0
+Anderson PETERS, lanzamiento de jabalina, Torneo de Colombia, 5, 9061.0
+Andre DE GRASSE, carrera 100 m, Torneo de Ecuador, 1, 9767.0
+Andre DE GRASSE, carrera 100 m, Torneo de United States, 1, 10731.0
+Andre DE GRASSE, carrera 200 m, Torneo de Kenya, 1, 19508.0
+Andre DE GRASSE, carrera 200 m, Torneo de Brunei, 1, 21450.0
+Andrea Carolina VARGAS, carrera 110 m con vallas, Torneo de Germany, 1, 12105.0
+Andrea Carolina VARGAS, carrera 110 m con vallas, Torneo de Saint Lucia, 1, 13295.0
+Andreas HOFMANN, lanzamiento de jabalina, Torneo de Serbia, 5, 9964.0
+Andreas HOFMANN, lanzamiento de jabalina, Torneo de Russia, 1, 9067.0
+Andressa DE MORAIS, lanzamiento de disco, Torneo de Belarus, 7, 7895.0
+Andressa DE MORAIS, lanzamiento de disco, Torneo de Ireland, 6, 7186.0
+Andrew BAYER, carrera 3000 m con vallas, Torneo de New Zealand, 1, 481036.0
+Andrew BAYER, carrera 3000 m con vallas, Torneo de Canada, 1, 529061.0
+Andrew HUDSON, carrera 200 m, Torneo de Saudi Arabia, 1, 19506.0
+Andrew HUDSON, carrera 200 m, Torneo de Liechtenstein, 1, 21433.0
+Andrew IRWIN, salto con pertiga, Torneo de Puerto Rico, 1, 667.0
+Andrew IRWIN, salto con pertiga, Torneo de Andorra, 5, 606.0
+Andrew POZZI, carrera 110 m con vallas, Torneo de Nauru, 1, 12104.0
+Andrew POZZI, carrera 110 m con vallas, Torneo de Ivory Coast, 1, 13306.0
+Andrew RILEY, carrera 110 m con vallas, Torneo de Dominica, 1, 12100.0
+Andrew RILEY, carrera 110 m con vallas, Torneo de Ecuador, 1, 13304.0
+Andrius GUDŽIUS, lanzamiento de disco, Torneo de Israel, 4, 7904.0
+Andrius GUDŽIUS, lanzamiento de disco, Torneo de Sao Tome and Principe, 3, 7192.0
+Andriy PROTSENKO, salto de altura, Torneo de Uganda, 9, 261.0
+Andriy PROTSENKO, salto de altura, Torneo de Cameroon, 8, 237.0
+Andwuelle WRIGHT, salto largo, Torneo de Ukraine, 2, 956.0
+Andwuelle WRIGHT, salto largo, Torneo de Kazakhstan, 2, 869.0
+Andy DÍAZ, salto triple, Torneo de Luxembourg, 4, 1995.0
+Andy DÍAZ, salto triple, Torneo de Niger, 9, 1815.0
+Angelica BENGTSSON, salto con pertiga, Torneo de Tonga, 1, 667.0
+Angelica BENGTSSON, salto con pertiga, Torneo de Angola, 7, 606.0
+Anglerne ANNELUS, carrera 200 m, Torneo de Nepal, 1, 19506.0
+Anglerne ANNELUS, carrera 200 m, Torneo de Dominican Republic, 1, 21433.0
+Anita MÁRTON, lanzamiento de bala, Torneo de Honduras, 9, 2521.0
+Anita MÁRTON, lanzamiento de bala, Torneo de Dominica, 5, 2291.0
+Anita WŁODARCZYK, lanzamiento de martillo, Torneo de Sudan, 4, 8990.0
+Anita WŁODARCZYK, lanzamiento de martillo, Torneo de Vanuatu, 1, 8175.0
+Anna AVDEYEVA, lanzamiento de bala, Torneo de Luxembourg, 6, 2518.0
+Anna AVDEYEVA, lanzamiento de bala, Torneo de Kiribati, 3, 2293.0
+Anna CHICHEROVA, salto de altura, Torneo de Denmark, 8, 261.0
+Anna CHICHEROVA, salto de altura, Torneo de Cambodia, 9, 237.0
+Anna COCKRELL, carrera 110 m con vallas, Torneo de Tunisia, 1, 12098.0
+Anna COCKRELL, carrera 110 m con vallas, Torneo de Uzbekistan, 1, 13301.0
+Anna Emilie MØLLER, carrera 3000 m con vallas, Torneo de Barbados, 1, 481045.0
+Anna Emilie MØLLER, carrera 3000 m con vallas, Torneo de Congo Republic of the, 1, 528968.0
+Anna RYZHYKOVA, carrera 400 m con vallas, Torneo de Georgia, 1, 46101.0
+Anna RYZHYKOVA, carrera 400 m con vallas, Torneo de Benin, 1, 50656.0
+Annika Marie FUCHS, lanzamiento de jabalina, Torneo de Italy, 2, 9967.0
+Annika Marie FUCHS, lanzamiento de jabalina, Torneo de Serbia, 1, 9064.0
+Anthony José ZAMBRANO, carrera 400 m, Torneo de Brunei, 1, 43573.0
+Anthony José ZAMBRANO, carrera 400 m, Torneo de Cuba, 1, 47777.0
+Antonio ALKANA, carrera 110 m con vallas, Torneo de Romania, 1, 12099.0
+Antonio ALKANA, carrera 110 m con vallas, Torneo de Papua New Guinea, 1, 13307.0
+Antti RUUSKANEN, lanzamiento de jabalina, Torneo de Niger, 5, 9966.0
+Antti RUUSKANEN, lanzamiento de jabalina, Torneo de Romania, 2, 9069.0
+Anzhelika SIDOROVA, salto con pertiga, Torneo de Sri Lanka, 6, 667.0
+Anzhelika SIDOROVA, salto con pertiga, Torneo de Netherlands, 9, 606.0
+Apostolos PARELLIS, lanzamiento de disco, Torneo de Iraq, 1, 7898.0
+Apostolos PARELLIS, lanzamiento de disco, Torneo de Bolivia, 4, 7188.0
+Ariana INCE, lanzamiento de jabalina, Torneo de Kuwait, 4, 9967.0
+Ariana INCE, lanzamiento de jabalina, Torneo de Norway, 4, 9064.0
+Armand DUPLANTIS, salto con pertiga, Torneo de Rwanda, 1, 667.0
+Armand DUPLANTIS, salto con pertiga, Torneo de Czechia, 1, 606.0
+Armin SINANČEVIĆ, lanzamiento de bala, Torneo de Sierra Leone, 4, 2520.0
+Armin SINANČEVIĆ, lanzamiento de bala, Torneo de Indonesia, 10, 2292.0
+Arshad NADEEM, lanzamiento de jabalina, Torneo de Japan, 10, 9968.0
+Arshad NADEEM, lanzamiento de jabalina, Torneo de Finland, 10, 9062.0
+Arthur CISSÉ, carrera 100 m, Torneo de Georgia, 1, 9760.0
+Arthur CISSÉ, carrera 100 m, Torneo de Eritrea, 1, 10735.0
+Asefa MENGSTU, carrera 42000 m, Torneo de Japan, 1, 7302153.0
+Asefa MENGSTU, carrera 42000 m, Torneo de Honduras, 1, 8030109.0
+Ashete BEKERE, carrera 42000 m, Torneo de Cabo Verde, 1, 7304332.0
+Ashete BEKERE, carrera 42000 m, Torneo de Netherlands, 1, 8027313.0
+Ashley SPENCER, carrera 400 m con vallas, Torneo de France, 1, 46092.0
+Ashley SPENCER, carrera 400 m con vallas, Torneo de Iraq, 1, 50674.0
+Augusto DUTRA, salto con pertiga, Torneo de Qatar, 9, 667.0
+Augusto DUTRA, salto con pertiga, Torneo de Liberia, 10, 606.0
+Axumawit EMBAYE, carrera 1500 m, Torneo de Mongolia, 1, 208867.0
+Axumawit EMBAYE, carrera 1500 m, Torneo de Algeria, 1, 229647.0
+Ayanleh SOULEIMAN, carrera 1500 m, Torneo de Mongolia, 1, 208842.0
+Ayanleh SOULEIMAN, carrera 1500 m, Torneo de Armenia, 1, 229580.0
+Ayanleh SOULEIMAN, carrera 800 m, Torneo de Barbados, 1, 101918.0
+Ayanleh SOULEIMAN, carrera 800 m, Torneo de Rwanda, 1, 112066.0
+Ayomide FOLORUNSO, carrera 400 m con vallas, Torneo de South Africa, 1, 46199.0
+Ayomide FOLORUNSO, carrera 400 m con vallas, Torneo de Chad, 1, 50696.0
+Azmera ABREHA, carrera 42000 m, Torneo de Palau, 1, 7311781.0
+Azmera ABREHA, carrera 42000 m, Torneo de Colombia, 1, 8029944.0
+Azmera GEBRU, carrera 42000 m, Torneo de Russia, 1, 7303562.0
+Azmera GEBRU, carrera 42000 m, Torneo de Uganda, 1, 8030363.0
+Barbora ŠPOTÁKOVÁ, lanzamiento de jabalina, Torneo de Thailand, 2, 9953.0
+Barbora ŠPOTÁKOVÁ, lanzamiento de jabalina, Torneo de Bolivia, 8, 9064.0
+Barnabas KIPYEGO, carrera 3000 m con vallas, Torneo de Australia, 1, 481256.0
+Barnabas KIPYEGO, carrera 3000 m con vallas, Torneo de United Arab Emirates, 1, 529130.0
+Beatrice CHEBET, carrera 5000 m, Torneo de Angola, 1, 772188.0
+Beatrice CHEBET, carrera 5000 m, Torneo de South Korea, 1, 849057.0
+Beatrice CHEPKOECH, carrera 3000 m con vallas, Torneo de Kyrgyzstan, 1, 481056.0
+Beatrice CHEPKOECH, carrera 3000 m con vallas, Torneo de Scotland, 1, 529067.0
+Beatrice CHEPKOECH, carrera 5000 m, Torneo de Ghana, 1, 772231.0
+Beatrice CHEPKOECH, carrera 5000 m, Torneo de Dominican Republic, 1, 848797.0
+Bedan KAROKI, carrera 21000 m, Torneo de Suriname, 1, 3483548.0
+Bedan KAROKI, carrera 21000 m, Torneo de Rwanda, 1, 3827918.0
+Ben BROEDERS, salto con pertiga, Torneo de Virgin Islands (British), 5, 667.0
+Ben BROEDERS, salto con pertiga, Torneo de Guyana, 7, 606.0
+Benard KIMELI, carrera 21000 m, Torneo de Indonesia, 1, 3485931.0
+Benard KIMELI, carrera 21000 m, Torneo de Congo Democratic Republic of the, 1, 3826137.0
+Bence HALÁSZ, lanzamiento de martillo, Torneo de Argentina, 9, 8991.0
+Bence HALÁSZ, lanzamiento de martillo, Torneo de Bangladesh, 10, 8174.0
+Benjamin KIGEN, carrera 3000 m con vallas, Torneo de Sweden, 1, 481168.0
+Benjamin KIGEN, carrera 3000 m con vallas, Torneo de Kazakhstan, 1, 528889.0
+Benjamin WILLIAMS, salto triple, Torneo de Guyana, 10, 1996.0
+Benjamin WILLIAMS, salto triple, Torneo de Marshall Islands, 6, 1815.0
+Berehanu TSEGU, carrera 10000 m, Torneo de Belarus, 1, 1608306.0
+Berehanu TSEGU, carrera 10000 m, Torneo de Mauritius, 1, 1768547.0
+Berehanu TSEGU, carrera 21000 m, Torneo de Sri Lanka, 1, 3481292.0
+Berehanu TSEGU, carrera 21000 m, Torneo de Finland, 1, 3828021.0
+Bernardo BALOYES, carrera 200 m, Torneo de Guinea-Bissau, 1, 19522.0
+Bernardo BALOYES, carrera 200 m, Torneo de Sao Tome and Principe, 1, 21440.0
+Bernhard SEIFERT, lanzamiento de jabalina, Torneo de Portugal, 8, 9966.0
+Bernhard SEIFERT, lanzamiento de jabalina, Torneo de Guinea-Bissau, 4, 9062.0
+Beth DOBBIN, carrera 200 m, Torneo de Saint Kitts and Nevis, 1, 19502.0
+Beth DOBBIN, carrera 200 m, Torneo de Ethiopia, 1, 21429.0
+Bethwell BIRGEN, carrera 1500 m, Torneo de United States, 1, 208797.0
+Bethwell BIRGEN, carrera 1500 m, Torneo de Argentina, 1, 229496.0
+Bin FENG, lanzamiento de disco, Torneo de Rwanda, 8, 7905.0
+Bin FENG, lanzamiento de disco, Torneo de Central African Republic, 3, 7191.0
+Birhane DIBABA, carrera 21000 m, Torneo de Guinea, 1, 3488790.0
+Birhane DIBABA, carrera 21000 m, Torneo de Chile, 1, 3828892.0
+Birhane DIBABA, carrera 42000 m, Torneo de Gambia, 1, 7303234.0
+Birhane DIBABA, carrera 42000 m, Torneo de Syria, 1, 8023527.0
+Birhanu BALEW, carrera 5000 m, Torneo de Ecuador, 1, 772110.0
+Birhanu BALEW, carrera 5000 m, Torneo de Fiji, 1, 849170.0
+Birhanu LEGESE, carrera 42000 m, Torneo de Botswana, 1, 7303206.0
+Birhanu LEGESE, carrera 42000 m, Torneo de Australia, 1, 8023472.0
+Blessing OKAGBARE, carrera 100 m, Torneo de Guinea-Bissau, 1, 9760.0
+Blessing OKAGBARE, carrera 100 m, Torneo de Russia, 1, 10736.0
+Blessing OKAGBARE, carrera 200 m, Torneo de Oman, 1, 19508.0
+Blessing OKAGBARE, carrera 200 m, Torneo de Austria, 1, 21449.0
+Bob BERTEMES, lanzamiento de bala, Torneo de United Arab Emirates, 1, 2521.0
+Bob BERTEMES, lanzamiento de bala, Torneo de Italy, 3, 2292.0
+Bohdan BONDARENKO, salto de altura, Torneo de Ukraine, 8, 261.0
+Bohdan BONDARENKO, salto de altura, Torneo de Bahamas, 8, 237.0
+Brandon MCBRIDE, carrera 800 m, Torneo de Grenada, 1, 102106.0
+Brandon MCBRIDE, carrera 800 m, Torneo de Brazil, 1, 111994.0
+Briana WILLIAMS, carrera 100 m, Torneo de Qatar, 1, 9762.0
+Briana WILLIAMS, carrera 100 m, Torneo de United Arab Emirates, 1, 10736.0
+Brianna MCNEAL, carrera 110 m con vallas, Torneo de Iraq, 1, 12109.0
+Brianna MCNEAL, carrera 110 m con vallas, Torneo de Afghanistan, 1, 13293.0
+Brigid KOSGEI, carrera 21000 m, Torneo de Vatican City, 1, 3482843.0
+Brigid KOSGEI, carrera 21000 m, Torneo de Northern Ireland, 1, 3828074.0
+Brigid KOSGEI, carrera 42000 m, Torneo de Ethiopia, 1, 7305943.0
+Brigid KOSGEI, carrera 42000 m, Torneo de Ireland, 1, 8026138.0
+Britany ANDERSON, carrera 110 m con vallas, Torneo de Antigua and Barbuda, 1, 12105.0
+Britany ANDERSON, carrera 110 m con vallas, Torneo de Maldives, 1, 13297.0
+Brittany BROWN, carrera 200 m, Torneo de Tonga, 1, 19508.0
+Brittany BROWN, carrera 200 m, Torneo de Costa Rica, 1, 21446.0
+Brittany CREW, lanzamiento de bala, Torneo de Ivory Coast, 8, 2521.0
+Brittany CREW, lanzamiento de bala, Torneo de Qatar, 7, 2291.0
+Brittney REESE, salto largo, Torneo de Burundi, 9, 956.0
+Brittney REESE, salto largo, Torneo de Gabon, 7, 869.0
+Brooke ANDERSEN, lanzamiento de martillo, Torneo de Mauritius, 7, 8990.0
+Brooke ANDERSEN, lanzamiento de martillo, Torneo de Comoros, 8, 8177.0
+Bryce HOPPEL, carrera 800 m, Torneo de Tunisia, 1, 102083.0
+Bryce HOPPEL, carrera 800 m, Torneo de Bulgaria, 1, 112070.0
+Cambrea STURGIS, carrera 200 m, Torneo de Algeria, 1, 19506.0
+Cambrea STURGIS, carrera 200 m, Torneo de Albania, 1, 21436.0
+Carina HORN, carrera 100 m, Torneo de Canada, 1, 9764.0
+Carina HORN, carrera 100 m, Torneo de Mauritius, 1, 10733.0
+Caroline Chepkoech KIPKIRUI, carrera 21000 m, Torneo de North Korea, 1, 3481586.0
+Caroline Chepkoech KIPKIRUI, carrera 21000 m, Torneo de Cuba, 1, 3825784.0
+Caroline Chepkoech KIPKIRUI, carrera 5000 m, Torneo de Myanmar, 1, 772171.0
+Caroline Chepkoech KIPKIRUI, carrera 5000 m, Torneo de Pakistan, 1, 849044.0
+Cassandra TATE, carrera 400 m con vallas, Torneo de Indonesia, 1, 46113.0
+Cassandra TATE, carrera 400 m con vallas, Torneo de Cambodia, 1, 50675.0
+Caster SEMENYA, carrera 800 m, Torneo de Iran, 1, 102076.0
+Caster SEMENYA, carrera 800 m, Torneo de Costa Rica, 1, 112072.0
+Caterine IBARGUEN, salto largo, Torneo de Tanzania, 10, 956.0
+Caterine IBARGUEN, salto largo, Torneo de Togo, 1, 869.0
+Caterine IBARGUEN, salto triple, Torneo de Angola, 7, 1995.0
+Caterine IBARGUEN, salto triple, Torneo de Laos, 1, 1814.0
+Catriona BISSET, carrera 800 m, Torneo de Hungary, 1, 101954.0
+Catriona BISSET, carrera 800 m, Torneo de South Africa, 1, 112078.0
+Celliphine Chepteek CHESPOL, carrera 3000 m con vallas, Torneo de Denmark, 1, 481266.0
+Celliphine Chepteek CHESPOL, carrera 3000 m con vallas, Torneo de Ghana, 1, 529006.0
+Chala BEYO, carrera 3000 m con vallas, Torneo de Georgia, 1, 481040.0
+Chala BEYO, carrera 3000 m con vallas, Torneo de Mozambique, 1, 529015.0
+Chanel BRISSETT, carrera 110 m con vallas, Torneo de Virgin Islands (British), 1, 12107.0
+Chanel BRISSETT, carrera 110 m con vallas, Torneo de Samoa, 1, 13303.0
+Changzhou HUANG, salto largo, Torneo de Puerto Rico, 8, 956.0
+Changzhou HUANG, salto largo, Torneo de Equatorial Guinea, 9, 870.0
+Chantel MALONE, salto largo, Torneo de Saint Kitts and Nevis, 2, 956.0
+Chantel MALONE, salto largo, Torneo de Saint Vincent and the Grenadines, 1, 869.0
+Chao-Tsun CHENG, lanzamiento de jabalina, Torneo de Syria, 6, 9968.0
+Chao-Tsun CHENG, lanzamiento de jabalina, Torneo de Equatorial Guinea, 4, 9063.0
+Charlie DAVALL GRICE, carrera 1500 m, Torneo de Guatemala, 1, 208780.0
+Charlie DAVALL GRICE, carrera 1500 m, Torneo de Kiribati, 1, 229577.0
+Chase EALEY, lanzamiento de bala, Torneo de Bahrain, 5, 2521.0
+Chase EALEY, lanzamiento de bala, Torneo de Kazakhstan, 5, 2291.0
+Chengetayi MAPAYA, salto triple, Torneo de Switzerland, 9, 1996.0
+Chengetayi MAPAYA, salto triple, Torneo de Macedonia, 7, 1814.0
+Chloe ABBOTT, carrera 400 m, Torneo de Libya, 1, 43484.0
+Chloe ABBOTT, carrera 400 m, Torneo de Colombia, 1, 47790.0
+Chrisann GORDON, carrera 400 m, Torneo de Italy, 1, 43467.0
+Chrisann GORDON, carrera 400 m, Torneo de Wales, 1, 47791.0
+Christian COLEMAN, carrera 100 m, Torneo de Philippines, 1, 9762.0
+Christian COLEMAN, carrera 100 m, Torneo de Latvia, 1, 10726.0
+Christian COLEMAN, carrera 200 m, Torneo de South Africa, 1, 19505.0
+Christian COLEMAN, carrera 200 m, Torneo de North Korea, 1, 21449.0
+Christian TAYLOR, salto triple, Torneo de Slovenia, 2, 1994.0
+Christian TAYLOR, salto triple, Torneo de Oman, 6, 1815.0
+Christin HUSSONG, lanzamiento de jabalina, Torneo de Eritrea, 3, 9966.0
+Christin HUSSONG, lanzamiento de jabalina, Torneo de Lithuania, 8, 9065.0
+Christina CLEMONS, carrera 110 m con vallas, Torneo de France, 1, 12103.0
+Christina CLEMONS, carrera 110 m con vallas, Torneo de Uganda, 1, 13302.0
+Christina SCHWANITZ, lanzamiento de bala, Torneo de United States, 6, 2520.0
+Christina SCHWANITZ, lanzamiento de bala, Torneo de Vatican City, 2, 2291.0
+Christine BOTLOGETSWE, carrera 400 m, Torneo de Australia, 1, 43471.0
+Christine BOTLOGETSWE, carrera 400 m, Torneo de Cambodia, 1, 47791.0
+Christoph HARTING, lanzamiento de disco, Torneo de Norway, 4, 7905.0
+Christoph HARTING, lanzamiento de disco, Torneo de Mexico, 1, 7187.0
+Christopher NILSEN, salto con pertiga, Torneo de Puerto Rico, 10, 667.0
+Christopher NILSEN, salto con pertiga, Torneo de Azerbaijan, 4, 606.0
+Chukwuebuka ENEKWECHI, lanzamiento de bala, Torneo de Benin, 6, 2521.0
+Chukwuebuka ENEKWECHI, lanzamiento de bala, Torneo de Monaco, 5, 2292.0
+Ciara MAGEEAN, carrera 1500 m, Torneo de Bhutan, 1, 209043.0
+Ciara MAGEEAN, carrera 1500 m, Torneo de Panama, 1, 229635.0
+Clarence MUNYAI, carrera 200 m, Torneo de Peru, 1, 19503.0
+Clarence MUNYAI, carrera 200 m, Torneo de Zambia, 1, 21434.0
+Claudine VITA, lanzamiento de disco, Torneo de Sudan, 9, 7905.0
+Claudine VITA, lanzamiento de disco, Torneo de India, 3, 7189.0
+Clayton MURPHY, carrera 800 m, Torneo de Monaco, 1, 101925.0
+Clayton MURPHY, carrera 800 m, Torneo de Nicaragua, 1, 112059.0
+Cole WALSH, salto con pertiga, Torneo de Suriname, 10, 667.0
+Cole WALSH, salto con pertiga, Torneo de Djibouti, 10, 606.0
+Colleen QUIGLEY, carrera 3000 m con vallas, Torneo de Madagascar, 1, 481375.0
+Colleen QUIGLEY, carrera 3000 m con vallas, Torneo de Botswana, 1, 529033.0
+Collins KIPRUTO, carrera 800 m, Torneo de Czechia, 1, 101906.0
+Collins KIPRUTO, carrera 800 m, Torneo de Rwanda, 1, 112056.0
+Conor MCCULLOUGH, lanzamiento de martillo, Torneo de Venezuela, 10, 8988.0
+Conor MCCULLOUGH, lanzamiento de martillo, Torneo de Denmark, 7, 8181.0
+Conseslus KIPRUTO, carrera 3000 m con vallas, Torneo de Italy, 1, 481433.0
+Conseslus KIPRUTO, carrera 3000 m con vallas, Torneo de New Zealand, 1, 528674.0
+Cornelius TUWEI, carrera 800 m, Torneo de San Marino, 1, 102008.0
+Cornelius TUWEI, carrera 800 m, Torneo de Rwanda, 1, 112055.0
+Courtney FRERICHS, carrera 3000 m con vallas, Torneo de Solomon Islands, 1, 482244.0
+Courtney FRERICHS, carrera 3000 m con vallas, Torneo de Switzerland, 1, 528970.0
+Courtney OKOLO, carrera 400 m, Torneo de Iraq, 1, 43451.0
+Courtney OKOLO, carrera 400 m, Torneo de Cyprus, 1, 47791.0
+Cravon GILLESPIE, carrera 100 m, Torneo de Barbados, 1, 9769.0
+Cravon GILLESPIE, carrera 100 m, Torneo de Honduras, 1, 10731.0
+Cravon GILLESPIE, carrera 200 m, Torneo de Kuwait, 1, 19517.0
+Cravon GILLESPIE, carrera 200 m, Torneo de Tonga, 1, 21438.0
+Cristian NÁPOLES, salto triple, Torneo de Maldives, 3, 1996.0
+Cristian NÁPOLES, salto triple, Torneo de Saint Lucia, 9, 1814.0
+Cyprian MRZYGŁÓD, lanzamiento de jabalina, Torneo de Northern Ireland, 3, 9964.0
+Cyprian MRZYGŁÓD, lanzamiento de jabalina, Torneo de Brazil, 4, 9068.0
+Dafne SCHIPPERS, carrera 100 m, Torneo de Congo Republic of the, 1, 9776.0
+Dafne SCHIPPERS, carrera 100 m, Torneo de Cambodia, 1, 10734.0
+Dafne SCHIPPERS, carrera 200 m, Torneo de United Kingdom, 1, 19501.0
+Dafne SCHIPPERS, carrera 200 m, Torneo de Dominican Republic, 1, 21444.0
+Daisy JEPKEMEI, carrera 3000 m con vallas, Torneo de Ecuador, 1, 481060.0
+Daisy JEPKEMEI, carrera 3000 m con vallas, Torneo de Guyana, 1, 528623.0
+Dalilah MUHAMMAD, carrera 400 m, Torneo de Malta, 1, 43467.0
+Dalilah MUHAMMAD, carrera 400 m, Torneo de Timor-Leste, 1, 47786.0
+Dalilah MUHAMMAD, carrera 400 m con vallas, Torneo de Cambodia, 1, 46135.0
+Dalilah MUHAMMAD, carrera 400 m con vallas, Torneo de Libya, 1, 50646.0
+Dani STEVENS, lanzamiento de disco, Torneo de Zimbabwe, 10, 7905.0
+Dani STEVENS, lanzamiento de disco, Torneo de Malta, 5, 7188.0
+Daniel ROBERTS, carrera 110 m con vallas, Torneo de Georgia, 1, 12105.0
+Daniel ROBERTS, carrera 110 m con vallas, Torneo de Malta, 1, 13283.0
+Daniel STÅHL, lanzamiento de disco, Torneo de Saint Kitts and Nevis, 3, 7905.0
+Daniel STÅHL, lanzamiento de disco, Torneo de Austria, 8, 7189.0
+Daniela STANCIU, salto de altura, Torneo de Zimbabwe, 6, 261.0
+Daniela STANCIU, salto de altura, Torneo de Australia, 10, 237.0
+Daniella HILL, lanzamiento de bala, Torneo de Zimbabwe, 10, 2518.0
+Daniella HILL, lanzamiento de bala, Torneo de Saudi Arabia, 6, 2291.0
+Danielle WILLIAMS, carrera 110 m con vallas, Torneo de Moldova, 1, 12100.0
+Danielle WILLIAMS, carrera 110 m con vallas, Torneo de Tunisia, 1, 13306.0
+Daniil TSYPLAKOV, salto de altura, Torneo de Venezuela, 9, 261.0
+Daniil TSYPLAKOV, salto de altura, Torneo de Armenia, 3, 237.0
+Danniel THOMAS-DODD, lanzamiento de bala, Torneo de Sweden, 10, 2521.0
+Danniel THOMAS-DODD, lanzamiento de bala, Torneo de Kuwait, 6, 2292.0
+Darlan ROMANI, lanzamiento de bala, Torneo de Sri Lanka, 8, 2521.0
+Darlan ROMANI, lanzamiento de bala, Torneo de Ethiopia, 8, 2291.0
+Darrell HILL, lanzamiento de bala, Torneo de French Guiana, 4, 2520.0
+Darrell HILL, lanzamiento de bala, Torneo de Mauritania, 3, 2293.0
+Darya KLISHINA, salto largo, Torneo de Albania, 8, 956.0
+Darya KLISHINA, salto largo, Torneo de Latvia, 2, 869.0
+Darya NIDBAYKINA, salto triple, Torneo de Sweden, 4, 1996.0
+Darya NIDBAYKINA, salto triple, Torneo de Turkey, 3, 1814.0
+David KENDZIERA, carrera 400 m con vallas, Torneo de Uruguay, 1, 46118.0
+David KENDZIERA, carrera 400 m con vallas, Torneo de San Marino, 1, 50690.0
+David WROBEL, lanzamiento de disco, Torneo de Lithuania, 5, 7905.0
+David WROBEL, lanzamiento de disco, Torneo de Iraq, 5, 7191.0
+Dawit SEYAUM, carrera 1500 m, Torneo de Oman, 1, 208772.0
+Dawit SEYAUM, carrera 1500 m, Torneo de Equatorial Guinea, 1, 229624.0
+DeAnna PRICE, lanzamiento de martillo, Torneo de Grenada, 3, 8987.0
+DeAnna PRICE, lanzamiento de martillo, Torneo de Malaysia, 2, 8176.0
+Degitu AZIMERAW, carrera 10000 m, Torneo de Equatorial Guinea, 1, 1610703.0
+Degitu AZIMERAW, carrera 10000 m, Torneo de Sri Lanka, 1, 1768348.0
+Degitu AZIMERAW, carrera 21000 m, Torneo de Belarus, 1, 3482276.0
+Degitu AZIMERAW, carrera 21000 m, Torneo de Malawi, 1, 3825488.0
+Degitu AZIMERAW, carrera 42000 m, Torneo de Russia, 1, 7307624.0
+Degitu AZIMERAW, carrera 42000 m, Torneo de Malta, 1, 8030678.0
+Denia CABALLERO, lanzamiento de disco, Torneo de United States, 5, 7900.0
+Denia CABALLERO, lanzamiento de disco, Torneo de Switzerland, 7, 7187.0
+Denis LUKYANOV, lanzamiento de martillo, Torneo de Uganda, 3, 8980.0
+Denis LUKYANOV, lanzamiento de martillo, Torneo de Burkina Faso, 6, 8180.0
+Dera DIDA, carrera 10000 m, Torneo de Montenegro, 1, 1609982.0
+Dera DIDA, carrera 10000 m, Torneo de Vatican City, 1, 1768566.0
+Devon ALLEN, carrera 110 m con vallas, Torneo de Micronesia, 1, 12105.0
+Devon ALLEN, carrera 110 m con vallas, Torneo de Timor-Leste, 1, 13304.0
+Dezerea BRYANT, carrera 200 m, Torneo de Cameroon, 1, 19532.0
+Dezerea BRYANT, carrera 200 m, Torneo de Congo Republic of the, 1, 21426.0
+Dharun AYYASAMY, carrera 400 m con vallas, Torneo de Malawi, 1, 46102.0
+Dharun AYYASAMY, carrera 400 m con vallas, Torneo de South Africa, 1, 50696.0
+Diana ZAGAINOVA, salto triple, Torneo de Malta, 10, 1996.0
+Diana ZAGAINOVA, salto triple, Torneo de Cabo Verde, 4, 1816.0
+Dibabe KUMA, carrera 21000 m, Torneo de Pakistan, 1, 3481578.0
+Dibabe KUMA, carrera 21000 m, Torneo de Moldova, 1, 3825513.0
+Dimitriana SURDU, lanzamiento de bala, Torneo de Wales, 1, 2521.0
+Dimitriana SURDU, lanzamiento de bala, Torneo de Cameroon, 1, 2291.0
+Dina ASHER-SMITH, carrera 100 m, Torneo de Congo Democratic Republic of the, 1, 9766.0
+Dina ASHER-SMITH, carrera 100 m, Torneo de Finland, 1, 10728.0
+Dina ASHER-SMITH, carrera 200 m, Torneo de Jamaica, 1, 19507.0
+Dina ASHER-SMITH, carrera 200 m, Torneo de Kosovo, 1, 21441.0
+Divine ODUDURU, carrera 100 m, Torneo de Djibouti, 1, 9761.0
+Divine ODUDURU, carrera 100 m, Torneo de Central African Republic, 1, 10716.0
+Divine ODUDURU, carrera 200 m, Torneo de Tonga, 1, 19503.0
+Divine ODUDURU, carrera 200 m, Torneo de El Salvador, 1, 21449.0
+Django LOVETT, salto de altura, Torneo de Turkey, 4, 261.0
+Django LOVETT, salto de altura, Torneo de Azerbaijan, 9, 237.0
+Djilali BEDRANI, carrera 3000 m con vallas, Torneo de Moldova, 1, 482078.0
+Djilali BEDRANI, carrera 3000 m con vallas, Torneo de Turkmenistan, 1, 528354.0
+Dmitriy SOROKIN, salto triple, Torneo de Kenya, 9, 1996.0
+Dmitriy SOROKIN, salto triple, Torneo de Ethiopia, 4, 1815.0
+Dmitriy TARABIN, lanzamiento de jabalina, Torneo de Belize, 6, 9963.0
+Dmitriy TARABIN, lanzamiento de jabalina, Torneo de Andorra, 2, 9085.0
+Donald SCOTT, salto triple, Torneo de Suriname, 4, 1995.0
+Donald SCOTT, salto triple, Torneo de Mozambique, 7, 1814.0
+Donavan BRAZIER, carrera 800 m, Torneo de Malta, 1, 101977.0
+Donavan BRAZIER, carrera 800 m, Torneo de Sudan, 1, 112075.0
+Dorcas Jepchirchir TUITOEK, carrera 21000 m, Torneo de Guinea-Bissau, 1, 3483042.0
+Dorcas Jepchirchir TUITOEK, carrera 21000 m, Torneo de Virgin Islands (British), 1, 3827062.0
+Dzmitry NABOKAU, salto de altura, Torneo de Uzbekistan, 10, 261.0
+Dzmitry NABOKAU, salto de altura, Torneo de El Salvador, 2, 237.0
+Eda TUĞSUZ, lanzamiento de jabalina, Torneo de India, 8, 9965.0
+Eda TUĞSUZ, lanzamiento de jabalina, Torneo de Trinidad and Tobago, 8, 9071.0
+Edis MATUSEVIČIUS, lanzamiento de jabalina, Torneo de Jordan, 7, 9966.0
+Edis MATUSEVIČIUS, lanzamiento de jabalina, Torneo de Singapore, 10, 9067.0
+Eduardo RODRIGUES, carrera 110 m con vallas, Torneo de Luxembourg, 1, 12100.0
+Eduardo RODRIGUES, carrera 110 m con vallas, Torneo de Nicaragua, 1, 13293.0
+Edward CHESEREK, carrera 5000 m, Torneo de Vietnam, 1, 772938.0
+Edward CHESEREK, carrera 5000 m, Torneo de Benin, 1, 849067.0
+Edward Zakayo PINGUA, carrera 5000 m, Torneo de Saudi Arabia, 1, 772128.0
+Edward Zakayo PINGUA, carrera 5000 m, Torneo de Bahamas, 1, 848817.0
+Edwin KIPTOO, carrera 21000 m, Torneo de Grenada, 1, 3484115.0
+Edwin KIPTOO, carrera 21000 m, Torneo de Thailand, 1, 3827304.0
+Ehsan HADADI, lanzamiento de disco, Torneo de Eritrea, 1, 7902.0
+Ehsan HADADI, lanzamiento de disco, Torneo de Northern Ireland, 7, 7186.0
+Eilish MCCOLGAN, carrera 1500 m, Torneo de Turkey, 1, 208821.0
+Eilish MCCOLGAN, carrera 1500 m, Torneo de Lithuania, 1, 229632.0
+Eilish MCCOLGAN, carrera 5000 m, Torneo de Samoa, 1, 772270.0
+Eilish MCCOLGAN, carrera 5000 m, Torneo de Brunei, 1, 848915.0
+Eivind HENRIKSEN, lanzamiento de martillo, Torneo de Niger, 6, 8992.0
+Eivind HENRIKSEN, lanzamiento de martillo, Torneo de Kenya, 8, 8180.0
+Elaine THOMPSON, carrera 100 m, Torneo de Puerto Rico, 1, 9761.0
+Elaine THOMPSON, carrera 100 m, Torneo de Monaco, 1, 10732.0
+Elaine THOMPSON, carrera 200 m, Torneo de Grenada, 1, 19500.0
+Elaine THOMPSON, carrera 200 m, Torneo de Luxembourg, 1, 21444.0
+Eldred HENRY, lanzamiento de bala, Torneo de Zimbabwe, 2, 2519.0
+Eldred HENRY, lanzamiento de bala, Torneo de Russia, 7, 2291.0
+Elijah Motonei MANANGOI, carrera 1500 m, Torneo de Armenia, 1, 208951.0
+Elijah Motonei MANANGOI, carrera 1500 m, Torneo de French Guiana, 1, 229494.0
+Eliud KIPCHOGE, carrera 42000 m, Torneo de Albania, 1, 7306906.0
+Eliud KIPCHOGE, carrera 42000 m, Torneo de Senegal, 1, 8027660.0
+Eliza MCCARTNEY, salto con pertiga, Torneo de Denmark, 4, 667.0
+Eliza MCCARTNEY, salto con pertiga, Torneo de Czechia, 6, 606.0
+Elizabeth GLEADLE, lanzamiento de jabalina, Torneo de Ecuador, 8, 9966.0
+Elizabeth GLEADLE, lanzamiento de jabalina, Torneo de Benin, 8, 9063.0
+Ella JUNNILA, salto de altura, Torneo de Saint Vincent and the Grenadines, 1, 261.0
+Ella JUNNILA, salto de altura, Torneo de Bahrain, 8, 237.0
+Elvira HERMAN, carrera 110 m con vallas, Torneo de New Zealand, 1, 12105.0
+Elvira HERMAN, carrera 110 m con vallas, Torneo de Niger, 1, 13305.0
+Emily Cherotich TUEI, carrera 800 m, Torneo de Myanmar, 1, 101999.0
+Emily Cherotich TUEI, carrera 800 m, Torneo de Bahamas, 1, 112070.0
+Emily GROVE, salto con pertiga, Torneo de Venezuela, 2, 667.0
+Emily GROVE, salto con pertiga, Torneo de Denmark, 10, 606.0
+Emily SISSON, carrera 10000 m, Torneo de Hungary, 1, 1609185.0
+Emily SISSON, carrera 10000 m, Torneo de Chad, 1, 1768556.0
+Emma COBURN, carrera 3000 m con vallas, Torneo de Saint Lucia, 1, 481064.0
+Emma COBURN, carrera 3000 m con vallas, Torneo de Vietnam, 1, 528477.0
+Emmanuel Kipkurui KORIR, carrera 400 m, Torneo de Kiribati, 1, 43498.0
+Emmanuel Kipkurui KORIR, carrera 400 m, Torneo de Madagascar, 1, 47765.0
+Emmanuel Kipkurui KORIR, carrera 800 m, Torneo de Japan, 1, 101910.0
+Emmanuel Kipkurui KORIR, carrera 800 m, Torneo de Tuvalu, 1, 112026.0
+Emmanuel SAINA, carrera 42000 m, Torneo de Burundi, 1, 7304424.0
+Emmanuel SAINA, carrera 42000 m, Torneo de Laos, 1, 8030868.0
+Erika KINSEY, salto de altura, Torneo de Uganda, 5, 261.0
+Erika KINSEY, salto de altura, Torneo de Algeria, 1, 237.0
+Ernest John OBIENA, salto con pertiga, Torneo de Trinidad and Tobago, 1, 667.0
+Ernest John OBIENA, salto con pertiga, Torneo de Indonesia, 8, 606.0
+Ese BRUME, salto largo, Torneo de Libya, 9, 956.0
+Ese BRUME, salto largo, Torneo de Mauritius, 3, 869.0
+Eunice Jepkoech SUM, carrera 800 m, Torneo de Colombia, 1, 101915.0
+Eunice Jepkoech SUM, carrera 800 m, Torneo de Lebanon, 1, 112045.0
+Eva CHERONO, carrera 5000 m, Torneo de Cyprus, 1, 772275.0
+Eva CHERONO, carrera 5000 m, Torneo de Haiti, 1, 848796.0
+Evaline CHIRCHIR, carrera 21000 m, Torneo de Luxembourg, 1, 3481005.0
+Evaline CHIRCHIR, carrera 21000 m, Torneo de Serbia, 1, 3823854.0
+Evans CHEBET, carrera 42000 m, Torneo de Luxembourg, 1, 7313756.0
+Evans CHEBET, carrera 42000 m, Torneo de Singapore, 1, 8024020.0
+Faith KIPYEGON, carrera 1500 m, Torneo de Finland, 1, 208809.0
+Faith KIPYEGON, carrera 1500 m, Torneo de Comoros, 1, 229641.0
+Fanny ROOS, lanzamiento de bala, Torneo de Suriname, 2, 2521.0
+Fanny ROOS, lanzamiento de bala, Torneo de Indonesia, 8, 2291.0
+Fantu WORKU, carrera 5000 m, Torneo de Qatar, 1, 772328.0
+Fantu WORKU, carrera 5000 m, Torneo de Syria, 1, 849255.0
+Fedrick DACRES, lanzamiento de disco, Torneo de Paraguay, 4, 7904.0
+Fedrick DACRES, lanzamiento de disco, Torneo de Uzbekistan, 1, 7189.0
+Felix KIBITOK, carrera 21000 m, Torneo de Lebanon, 1, 3482012.0
+Felix KIBITOK, carrera 21000 m, Torneo de Poland, 1, 3826570.0
+Ferguson Cheruiyot ROTICH, carrera 800 m, Torneo de Netherlands, 1, 101918.0
+Ferguson Cheruiyot ROTICH, carrera 800 m, Torneo de Virgin Islands (British), 1, 112019.0
+Fernanda MARTINS, lanzamiento de disco, Torneo de Liberia, 5, 7904.0
+Fernanda MARTINS, lanzamiento de disco, Torneo de Sao Tome and Principe, 10, 7186.0
+Fernando CARRO, carrera 3000 m con vallas, Torneo de French Guiana, 1, 481126.0
+Fernando CARRO, carrera 3000 m con vallas, Torneo de Maldives, 1, 528963.0
+Fikadu HAFTU, carrera 21000 m, Torneo de Burkina Faso, 1, 3481489.0
+Fikadu HAFTU, carrera 21000 m, Torneo de Ecuador, 1, 3828843.0
+Filip INGEBRIGTSEN, carrera 1500 m, Torneo de Bosnia and Herzegovina, 1, 208778.0
+Filip INGEBRIGTSEN, carrera 1500 m, Torneo de Somalia, 1, 229448.0
+Filip MIHALJEVIĆ, lanzamiento de bala, Torneo de Tonga, 9, 2520.0
+Filip MIHALJEVIĆ, lanzamiento de bala, Torneo de Marshall Islands, 8, 2291.0
+Florentina Costina IUSCO, salto largo, Torneo de Liechtenstein, 2, 956.0
+Florentina Costina IUSCO, salto largo, Torneo de Cameroon, 5, 869.0
+Francine NIYONSABA, carrera 800 m, Torneo de Libya, 1, 101892.0
+Francine NIYONSABA, carrera 800 m, Torneo de Serbia, 1, 112075.0
+Fred KERLEY, carrera 400 m, Torneo de French Guiana, 1, 43470.0
+Fred KERLEY, carrera 400 m, Torneo de Thailand, 1, 47776.0
+Freddie CRITTENDEN, carrera 110 m con vallas, Torneo de Togo, 1, 12105.0
+Freddie CRITTENDEN, carrera 110 m con vallas, Torneo de Trinidad and Tobago, 1, 13287.0
+Gabriel CONSTANTINO, carrera 110 m con vallas, Torneo de Timor-Leste, 1, 12098.0
+Gabriel CONSTANTINO, carrera 110 m con vallas, Torneo de Lesotho, 1, 13306.0
+Gabriela DEBUES-STAFFORD, carrera 1500 m, Torneo de Kuwait, 1, 208819.0
+Gabriela DEBUES-STAFFORD, carrera 1500 m, Torneo de Bolivia, 1, 229437.0
+Gabriela DEBUES-STAFFORD, carrera 5000 m, Torneo de Denmark, 1, 773042.0
+Gabriela DEBUES-STAFFORD, carrera 5000 m, Torneo de Taiwan, 1, 848705.0
+Galefele MOROKO, carrera 400 m, Torneo de Czechia, 1, 43452.0
+Galefele MOROKO, carrera 400 m, Torneo de Afghanistan, 1, 47776.0
+Genevieve GREGSON, carrera 3000 m con vallas, Torneo de Chad, 1, 481076.0
+Genevieve GREGSON, carrera 3000 m con vallas, Torneo de Mexico, 1, 528811.0
+Genzebe DIBABA, carrera 1500 m, Torneo de Antigua and Barbuda, 1, 208883.0
+Genzebe DIBABA, carrera 1500 m, Torneo de Zimbabwe, 1, 229523.0
+Geoffrey KAMWOROR, carrera 21000 m, Torneo de Bulgaria, 1, 3484230.0
+Geoffrey KAMWOROR, carrera 21000 m, Torneo de Namibia, 1, 3827647.0
+George Meitamei MANANGOI, carrera 1500 m, Torneo de Albania, 1, 208809.0
+George Meitamei MANANGOI, carrera 1500 m, Torneo de Panama, 1, 229624.0
+Gesa Felicitas KRAUSE, carrera 3000 m con vallas, Torneo de Mauritius, 1, 481492.0
+Gesa Felicitas KRAUSE, carrera 3000 m con vallas, Torneo de Indonesia, 1, 528951.0
+Getaneh MOLLA, carrera 42000 m, Torneo de Bahrain, 1, 7303850.0
+Getaneh MOLLA, carrera 42000 m, Torneo de Nigeria, 1, 8026049.0
+Gete ALEMAYEHU, carrera 10000 m, Torneo de Bahamas, 1, 1608532.0
+Gete ALEMAYEHU, carrera 10000 m, Torneo de Gabon, 1, 1768260.0
+Getnet WALE, carrera 3000 m con vallas, Torneo de Greece, 1, 481590.0
+Getnet WALE, carrera 3000 m con vallas, Torneo de Slovenia, 1, 528948.0
+Girmawit GEBRZIHAIR, carrera 10000 m, Torneo de Paraguay, 1, 1608151.0
+Girmawit GEBRZIHAIR, carrera 10000 m, Torneo de Serbia, 1, 1767096.0
+Gladys CHERONO, carrera 42000 m, Torneo de Russia, 1, 7309791.0
+Gladys CHERONO, carrera 42000 m, Torneo de Panama, 1, 8029220.0
+Gloriah KITE, carrera 5000 m, Torneo de Algeria, 1, 772318.0
+Gloriah KITE, carrera 5000 m, Torneo de Serbia, 1, 849207.0
+Grant HOLLOWAY, carrera 110 m con vallas, Torneo de Canada, 1, 12101.0
+Grant HOLLOWAY, carrera 110 m con vallas, Torneo de Vanuatu, 1, 13308.0
+Gudaf TSEGAY, carrera 1500 m, Torneo de Morocco, 1, 208792.0
+Gudaf TSEGAY, carrera 1500 m, Torneo de Israel, 1, 229566.0
+Guye Idemo ADOLA, carrera 42000 m, Torneo de Ecuador, 1, 7306648.0
+Guye Idemo ADOLA, carrera 42000 m, Torneo de Iceland, 1, 8027315.0
+Gwen BERRY, lanzamiento de martillo, Torneo de Senegal, 10, 8979.0
+Gwen BERRY, lanzamiento de martillo, Torneo de Ireland, 7, 8174.0
+Habitam ALEMU, carrera 800 m, Torneo de Haiti, 1, 101994.0
+Habitam ALEMU, carrera 800 m, Torneo de Spain, 1, 112017.0
+Hagos GEBRHIWET, carrera 10000 m, Torneo de Eritrea, 1, 1608136.0
+Hagos GEBRHIWET, carrera 10000 m, Torneo de Scotland, 1, 1767755.0
+Hagos GEBRHIWET, carrera 5000 m, Torneo de Honduras, 1, 772664.0
+Hagos GEBRHIWET, carrera 5000 m, Torneo de Sweden, 1, 848703.0
+Halimah NAKAAYI, carrera 800 m, Torneo de Cambodia, 1, 101916.0
+Halimah NAKAAYI, carrera 800 m, Torneo de Trinidad and Tobago, 1, 112041.0
+Hamish KERR, salto de altura, Torneo de Scotland, 2, 261.0
+Hamish KERR, salto de altura, Torneo de Bahrain, 8, 237.0
+Hanna GREEN, carrera 800 m, Torneo de Georgia, 1, 101928.0
+Hanna GREEN, carrera 800 m, Torneo de Timor-Leste, 1, 112020.0
+Hanna MALYSHIK, lanzamiento de martillo, Torneo de Slovenia, 4, 8992.0
+Hanna MALYSHIK, lanzamiento de martillo, Torneo de Chile, 5, 8181.0
+Hanna SKYDAN, lanzamiento de martillo, Torneo de Brazil, 10, 8989.0
+Hanna SKYDAN, lanzamiento de martillo, Torneo de Sudan, 1, 8174.0
+Haruka KITAGUCHI, lanzamiento de jabalina, Torneo de Bulgaria, 6, 9966.0
+Haruka KITAGUCHI, lanzamiento de jabalina, Torneo de Lithuania, 1, 9072.0
+Hawi FEYSA, carrera 5000 m, Torneo de Germany, 1, 772169.0
+Hawi FEYSA, carrera 5000 m, Torneo de Cuba, 1, 848869.0
+Hellen OBIRI, carrera 10000 m, Torneo de Eritrea, 1, 1608470.0
+Hellen OBIRI, carrera 10000 m, Torneo de Turkey, 1, 1767213.0
+Hellen OBIRI, carrera 5000 m, Torneo de Nepal, 1, 772409.0
+Hellen OBIRI, carrera 5000 m, Torneo de Nicaragua, 1, 849204.0
+Herpasa NEGASA, carrera 42000 m, Torneo de Eritrea, 1, 7304817.0
+Herpasa NEGASA, carrera 42000 m, Torneo de Tajikistan, 1, 8030853.0
+Hibiki TSUHA, salto largo, Torneo de Montenegro, 3, 956.0
+Hibiki TSUHA, salto largo, Torneo de Romania, 1, 869.0
+Hilary KPATCHA, salto largo, Torneo de Palau, 8, 956.0
+Hilary KPATCHA, salto largo, Torneo de Thailand, 2, 869.0
+Hillary BOR, carrera 3000 m con vallas, Torneo de French Guiana, 1, 481332.0
+Hillary BOR, carrera 3000 m con vallas, Torneo de Bulgaria, 1, 529108.0
+Hleb DUDARAU, lanzamiento de martillo, Torneo de El Salvador, 9, 8988.0
+Hleb DUDARAU, lanzamiento de martillo, Torneo de Comoros, 6, 8178.0
+Holly BRADSHAW, salto con pertiga, Torneo de Papua New Guinea, 3, 667.0
+Holly BRADSHAW, salto con pertiga, Torneo de Kosovo, 4, 606.0
+Hugues Fabrice ZANGO, salto triple, Torneo de Ukraine, 1, 1994.0
+Hugues Fabrice ZANGO, salto triple, Torneo de Benin, 5, 1816.0
+Huihui LYU, lanzamiento de jabalina, Torneo de Singapore, 6, 9959.0
+Huihui LYU, lanzamiento de jabalina, Torneo de Bolivia, 9, 9063.0
+Huiqin XU, salto con pertiga, Torneo de Tunisia, 4, 667.0
+Huiqin XU, salto con pertiga, Torneo de French Guiana, 1, 606.0
+Hyvin KIYENG, carrera 3000 m con vallas, Torneo de Kenya, 1, 481179.0
+Hyvin KIYENG, carrera 3000 m con vallas, Torneo de Oman, 1, 528800.0
+Ilya IVANYUK, salto de altura, Torneo de Vanuatu, 3, 261.0
+Ilya IVANYUK, salto de altura, Torneo de Sri Lanka, 5, 237.0
+Iryna GERASHCHENKO, salto de altura, Torneo de South Africa, 6, 261.0
+Iryna GERASHCHENKO, salto de altura, Torneo de Belarus, 9, 237.0
+Iryna KLYMETS, lanzamiento de martillo, Torneo de Kuwait, 2, 8992.0
+Iryna KLYMETS, lanzamiento de martillo, Torneo de Nicaragua, 7, 8185.0
+Iryna ZHUK, salto con pertiga, Torneo de Iran, 7, 667.0
+Iryna ZHUK, salto con pertiga, Torneo de Antigua and Barbuda, 4, 606.0
+Isiah YOUNG, carrera 100 m, Torneo de Macedonia, 1, 9769.0
+Isiah YOUNG, carrera 100 m, Torneo de Barbados, 1, 10728.0
+Ivana ŠPANOVIĆ, salto largo, Torneo de Panama, 8, 956.0
+Ivana ŠPANOVIĆ, salto largo, Torneo de Guatemala, 8, 869.0
+Ivet LALOVA-COLLIO, carrera 200 m, Torneo de Guinea, 1, 19504.0
+Ivet LALOVA-COLLIO, carrera 200 m, Torneo de Marshall Islands, 1, 21446.0
+Jackline WAMBUI, carrera 800 m, Torneo de Bosnia and Herzegovina, 1, 101926.0
+Jackline WAMBUI, carrera 800 m, Torneo de Tonga, 1, 112071.0
+Jacko GILL, lanzamiento de bala, Torneo de Nauru, 1, 2516.0
+Jacko GILL, lanzamiento de bala, Torneo de Kiribati, 9, 2291.0
+Jacob KROP, carrera 5000 m, Torneo de Guyana, 1, 772722.0
+Jacob KROP, carrera 5000 m, Torneo de Montenegro, 1, 848625.0
+Jake WIGHTMAN, carrera 1500 m, Torneo de Bosnia and Herzegovina, 1, 208828.0
+Jake WIGHTMAN, carrera 1500 m, Torneo de Taiwan, 1, 229574.0
+Jakob INGEBRIGTSEN, carrera 1500 m, Torneo de Jamaica, 1, 208949.0
+Jakob INGEBRIGTSEN, carrera 1500 m, Torneo de Finland, 1, 229578.0
+Jakob INGEBRIGTSEN, carrera 5000 m, Torneo de Argentina, 1, 772184.0
+Jakob INGEBRIGTSEN, carrera 5000 m, Torneo de Colombia, 1, 849290.0
+Jakub VADLEJCH, lanzamiento de jabalina, Torneo de Austria, 4, 9967.0
+Jakub VADLEJCH, lanzamiento de jabalina, Torneo de Switzerland, 9, 9062.0
+Janeah STEWART, lanzamiento de martillo, Torneo de New Zealand, 10, 8992.0
+Janeah STEWART, lanzamiento de martillo, Torneo de Hungary, 2, 8179.0
+Janee KASSANAVOID, lanzamiento de martillo, Torneo de Spain, 8, 8992.0
+Janee KASSANAVOID, lanzamiento de martillo, Torneo de Equatorial Guinea, 6, 8174.0
+Janeek BROWN, carrera 110 m con vallas, Torneo de Indonesia, 1, 12102.0
+Janeek BROWN, carrera 110 m con vallas, Torneo de Panama, 1, 13308.0
+Janeek BROWN, carrera 200 m, Torneo de Jordan, 1, 19505.0
+Janeek BROWN, carrera 200 m, Torneo de Australia, 1, 21442.0
+Janieve RUSSELL, carrera 400 m con vallas, Torneo de Taiwan, 1, 46208.0
+Janieve RUSSELL, carrera 400 m con vallas, Torneo de Marshall Islands, 1, 50684.0
+Javier CIENFUEGOS, lanzamiento de martillo, Torneo de Colombia, 8, 8991.0
+Javier CIENFUEGOS, lanzamiento de martillo, Torneo de Nepal, 9, 8175.0
+Jeff HENDERSON, salto largo, Torneo de Kenya, 2, 956.0
+Jeff HENDERSON, salto largo, Torneo de Iraq, 1, 869.0
+Jemal Yimer MEKONNEN, carrera 10000 m, Torneo de Australia, 1, 1610950.0
+Jemal Yimer MEKONNEN, carrera 10000 m, Torneo de El Salvador, 1, 1768818.0
+Jemal Yimer MEKONNEN, carrera 21000 m, Torneo de Saint Lucia, 1, 3484446.0
+Jemal Yimer MEKONNEN, carrera 21000 m, Torneo de Sweden, 1, 3826906.0
+Jeneva STEVENS, lanzamiento de bala, Torneo de Bhutan, 3, 2521.0
+Jeneva STEVENS, lanzamiento de bala, Torneo de Malawi, 2, 2291.0
+Jennifer SUHR, salto con pertiga, Torneo de Qatar, 4, 667.0
+Jennifer SUHR, salto con pertiga, Torneo de Indonesia, 2, 606.0
+Jenny SIMPSON, carrera 1500 m, Torneo de Mali, 1, 208884.0
+Jenny SIMPSON, carrera 1500 m, Torneo de Barbados, 1, 229430.0
+Jeron ROBINSON, salto de altura, Torneo de Uruguay, 8, 261.0
+Jeron ROBINSON, salto de altura, Torneo de Andorra, 10, 237.0
+Jessica RAMSEY, lanzamiento de bala, Torneo de Egypt, 10, 2519.0
+Jessica RAMSEY, lanzamiento de bala, Torneo de Micronesia, 6, 2292.0
+Jianan WANG, salto largo, Torneo de Thailand, 9, 956.0
+Jianan WANG, salto largo, Torneo de Marshall Islands, 6, 869.0
+Joan Chelimo MELLY, carrera 21000 m, Torneo de Nicaragua, 1, 3482666.0
+Joan Chelimo MELLY, carrera 21000 m, Torneo de Saudi Arabia, 1, 3824795.0
+Joanna FIODOROW, lanzamiento de martillo, Torneo de San Marino, 1, 8986.0
+Joanna FIODOROW, lanzamiento de martillo, Torneo de Costa Rica, 5, 8175.0
+Joe KOVACS, lanzamiento de bala, Torneo de Ukraine, 6, 2519.0
+Joe KOVACS, lanzamiento de bala, Torneo de Canada, 7, 2291.0
+Joel BADEN, salto de altura, Torneo de Zambia, 3, 261.0
+Joel BADEN, salto de altura, Torneo de Luxembourg, 6, 237.0
+Johannes VETTER, lanzamiento de jabalina, Torneo de Maldives, 8, 9967.0
+Johannes VETTER, lanzamiento de jabalina, Torneo de Portugal, 9, 9063.0
+Jonathan JONES, carrera 400 m, Torneo de Papua New Guinea, 1, 43455.0
+Jonathan JONES, carrera 400 m, Torneo de Israel, 1, 47794.0
+Jonathan JONES, lanzamiento de bala, Torneo de Zimbabwe, 6, 2521.0
+Jonathan JONES, lanzamiento de bala, Torneo de Sri Lanka, 1, 2293.0
+Jonathan KITILIT, carrera 800 m, Torneo de Lesotho, 1, 101929.0
+Jonathan KITILIT, carrera 800 m, Torneo de Cyprus, 1, 112052.0
+Jonielle SMITH, carrera 100 m, Torneo de Germany, 1, 9763.0
+Jonielle SMITH, carrera 100 m, Torneo de Lesotho, 1, 10734.0
+Jordan Alejandro DÍAZ FORTUN, salto triple, Torneo de Norway, 1, 1996.0
+Jordan Alejandro DÍAZ FORTUN, salto triple, Torneo de Fiji, 1, 1815.0
+Jordan GEIST, lanzamiento de bala, Torneo de Mali, 6, 2521.0
+Jordan GEIST, lanzamiento de bala, Torneo de Vanuatu, 5, 2291.0
+Joseph Paul AMOAH, carrera 200 m, Torneo de China, 1, 19519.0
+Joseph Paul AMOAH, carrera 200 m, Torneo de Yemen, 1, 21441.0
+Josh KERR, carrera 1500 m, Torneo de Costa Rica, 1, 208786.0
+Josh KERR, carrera 1500 m, Torneo de Azerbaijan, 1, 229632.0
+Joshua CHEPTEGEI, carrera 10000 m, Torneo de Thailand, 1, 1609174.0
+Joshua CHEPTEGEI, carrera 10000 m, Torneo de South Africa, 1, 1766586.0
+Joshua CHEPTEGEI, carrera 5000 m, Torneo de Kyrgyzstan, 1, 772176.0
+Joshua CHEPTEGEI, carrera 5000 m, Torneo de Puerto Rico, 1, 848785.0
+JuVaughn HARRISON, salto largo, Torneo de Nicaragua, 7, 956.0
+JuVaughn HARRISON, salto largo, Torneo de Comoros, 1, 869.0
+Juan Miguel ECHEVARRÍA, salto largo, Torneo de Micronesia, 1, 956.0
+Juan Miguel ECHEVARRÍA, salto largo, Torneo de Bhutan, 3, 869.0
+Julian WEBER, lanzamiento de jabalina, Torneo de Oman, 10, 9968.0
+Julian WEBER, lanzamiento de jabalina, Torneo de Senegal, 3, 9061.0
+Julien WANDERS, carrera 10000 m, Torneo de Pakistan, 1, 1608920.0
+Julien WANDERS, carrera 10000 m, Torneo de Panama, 1, 1767881.0
+Julien WANDERS, carrera 21000 m, Torneo de Mauritania, 1, 3483721.0
+Julien WANDERS, carrera 21000 m, Torneo de Denmark, 1, 3828808.0
+Julius YEGO, lanzamiento de jabalina, Torneo de United Arab Emirates, 1, 9968.0
+Julius YEGO, lanzamiento de jabalina, Torneo de Austria, 9, 9062.0
+Justin GATLIN, carrera 100 m, Torneo de Liberia, 1, 9766.0
+Justin GATLIN, carrera 100 m, Torneo de Gabon, 1, 10736.0
+Justyna ŚWIĘTY-ERSETIC, carrera 400 m, Torneo de Argentina, 1, 43454.0
+Justyna ŚWIĘTY-ERSETIC, carrera 400 m, Torneo de South Sudan, 1, 47768.0
+Kaan Kigen ÖZBILEN, carrera 42000 m, Torneo de San Marino, 1, 7303292.0
+Kaan Kigen ÖZBILEN, carrera 42000 m, Torneo de North Korea, 1, 8028537.0
+Kahmari MONTGOMERY, carrera 400 m, Torneo de Dominica, 1, 43461.0
+Kahmari MONTGOMERY, carrera 400 m, Torneo de Laos, 1, 47791.0
+Kamila LIĆWINKO, salto de altura, Torneo de Trinidad and Tobago, 3, 261.0
+Kamila LIĆWINKO, salto de altura, Torneo de Algeria, 10, 237.0
+Kara WINGER, lanzamiento de jabalina, Torneo de Poland, 6, 9966.0
+Kara WINGER, lanzamiento de jabalina, Torneo de Malta, 7, 9066.0
+Karissa SCHWEIZER, carrera 5000 m, Torneo de Nicaragua, 1, 772237.0
+Karissa SCHWEIZER, carrera 5000 m, Torneo de Ireland, 1, 848970.0
+Karoline Bjerkeli GRØVDAL, carrera 3000 m con vallas, Torneo de Ivory Coast, 1, 481175.0
+Karoline Bjerkeli GRØVDAL, carrera 3000 m con vallas, Torneo de Afghanistan, 1, 529133.0
+Karoline Bjerkeli GRØVDAL, carrera 5000 m, Torneo de Djibouti, 1, 772375.0
+Karoline Bjerkeli GRØVDAL, carrera 5000 m, Torneo de Czechia, 1, 849135.0
+Karsten WARHOLM, carrera 400 m con vallas, Torneo de Israel, 1, 46102.0
+Karsten WARHOLM, carrera 400 m con vallas, Torneo de Ivory Coast, 1, 50697.0
+Karyna DEMIDIK, salto de altura, Torneo de Virgin Islands (British), 2, 261.0
+Karyna DEMIDIK, salto de altura, Torneo de Canada, 8, 237.0
+Katarina JOHNSON-THOMPSON, salto de altura, Torneo de Syria, 1, 261.0
+Katarina JOHNSON-THOMPSON, salto de altura, Torneo de Bangladesh, 8, 237.0
+Katarina JOHNSON-THOMPSON, salto largo, Torneo de Singapore, 7, 955.0
+Katarina JOHNSON-THOMPSON, salto largo, Torneo de Belgium, 10, 869.0
+Kate GRACE, carrera 800 m, Torneo de Netherlands, 1, 101901.0
+Kate GRACE, carrera 800 m, Torneo de Virgin Islands (British), 1, 112079.0
+Katerina STEFANIDI, salto con pertiga, Torneo de Romania, 5, 667.0
+Katerina STEFANIDI, salto con pertiga, Torneo de Estonia, 4, 606.0
+Katie NAGEOTTE, salto con pertiga, Torneo de Saudi Arabia, 10, 667.0
+Katie NAGEOTTE, salto con pertiga, Torneo de Saint Kitts and Nevis, 4, 606.0
+Kayla WHITE, carrera 100 m, Torneo de Algeria, 1, 9765.0
+Kayla WHITE, carrera 100 m, Torneo de Syria, 1, 10732.0
+Kayla WHITE, carrera 200 m, Torneo de Jamaica, 1, 19500.0
+Kayla WHITE, carrera 200 m, Torneo de Russia, 1, 21444.0
+Kc LIGHTFOOT, salto con pertiga, Torneo de Panama, 4, 667.0
+Kc LIGHTFOOT, salto con pertiga, Torneo de Ghana, 2, 606.0
+Kelsey CARD, lanzamiento de disco, Torneo de Jordan, 1, 7905.0
+Kelsey CARD, lanzamiento de disco, Torneo de Chad, 4, 7187.0
+Kelsey-Lee BARBER, lanzamiento de jabalina, Torneo de Mexico, 7, 9963.0
+Kelsey-Lee BARBER, lanzamiento de jabalina, Torneo de Netherlands, 3, 9066.0
+Kemar MOWATT, carrera 400 m con vallas, Torneo de Bahamas, 1, 46099.0
+Kemar MOWATT, carrera 400 m con vallas, Torneo de Armenia, 1, 50687.0
+Kendall ELLIS, carrera 400 m, Torneo de Niger, 1, 43454.0
+Kendall ELLIS, carrera 400 m, Torneo de Cameroon, 1, 47793.0
+Kendell WILLIAMS, carrera 110 m con vallas, Torneo de Vietnam, 1, 12100.0
+Kendell WILLIAMS, carrera 110 m con vallas, Torneo de Palau, 1, 13304.0
+Kendra HARRISON, carrera 110 m con vallas, Torneo de Eritrea, 1, 12100.0
+Kendra HARRISON, carrera 110 m con vallas, Torneo de New Zealand, 1, 13308.0
+Kenenisa BEKELE, carrera 42000 m, Torneo de Mauritania, 1, 7309082.0
+Kenenisa BEKELE, carrera 42000 m, Torneo de Uzbekistan, 1, 8026649.0
+Kenneth BEDNAREK, carrera 200 m, Torneo de Botswana, 1, 19514.0
+Kenneth BEDNAREK, carrera 200 m, Torneo de Gambia, 1, 21444.0
+Kenneth BEDNAREK, carrera 400 m, Torneo de Uzbekistan, 1, 43496.0
+Kenneth BEDNAREK, carrera 400 m, Torneo de Taiwan, 1, 47784.0
+Kenyattia HACKWORTH, salto largo, Torneo de Maldives, 1, 956.0
+Kenyattia HACKWORTH, salto largo, Torneo de Angola, 4, 869.0
+Keshorn WALCOTT, lanzamiento de jabalina, Torneo de Marshall Islands, 9, 9959.0
+Keshorn WALCOTT, lanzamiento de jabalina, Torneo de Scotland, 2, 9061.0
+Keturah ORJI, salto largo, Torneo de Monaco, 7, 956.0
+Keturah ORJI, salto largo, Torneo de Bulgaria, 10, 870.0
+Keturah ORJI, salto triple, Torneo de Gabon, 10, 1996.0
+Keturah ORJI, salto triple, Torneo de France, 4, 1814.0
+Kiara GRANT, carrera 100 m, Torneo de Vatican City, 1, 9760.0
+Kiara GRANT, carrera 100 m, Torneo de North Korea, 1, 10726.0
+Kiara PARKER, carrera 100 m, Torneo de Greece, 1, 9765.0
+Kiara PARKER, carrera 100 m, Torneo de Monaco, 1, 10730.0
+Kibiwott KANDIE, carrera 21000 m, Torneo de Papua New Guinea, 1, 3485317.0
+Kibiwott KANDIE, carrera 21000 m, Torneo de Rwanda, 1, 3828626.0
+Kim AMB, lanzamiento de jabalina, Torneo de Palau, 3, 9968.0
+Kim AMB, lanzamiento de jabalina, Torneo de Albania, 6, 9061.0
+Kimberly WILLIAMS, salto triple, Torneo de Cuba, 4, 1996.0
+Kimberly WILLIAMS, salto triple, Torneo de Tuvalu, 3, 1814.0
+Kinde ATANAW, carrera 42000 m, Torneo de Guyana, 1, 7301386.0
+Kinde ATANAW, carrera 42000 m, Torneo de Lithuania, 1, 8025039.0
+Kirani JAMES, carrera 400 m, Torneo de South Africa, 1, 43494.0
+Kirani JAMES, carrera 400 m, Torneo de Singapore, 1, 47772.0
+Konrad BUKOWIECKI, lanzamiento de bala, Torneo de Uruguay, 7, 2521.0
+Konrad BUKOWIECKI, lanzamiento de bala, Torneo de Central African Republic, 6, 2292.0
+Konstanze KLOSTERHALFEN, carrera 1500 m, Torneo de Burundi, 1, 208796.0
+Konstanze KLOSTERHALFEN, carrera 1500 m, Torneo de Sierra Leone, 1, 229463.0
+Konstanze KLOSTERHALFEN, carrera 5000 m, Torneo de Cameroon, 1, 772460.0
+Konstanze KLOSTERHALFEN, carrera 5000 m, Torneo de Congo Democratic Republic of the, 1, 849050.0
+Kori CARTER, carrera 400 m con vallas, Torneo de Malawi, 1, 46117.0
+Kori CARTER, carrera 400 m con vallas, Torneo de Philippines, 1, 50694.0
+Kristin GIERISCH, salto triple, Torneo de Suriname, 7, 1996.0
+Kristin GIERISCH, salto triple, Torneo de Kyrgyzstan, 4, 1814.0
+Kristin PUDENZ, lanzamiento de disco, Torneo de Argentina, 8, 7905.0
+Kristin PUDENZ, lanzamiento de disco, Torneo de Georgia, 3, 7187.0
+Kurtis MARSCHALL, salto con pertiga, Torneo de Venezuela, 5, 667.0
+Kurtis MARSCHALL, salto con pertiga, Torneo de Monaco, 7, 606.0
+Kyron MCMASTER, carrera 400 m con vallas, Torneo de Timor-Leste, 1, 46094.0
+Kyron MCMASTER, carrera 400 m con vallas, Torneo de Bahrain, 1, 50689.0
+Lamecha GIRMA, carrera 3000 m con vallas, Torneo de Mali, 1, 481078.0
+Lamecha GIRMA, carrera 3000 m con vallas, Torneo de Morocco, 1, 528818.0
+Laulauga TAUSAGA, lanzamiento de disco, Torneo de Yemen, 6, 7904.0
+Laulauga TAUSAGA, lanzamiento de disco, Torneo de Suriname, 3, 7187.0
+Laura IGAUNE, lanzamiento de martillo, Torneo de Iraq, 10, 8990.0
+Laura IGAUNE, lanzamiento de martillo, Torneo de Ivory Coast, 2, 8175.0
+Laura MUIR, carrera 1500 m, Torneo de Italy, 1, 209050.0
+Laura MUIR, carrera 1500 m, Torneo de Liechtenstein, 1, 229591.0
+Laura MUIR, carrera 800 m, Torneo de Malawi, 1, 101895.0
+Laura MUIR, carrera 800 m, Torneo de Pakistan, 1, 112043.0
+Laura WEIGHTMAN, carrera 1500 m, Torneo de Mongolia, 1, 208792.0
+Laura WEIGHTMAN, carrera 1500 m, Torneo de Chile, 1, 229613.0
+Laura WEIGHTMAN, carrera 5000 m, Torneo de Grenada, 1, 772743.0
+Laura WEIGHTMAN, carrera 5000 m, Torneo de Mexico, 1, 848834.0
+Lauren WELLS, carrera 400 m con vallas, Torneo de Bolivia, 1, 46100.0
+Lauren WELLS, carrera 400 m con vallas, Torneo de Comoros, 1, 50698.0
+Laviai NIELSEN, carrera 400 m, Torneo de Kenya, 1, 43466.0
+Laviai NIELSEN, carrera 400 m, Torneo de New Zealand, 1, 47793.0
+Lawrence Kemboi KIPSANG, carrera 3000 m con vallas, Torneo de Mauritania, 1, 481452.0
+Lawrence Kemboi KIPSANG, carrera 3000 m con vallas, Torneo de Benin, 1, 528660.0
+Lea SPRUNGER, carrera 400 m con vallas, Torneo de Tajikistan, 1, 46143.0
+Lea SPRUNGER, carrera 400 m con vallas, Torneo de Syria, 1, 50701.0
+Leonard BARSOTON, carrera 21000 m, Torneo de Papua New Guinea, 1, 3484102.0
+Leonard BARSOTON, carrera 21000 m, Torneo de Guatemala, 1, 3827516.0
+Leonard Kipkemoi BETT, carrera 3000 m con vallas, Torneo de Costa Rica, 1, 481113.0
+Leonard Kipkemoi BETT, carrera 3000 m con vallas, Torneo de Namibia, 1, 528870.0
+Leonard LANGAT, carrera 21000 m, Torneo de Greece, 1, 3481507.0
+Leonard LANGAT, carrera 21000 m, Torneo de Zimbabwe, 1, 3827462.0
+Letesenbet GIDEY, carrera 10000 m, Torneo de Liberia, 1, 1608326.0
+Letesenbet GIDEY, carrera 10000 m, Torneo de Lebanon, 1, 1768785.0
+Letesenbet GIDEY, carrera 5000 m, Torneo de Algeria, 1, 772303.0
+Letesenbet GIDEY, carrera 5000 m, Torneo de Australia, 1, 849287.0
+Liadagmis POVEA, salto triple, Torneo de Cabo Verde, 7, 1996.0
+Liadagmis POVEA, salto triple, Torneo de Niger, 3, 1815.0
+Lijiao GONG, lanzamiento de bala, Torneo de Czechia, 4, 2521.0
+Lijiao GONG, lanzamiento de bala, Torneo de Saint Lucia, 8, 2291.0
+Lilian Kasait RENGERUK, carrera 5000 m, Torneo de Maldives, 1, 773421.0
+Lilian Kasait RENGERUK, carrera 5000 m, Torneo de Timor-Leste, 1, 849044.0
+Lina MUZE, lanzamiento de jabalina, Torneo de Albania, 3, 9963.0
+Lina MUZE, lanzamiento de jabalina, Torneo de Burkina Faso, 8, 9072.0
+Lindsay HANEKOM, carrera 400 m con vallas, Torneo de Sudan, 1, 46092.0
+Lindsay HANEKOM, carrera 400 m con vallas, Torneo de Jordan, 1, 50699.0
+Ling LI, salto con pertiga, Torneo de Zambia, 7, 667.0
+Ling LI, salto con pertiga, Torneo de Ghana, 2, 606.0
+Liveta JASIŪNAITĖ, lanzamiento de jabalina, Torneo de Cabo Verde, 2, 9964.0
+Liveta JASIŪNAITĖ, lanzamiento de jabalina, Torneo de Morocco, 9, 9064.0
+Lois Maikel MARTÍNEZ, lanzamiento de disco, Torneo de Ecuador, 6, 7902.0
+Lois Maikel MARTÍNEZ, lanzamiento de disco, Torneo de Hungary, 6, 7187.0
+Lonah Chemtai SALPETER, carrera 21000 m, Torneo de Russia, 1, 3481643.0
+Lonah Chemtai SALPETER, carrera 21000 m, Torneo de Moldova, 1, 3826972.0
+Lonah Chemtai SALPETER, carrera 42000 m, Torneo de Zimbabwe, 1, 7310801.0
+Lonah Chemtai SALPETER, carrera 42000 m, Torneo de Haiti, 1, 8030831.0
+Lopez LOMONG, carrera 10000 m, Torneo de Bhutan, 1, 1608036.0
+Lopez LOMONG, carrera 10000 m, Torneo de Maldives, 1, 1768421.0
+Lopez LOMONG, carrera 5000 m, Torneo de Nigeria, 1, 772331.0
+Lopez LOMONG, carrera 5000 m, Torneo de Norway, 1, 849264.0
+Ludvy VAILLANT, carrera 400 m con vallas, Torneo de Vietnam, 1, 46118.0
+Ludvy VAILLANT, carrera 400 m con vallas, Torneo de Gambia, 1, 50697.0
+Luis Enrique ZAYAS, salto de altura, Torneo de Uruguay, 10, 261.0
+Luis Enrique ZAYAS, salto de altura, Torneo de Benin, 9, 237.0
+Luiza GEGA, carrera 3000 m con vallas, Torneo de Sierra Leone, 1, 481224.0
+Luiza GEGA, carrera 3000 m con vallas, Torneo de South Sudan, 1, 528861.0
+Lukas WEISSHAIDINGER, lanzamiento de disco, Torneo de Ivory Coast, 10, 7894.0
+Lukas WEISSHAIDINGER, lanzamiento de disco, Torneo de Marshall Islands, 5, 7188.0
+Luvo MANYONGA, salto largo, Torneo de United Arab Emirates, 9, 956.0
+Luvo MANYONGA, salto largo, Torneo de Bahrain, 1, 869.0
+Lynsey SHARP, carrera 800 m, Torneo de Monaco, 1, 101904.0
+Lynsey SHARP, carrera 800 m, Torneo de Angola, 1, 112022.0
+Machel CEDENIO, carrera 400 m, Torneo de Comoros, 1, 43473.0
+Machel CEDENIO, carrera 400 m, Torneo de Chad, 1, 47774.0
+Maggie EWEN, lanzamiento de bala, Torneo de Oman, 5, 2521.0
+Maggie EWEN, lanzamiento de bala, Torneo de Slovenia, 9, 2293.0
+Maggie EWEN, lanzamiento de martillo, Torneo de Panama, 10, 8985.0
+Maggie EWEN, lanzamiento de martillo, Torneo de Guinea, 3, 8174.0
+Magnus KIRT, lanzamiento de jabalina, Torneo de Finland, 10, 9958.0
+Magnus KIRT, lanzamiento de jabalina, Torneo de Nigeria, 2, 9065.0
+Majd Eddin GHAZAL, salto de altura, Torneo de United States, 5, 261.0
+Majd Eddin GHAZAL, salto de altura, Torneo de Antigua and Barbuda, 7, 237.0
+Maksim NEDASEKAU, salto de altura, Torneo de Marshall Islands, 3, 261.0
+Maksim NEDASEKAU, salto de altura, Torneo de Argentina, 3, 237.0
+Malaika MIHAMBO, salto largo, Torneo de Mauritania, 5, 956.0
+Malaika MIHAMBO, salto largo, Torneo de Zimbabwe, 9, 869.0
+Malwina KOPRON, lanzamiento de martillo, Torneo de Papua New Guinea, 10, 8992.0
+Malwina KOPRON, lanzamiento de martillo, Torneo de Mongolia, 2, 8175.0
+Manqi GE, carrera 100 m, Torneo de Guinea-Bissau, 1, 9761.0
+Manqi GE, carrera 100 m, Torneo de Guyana, 1, 10736.0
+Marcel LOMNICKÝ, lanzamiento de martillo, Torneo de Sri Lanka, 7, 8989.0
+Marcel LOMNICKÝ, lanzamiento de martillo, Torneo de Georgia, 8, 8174.0
+Marcin KRUKOWSKI, lanzamiento de jabalina, Torneo de New Zealand, 3, 9968.0
+Marcin KRUKOWSKI, lanzamiento de jabalina, Torneo de Bangladesh, 1, 9064.0
+Marcin LEWANDOWSKI, carrera 1500 m, Torneo de Norway, 1, 208843.0
+Marcin LEWANDOWSKI, carrera 1500 m, Torneo de Brazil, 1, 229592.0
+Marcin LEWANDOWSKI, carrera 800 m, Torneo de Zambia, 1, 101921.0
+Marcin LEWANDOWSKI, carrera 800 m, Torneo de Bahamas, 1, 112033.0
+Marcio TELES, carrera 400 m con vallas, Torneo de Jamaica, 1, 46151.0
+Marcio TELES, carrera 400 m con vallas, Torneo de United States, 1, 50693.0
+Marco AROP, carrera 800 m, Torneo de Central African Republic, 1, 101895.0
+Marco AROP, carrera 800 m, Torneo de Zimbabwe, 1, 112075.0
+Mare DIBABA, carrera 42000 m, Torneo de Mozambique, 1, 7302469.0
+Mare DIBABA, carrera 42000 m, Torneo de Grenada, 1, 8025541.0
+Margaret Chelimo KIPKEMBOI, carrera 5000 m, Torneo de Ukraine, 1, 772274.0
+Margaret Chelimo KIPKEMBOI, carrera 5000 m, Torneo de Algeria, 1, 849119.0
+Maria ANDREJCZYK, lanzamiento de jabalina, Torneo de Austria, 9, 9967.0
+Maria ANDREJCZYK, lanzamiento de jabalina, Torneo de Gambia, 2, 9062.0
+Marie-Josée TA LOU, carrera 100 m, Torneo de Latvia, 1, 9760.0
+Marie-Josée TA LOU, carrera 100 m, Torneo de Mexico, 1, 10732.0
+Marie-Josée TA LOU, carrera 200 m, Torneo de Sudan, 1, 19501.0
+Marie-Josée TA LOU, carrera 200 m, Torneo de Mauritius, 1, 21420.0
+Marie-Laurence JUNGFLEISCH, salto de altura, Torneo de Italy, 7, 261.0
+Marie-Laurence JUNGFLEISCH, salto de altura, Torneo de Chile, 7, 237.0
+Marielle HALL, carrera 10000 m, Torneo de Switzerland, 1, 1608971.0
+Marielle HALL, carrera 10000 m, Torneo de Azerbaijan, 1, 1766456.0
+Marike STEINACKER, lanzamiento de disco, Torneo de Sweden, 4, 7892.0
+Marike STEINACKER, lanzamiento de disco, Torneo de Indonesia, 10, 7192.0
+Mario BURKE, carrera 100 m, Torneo de San Marino, 1, 9760.0
+Mario BURKE, carrera 100 m, Torneo de Belize, 1, 10733.0
+Mario BURKE, carrera 200 m, Torneo de South Sudan, 1, 19500.0
+Mario BURKE, carrera 200 m, Torneo de Yemen, 1, 21448.0
+Marius KIPSEREM, carrera 42000 m, Torneo de Uzbekistan, 1, 7307460.0
+Marius KIPSEREM, carrera 42000 m, Torneo de Afghanistan, 1, 8026004.0
+Mariya LASITSKENE, salto de altura, Torneo de Virgin Islands (British), 3, 261.0
+Mariya LASITSKENE, salto de altura, Torneo de Kiribati, 1, 237.0
+Martin WIERIG, lanzamiento de disco, Torneo de Sri Lanka, 1, 7899.0
+Martin WIERIG, lanzamiento de disco, Torneo de Albania, 5, 7187.0
+Martina RATEJ, lanzamiento de jabalina, Torneo de Antigua and Barbuda, 5, 9968.0
+Martina RATEJ, lanzamiento de jabalina, Torneo de Georgia, 1, 9067.0
+Maruša MIŠMAŠ, carrera 3000 m con vallas, Torneo de Libya, 1, 481151.0
+Maruša MIŠMAŠ, carrera 3000 m con vallas, Torneo de Laos, 1, 529081.0
+Maryna BEKH-ROMANCHUK, salto largo, Torneo de Sudan, 1, 956.0
+Maryna BEKH-ROMANCHUK, salto largo, Torneo de Estonia, 3, 869.0
+María Fernanda MURILLO, salto de altura, Torneo de Turkey, 5, 261.0
+María Fernanda MURILLO, salto de altura, Torneo de Benin, 4, 237.0
+Mason FINLEY, lanzamiento de disco, Torneo de Somalia, 4, 7901.0
+Mason FINLEY, lanzamiento de disco, Torneo de Chile, 2, 7186.0
+Mateusz PRZYBYLKO, salto de altura, Torneo de Uganda, 10, 261.0
+Mateusz PRZYBYLKO, salto de altura, Torneo de Macedonia, 5, 237.0
+Matthew CENTROWITZ, carrera 1500 m, Torneo de Niger, 1, 208772.0
+Matthew CENTROWITZ, carrera 1500 m, Torneo de Saint Kitts and Nevis, 1, 229629.0
+Matthew CENTROWITZ, carrera 5000 m, Torneo de Nicaragua, 1, 772861.0
+Matthew CENTROWITZ, carrera 5000 m, Torneo de Grenada, 1, 849217.0
+Matthew HUGHES, carrera 3000 m con vallas, Torneo de Germany, 1, 481095.0
+Matthew HUGHES, carrera 3000 m con vallas, Torneo de Mali, 1, 529132.0
+Maykel MASSÓ, salto largo, Torneo de Saint Vincent and the Grenadines, 5, 956.0
+Maykel MASSÓ, salto largo, Torneo de Gabon, 7, 869.0
+Megan TAPPER, carrera 110 m con vallas, Torneo de Saint Lucia, 1, 12115.0
+Megan TAPPER, carrera 110 m con vallas, Torneo de Wales, 1, 13302.0
+Mekides ABEBE, carrera 3000 m con vallas, Torneo de Saint Vincent and the Grenadines, 1, 481379.0
+Mekides ABEBE, carrera 3000 m con vallas, Torneo de Bolivia, 1, 529087.0
+Mercy CHEPKURUI, carrera 3000 m con vallas, Torneo de Mongolia, 1, 481081.0
+Mercy CHEPKURUI, carrera 3000 m con vallas, Torneo de Japan, 1, 528670.0
+Mercy WANJIRU, carrera 3000 m con vallas, Torneo de Marshall Islands, 1, 481184.0
+Mercy WANJIRU, carrera 3000 m con vallas, Torneo de Colombia, 1, 529071.0
+Mesud PEZER, lanzamiento de bala, Torneo de Zambia, 6, 2521.0
+Mesud PEZER, lanzamiento de bala, Torneo de India, 5, 2291.0
+Michael CHERRY, carrera 400 m, Torneo de Equatorial Guinea, 1, 43454.0
+Michael CHERRY, carrera 400 m, Torneo de Congo Republic of the, 1, 47788.0
+Michael MASON, salto de altura, Torneo de Vietnam, 3, 261.0
+Michael MASON, salto de altura, Torneo de Botswana, 8, 237.0
+Michael NORMAN, carrera 200 m, Torneo de Finland, 1, 19521.0
+Michael NORMAN, carrera 200 m, Torneo de Jamaica, 1, 21448.0
+Michael NORMAN, carrera 400 m, Torneo de India, 1, 43455.0
+Michael NORMAN, carrera 400 m, Torneo de Jamaica, 1, 47793.0
+Michael RODGERS, carrera 100 m, Torneo de Lebanon, 1, 9760.0
+Michael RODGERS, carrera 100 m, Torneo de Uruguay, 1, 10733.0
+Michael SARUNI, carrera 800 m, Torneo de Somalia, 1, 101921.0
+Michael SARUNI, carrera 800 m, Torneo de Namibia, 1, 111973.0
+Michaela MEIJER, salto con pertiga, Torneo de Myanmar, 10, 667.0
+Michaela MEIJER, salto con pertiga, Torneo de Equatorial Guinea, 4, 606.0
+Michał HARATYK, lanzamiento de bala, Torneo de Jamaica, 2, 2521.0
+Michał HARATYK, lanzamiento de bala, Torneo de Myanmar, 3, 2293.0
+Michelle CARTER, lanzamiento de bala, Torneo de Pakistan, 10, 2521.0
+Michelle CARTER, lanzamiento de bala, Torneo de Maldives, 5, 2291.0
+Miguel FRANCIS, carrera 200 m, Torneo de Tonga, 1, 19507.0
+Miguel FRANCIS, carrera 200 m, Torneo de Mexico, 1, 21438.0
+Mikhail AKIMENKO, salto de altura, Torneo de Scotland, 4, 261.0
+Mikhail AKIMENKO, salto de altura, Torneo de Albania, 7, 237.0
+Milan TRAJKOVIC, carrera 110 m con vallas, Torneo de Namibia, 1, 12106.0
+Milan TRAJKOVIC, carrera 110 m con vallas, Torneo de Kosovo, 1, 13301.0
+Miltiadis TENTOGLOU, salto largo, Torneo de United Arab Emirates, 9, 956.0
+Miltiadis TENTOGLOU, salto largo, Torneo de Brunei, 4, 869.0
+Mirela DEMIREVA, salto de altura, Torneo de Yemen, 1, 261.0
+Mirela DEMIREVA, salto de altura, Torneo de Bangladesh, 9, 237.0
+Mogos TUEMAY, carrera 10000 m, Torneo de Mexico, 1, 1611081.0
+Mogos TUEMAY, carrera 10000 m, Torneo de Kiribati, 1, 1768816.0
+Mohamed TINDOUFT, carrera 3000 m con vallas, Torneo de Kyrgyzstan, 1, 481061.0
+Mohamed TINDOUFT, carrera 3000 m con vallas, Torneo de Suriname, 1, 528938.0
+Mohammed AHMED, carrera 10000 m, Torneo de Cambodia, 1, 1608242.0
+Mohammed AHMED, carrera 10000 m, Torneo de Central African Republic, 1, 1768340.0
+Mohammed AHMED, carrera 5000 m, Torneo de Kosovo, 1, 772524.0
+Mohammed AHMED, carrera 5000 m, Torneo de Fiji, 1, 847578.0
+Molly HUDDLE, carrera 10000 m, Torneo de Bhutan, 1, 1608385.0
+Molly HUDDLE, carrera 10000 m, Torneo de Micronesia, 1, 1768204.0
+Morris Munene GACHAGA, carrera 21000 m, Torneo de Japan, 1, 3481732.0
+Morris Munene GACHAGA, carrera 21000 m, Torneo de Brazil, 1, 3827379.0
+Mosinet GEREMEW, carrera 42000 m, Torneo de Mongolia, 1, 7308190.0
+Mosinet GEREMEW, carrera 42000 m, Torneo de Uzbekistan, 1, 8024575.0
+Mujinga KAMBUNDJI, carrera 100 m, Torneo de Northern Ireland, 1, 9764.0
+Mujinga KAMBUNDJI, carrera 100 m, Torneo de Iraq, 1, 10732.0
+Mujinga KAMBUNDJI, carrera 200 m, Torneo de Belize, 1, 19515.0
+Mujinga KAMBUNDJI, carrera 200 m, Torneo de Japan, 1, 21448.0
+Muktar EDRIS, carrera 5000 m, Torneo de Angola, 1, 773126.0
+Muktar EDRIS, carrera 5000 m, Torneo de Estonia, 1, 849223.0
+Mule WASIHUN, carrera 42000 m, Torneo de Sierra Leone, 1, 7303410.0
+Mule WASIHUN, carrera 42000 m, Torneo de Cambodia, 1, 8026576.0
+Murielle AHOURÉ, carrera 100 m, Torneo de United States, 1, 9760.0
+Murielle AHOURÉ, carrera 100 m, Torneo de Sao Tome and Principe, 1, 10736.0
+Mutaz Essa BARSHIM, salto de altura, Torneo de Trinidad and Tobago, 6, 261.0
+Mutaz Essa BARSHIM, salto de altura, Torneo de Bolivia, 1, 237.0
+Mykhaylo KOKHAN, lanzamiento de martillo, Torneo de Germany, 10, 8975.0
+Mykhaylo KOKHAN, lanzamiento de martillo, Torneo de Montenegro, 2, 8178.0
+Mélina ROBERT-MICHON, lanzamiento de disco, Torneo de Guatemala, 2, 7903.0
+Mélina ROBERT-MICHON, lanzamiento de disco, Torneo de Russia, 1, 7186.0
+Na LUO, lanzamiento de martillo, Torneo de Bahamas, 1, 8990.0
+Na LUO, lanzamiento de martillo, Torneo de China, 6, 8180.0
+Naa ANANG, salto largo, Torneo de Virgin Islands (British), 3, 956.0
+Naa ANANG, salto largo, Torneo de Ivory Coast, 1, 869.0
+Nadia EKE, salto triple, Torneo de Bhutan, 8, 1996.0
+Nadia EKE, salto triple, Torneo de Guyana, 3, 1814.0
+Nadine MÜLLER, lanzamiento de disco, Torneo de Albania, 6, 7903.0
+Nadine MÜLLER, lanzamiento de disco, Torneo de Turkmenistan, 8, 7187.0
+Nadine VISSER, carrera 110 m con vallas, Torneo de Saudi Arabia, 1, 12100.0
+Nadine VISSER, carrera 110 m con vallas, Torneo de Venezuela, 1, 13307.0
+Nafissatou THIAM, salto de altura, Torneo de Vanuatu, 2, 261.0
+Nafissatou THIAM, salto de altura, Torneo de Bulgaria, 8, 237.0
+Nafissatou THIAM, salto largo, Torneo de Angola, 7, 956.0
+Nafissatou THIAM, salto largo, Torneo de Barbados, 1, 869.0
+Natalya PRYSHCHEPA, carrera 800 m, Torneo de Bhutan, 1, 101893.0
+Natalya PRYSHCHEPA, carrera 800 m, Torneo de Tuvalu, 1, 111904.0
+Nathan STROTHER, carrera 400 m, Torneo de Burkina Faso, 1, 43463.0
+Nathan STROTHER, carrera 400 m, Torneo de Equatorial Guinea, 1, 47750.0
+Natoya GOULE, carrera 800 m, Torneo de Monaco, 1, 101894.0
+Natoya GOULE, carrera 800 m, Torneo de Liberia, 1, 112077.0
+Necatí ER, salto triple, Torneo de Tunisia, 9, 1996.0
+Necatí ER, salto triple, Torneo de Philippines, 10, 1814.0
+Nelly JEPKOSGEI, carrera 800 m, Torneo de China, 1, 101909.0
+Nelly JEPKOSGEI, carrera 800 m, Torneo de Turkmenistan, 1, 112032.0
+Nelson ÉVORA, salto triple, Torneo de Malawi, 4, 1996.0
+Nelson ÉVORA, salto triple, Torneo de Turkey, 3, 1814.0
+Netsanet GUDETA, carrera 10000 m, Torneo de Argentina, 1, 1609354.0
+Netsanet GUDETA, carrera 10000 m, Torneo de Monaco, 1, 1768375.0
+Netsanet GUDETA, carrera 21000 m, Torneo de Syria, 1, 3482018.0
+Netsanet GUDETA, carrera 21000 m, Torneo de Switzerland, 1, 3828474.0
+Nia ALI, carrera 110 m con vallas, Torneo de Papua New Guinea, 1, 12102.0
+Nia ALI, carrera 110 m con vallas, Torneo de Vanuatu, 1, 13305.0
+Nicholas Kipkorir KIMELI, carrera 5000 m, Torneo de Andorra, 1, 772709.0
+Nicholas Kipkorir KIMELI, carrera 5000 m, Torneo de Austria, 1, 849023.0
+Nicholas Kiptanui BETT, carrera 3000 m con vallas, Torneo de Seychelles, 1, 481261.0
+Nicholas Kiptanui BETT, carrera 3000 m con vallas, Torneo de Nicaragua, 1, 528928.0
+Nick MILLER, lanzamiento de martillo, Torneo de Iraq, 9, 8992.0
+Nick MILLER, lanzamiento de martillo, Torneo de Malaysia, 8, 8177.0
+Nicola MCDERMOTT, salto de altura, Torneo de Syria, 10, 261.0
+Nicola MCDERMOTT, salto de altura, Torneo de Iran, 6, 237.0
+Nijel AMOS, carrera 800 m, Torneo de Canada, 1, 101977.0
+Nijel AMOS, carrera 800 m, Torneo de Tajikistan, 1, 112036.0
+Nikita TRACEY, carrera 400 m con vallas, Torneo de Ivory Coast, 1, 46153.0
+Nikita TRACEY, carrera 400 m con vallas, Torneo de Zambia, 1, 50617.0
+Nikki HILTZ, carrera 1500 m, Torneo de Lesotho, 1, 208920.0
+Nikki HILTZ, carrera 1500 m, Torneo de Comoros, 1, 229633.0
+Nikola OGRODNÍKOVÁ, lanzamiento de jabalina, Torneo de Grenada, 6, 9960.0
+Nikola OGRODNÍKOVÁ, lanzamiento de jabalina, Torneo de Lithuania, 4, 9065.0
+Nikoleta KIRIAKOPOULOU, salto con pertiga, Torneo de Latvia, 2, 667.0
+Nikoleta KIRIAKOPOULOU, salto con pertiga, Torneo de Burundi, 2, 606.0
+Ninon GUILLON-ROMARIN, salto con pertiga, Torneo de United Arab Emirates, 7, 667.0
+Ninon GUILLON-ROMARIN, salto con pertiga, Torneo de Greece, 3, 606.0
+Noah LYLES, carrera 100 m, Torneo de Puerto Rico, 1, 9760.0
+Noah LYLES, carrera 100 m, Torneo de Libya, 1, 10736.0
+Noah LYLES, carrera 200 m, Torneo de French Guiana, 1, 19505.0
+Noah LYLES, carrera 200 m, Torneo de South Sudan, 1, 21444.0
+Norah JERUTO, carrera 3000 m con vallas, Torneo de Honduras, 1, 481044.0
+Norah JERUTO, carrera 3000 m con vallas, Torneo de Costa Rica, 1, 529121.0
+Norman GRIMES, carrera 400 m con vallas, Torneo de Botswana, 1, 46130.0
+Norman GRIMES, carrera 400 m con vallas, Torneo de Ivory Coast, 1, 50625.0
+Ola STUNES ISENE, lanzamiento de disco, Torneo de Sierra Leone, 10, 7903.0
+Ola STUNES ISENE, lanzamiento de disco, Torneo de Guinea, 5, 7186.0
+Olga RYPAKOVA, salto triple, Torneo de Eritrea, 7, 1996.0
+Olga RYPAKOVA, salto triple, Torneo de Gambia, 5, 1814.0
+Olha LYAKHOVA, carrera 800 m, Torneo de Vatican City, 1, 101940.0
+Olha LYAKHOVA, carrera 800 m, Torneo de Tunisia, 1, 111974.0
+Olha SALADUKHA, salto triple, Torneo de United Arab Emirates, 4, 1996.0
+Olha SALADUKHA, salto triple, Torneo de Croatia, 5, 1814.0
+Oliver HELANDER, lanzamiento de jabalina, Torneo de Slovakia, 8, 9956.0
+Oliver HELANDER, lanzamiento de jabalina, Torneo de Guinea-Bissau, 7, 9067.0
+Olivia GRUVER, salto con pertiga, Torneo de Qatar, 9, 667.0
+Olivia GRUVER, salto con pertiga, Torneo de Guatemala, 9, 606.0
+Omar CRADDOCK, salto triple, Torneo de Tanzania, 3, 1995.0
+Omar CRADDOCK, salto triple, Torneo de Puerto Rico, 2, 1814.0
+Omar MCLEOD, carrera 110 m con vallas, Torneo de Kosovo, 1, 12099.0
+Omar MCLEOD, carrera 110 m con vallas, Torneo de South Korea, 1, 13307.0
+Orazio CREMONA, lanzamiento de bala, Torneo de Burkina Faso, 5, 2520.0
+Orazio CREMONA, lanzamiento de bala, Torneo de Luxembourg, 1, 2294.0
+Orlando BENNETT, carrera 110 m con vallas, Torneo de Micronesia, 1, 12099.0
+Orlando BENNETT, carrera 110 m con vallas, Torneo de Tunisia, 1, 13307.0
+Orlando ORTEGA, carrera 110 m con vallas, Torneo de Kuwait, 1, 12109.0
+Orlando ORTEGA, carrera 110 m con vallas, Torneo de Jordan, 1, 13304.0
+Paraskevi PAPACHRISTOU, salto triple, Torneo de Indonesia, 8, 1996.0
+Paraskevi PAPACHRISTOU, salto triple, Torneo de Central African Republic, 10, 1814.0
+Pascal MARTINOT-LAGARDE, carrera 110 m con vallas, Torneo de Netherlands, 1, 12119.0
+Pascal MARTINOT-LAGARDE, carrera 110 m con vallas, Torneo de South Africa, 1, 13308.0
+Patryk DOBEK, carrera 400 m con vallas, Torneo de Kazakhstan, 1, 46106.0
+Patryk DOBEK, carrera 400 m con vallas, Torneo de Bahrain, 1, 50679.0
+Patrícia MAMONA, salto triple, Torneo de Colombia, 6, 1996.0
+Patrícia MAMONA, salto triple, Torneo de Kuwait, 6, 1814.0
+Paul CHELIMO, carrera 5000 m, Torneo de Saudi Arabia, 1, 772442.0
+Paul CHELIMO, carrera 5000 m, Torneo de Myanmar, 1, 849132.0
+Paulina GUBA, lanzamiento de bala, Torneo de Nicaragua, 2, 2516.0
+Paulina GUBA, lanzamiento de bala, Torneo de Bulgaria, 2, 2291.0
+Paweł FAJDEK, lanzamiento de martillo, Torneo de Central African Republic, 6, 8988.0
+Paweł FAJDEK, lanzamiento de martillo, Torneo de Comoros, 1, 8174.0
+Paweł WOJCIECHOWSKI, salto con pertiga, Torneo de Romania, 3, 667.0
+Paweł WOJCIECHOWSKI, salto con pertiga, Torneo de Cuba, 9, 606.0
+Payton CHADWICK, carrera 110 m con vallas, Torneo de Tonga, 1, 12098.0
+Payton CHADWICK, carrera 110 m con vallas, Torneo de Eritrea, 1, 13305.0
+Payton OTTERDAHL, lanzamiento de bala, Torneo de Turkey, 2, 2520.0
+Payton OTTERDAHL, lanzamiento de bala, Torneo de United States, 9, 2291.0
+Pedro Pablo PICHARDO, salto triple, Torneo de Norway, 2, 1996.0
+Pedro Pablo PICHARDO, salto triple, Torneo de Egypt, 2, 1815.0
+Peruth CHEMUTAI, carrera 3000 m con vallas, Torneo de Tunisia, 1, 481272.0
+Peruth CHEMUTAI, carrera 3000 m con vallas, Torneo de Sweden, 1, 529080.0
+Philemon RONO, carrera 42000 m, Torneo de Tonga, 1, 7304007.0
+Philemon RONO, carrera 42000 m, Torneo de Sweden, 1, 8027625.0
+Phyllis FRANCIS, carrera 400 m, Torneo de Lithuania, 1, 43450.0
+Phyllis FRANCIS, carrera 400 m, Torneo de Serbia, 1, 47792.0
+Piotr LISEK, salto con pertiga, Torneo de Tanzania, 2, 667.0
+Piotr LISEK, salto con pertiga, Torneo de Slovenia, 8, 606.0
+Piotr MAŁACHOWSKI, lanzamiento de disco, Torneo de Rwanda, 4, 7903.0
+Piotr MAŁACHOWSKI, lanzamiento de disco, Torneo de Cambodia, 6, 7186.0
+Portious WARREN, lanzamiento de bala, Torneo de Burundi, 7, 2521.0
+Portious WARREN, lanzamiento de bala, Torneo de Guinea-Bissau, 2, 2291.0
+Purity Cherotich RIONORIPO, carrera 42000 m, Torneo de Germany, 1, 7303553.0
+Purity Cherotich RIONORIPO, carrera 42000 m, Torneo de Chad, 1, 8031054.0
+Queen CLAYE, carrera 110 m con vallas, Torneo de Djibouti, 1, 12098.0
+Queen CLAYE, carrera 110 m con vallas, Torneo de Jamaica, 1, 13295.0
+Quentin BIGOT, lanzamiento de martillo, Torneo de Thailand, 5, 8986.0
+Quentin BIGOT, lanzamiento de martillo, Torneo de Malawi, 2, 8182.0
+Quincy HALL, carrera 400 m, Torneo de Ukraine, 1, 43457.0
+Quincy HALL, carrera 400 m, Torneo de Mexico, 1, 47761.0
+Quincy HALL, carrera 400 m con vallas, Torneo de Maldives, 1, 46127.0
+Quincy HALL, carrera 400 m con vallas, Torneo de Zimbabwe, 1, 50664.0
+Rababe ARAFI, carrera 1500 m, Torneo de San Marino, 1, 208782.0
+Rababe ARAFI, carrera 1500 m, Torneo de Bhutan, 1, 229647.0
+Rabii DOUKKANA, carrera 1500 m, Torneo de Vietnam, 1, 208801.0
+Rabii DOUKKANA, carrera 1500 m, Torneo de Kiribati, 1, 229628.0
+Rachel FATHERLY, lanzamiento de bala, Torneo de Congo Republic of the, 9, 2519.0
+Rachel FATHERLY, lanzamiento de bala, Torneo de Botswana, 9, 2291.0
+Raevyn ROGERS, carrera 800 m, Torneo de Malaysia, 1, 101893.0
+Raevyn ROGERS, carrera 800 m, Torneo de Bahamas, 1, 112038.0
+Rai BENJAMIN, carrera 400 m, Torneo de Burkina Faso, 1, 43457.0
+Rai BENJAMIN, carrera 400 m, Torneo de Cyprus, 1, 47794.0
+Rai BENJAMIN, carrera 400 m con vallas, Torneo de Estonia, 1, 46107.0
+Rai BENJAMIN, carrera 400 m con vallas, Torneo de United States, 1, 50610.0
+Ramil GULIYEV, carrera 200 m, Torneo de Lithuania, 1, 19518.0
+Ramil GULIYEV, carrera 200 m, Torneo de Latvia, 1, 21412.0
+Raphael HOLZDEPPE, salto con pertiga, Torneo de Venezuela, 2, 667.0
+Raphael HOLZDEPPE, salto con pertiga, Torneo de Denmark, 1, 606.0
+Raymond EKEVWO, carrera 100 m, Torneo de Burundi, 1, 9765.0
+Raymond EKEVWO, carrera 100 m, Torneo de Latvia, 1, 10735.0
+Reece PRESCOD, carrera 100 m, Torneo de Niger, 1, 9762.0
+Reece PRESCOD, carrera 100 m, Torneo de Libya, 1, 10733.0
+Reggie JAGERS III, lanzamiento de disco, Torneo de Argentina, 3, 7905.0
+Reggie JAGERS III, lanzamiento de disco, Torneo de Bulgaria, 7, 7188.0
+Renaud LAVILLENIE, salto con pertiga, Torneo de Suriname, 1, 667.0
+Renaud LAVILLENIE, salto con pertiga, Torneo de Kiribati, 10, 606.0
+Reuben Kiprop KIPYEGO, carrera 42000 m, Torneo de Tanzania, 1, 7302147.0
+Reuben Kiprop KIPYEGO, carrera 42000 m, Torneo de Cambodia, 1, 8030629.0
+Rhonex KIPRUTO, carrera 10000 m, Torneo de Israel, 1, 1608528.0
+Rhonex KIPRUTO, carrera 10000 m, Torneo de Gabon, 1, 1768742.0
+Robeilys PEINADO, salto con pertiga, Torneo de Wales, 9, 666.0
+Robeilys PEINADO, salto con pertiga, Torneo de Cambodia, 2, 606.0
+Robert URBANEK, lanzamiento de disco, Torneo de Peru, 3, 7905.0
+Robert URBANEK, lanzamiento de disco, Torneo de Georgia, 3, 7194.0
+Roberto SKYERS, carrera 100 m, Torneo de Cyprus, 1, 9766.0
+Roberto SKYERS, carrera 100 m, Torneo de Morocco, 1, 10726.0
+Rodgers KWEMOI, carrera 10000 m, Torneo de Ecuador, 1, 1608075.0
+Rodgers KWEMOI, carrera 10000 m, Torneo de Estonia, 1, 1768720.0
+Ronald KWEMOI, carrera 1500 m, Torneo de Denmark, 1, 209025.0
+Ronald KWEMOI, carrera 1500 m, Torneo de Qatar, 1, 229584.0
+Ronald LEVY, carrera 110 m con vallas, Torneo de Tunisia, 1, 12104.0
+Ronald LEVY, carrera 110 m con vallas, Torneo de Oman, 1, 13305.0
+Ronald MUSAGALA, carrera 1500 m, Torneo de Sierra Leone, 1, 208813.0
+Ronald MUSAGALA, carrera 1500 m, Torneo de Suriname, 1, 229579.0
+Rose Mary ALMANZA, carrera 800 m, Torneo de Guyana, 1, 101933.0
+Rose Mary ALMANZA, carrera 800 m, Torneo de Armenia, 1, 111967.0
+Rosemary Monica WANJIRU, carrera 10000 m, Torneo de Philippines, 1, 1608863.0
+Rosemary Monica WANJIRU, carrera 10000 m, Torneo de Thailand, 1, 1768687.0
+Roza DEREJE, carrera 21000 m, Torneo de Senegal, 1, 3481121.0
+Roza DEREJE, carrera 21000 m, Torneo de Netherlands, 1, 3825191.0
+Roza DEREJE, carrera 42000 m, Torneo de Azerbaijan, 1, 7304491.0
+Roza DEREJE, carrera 42000 m, Torneo de Gambia, 1, 8029156.0
+Rudy WINKLER, lanzamiento de martillo, Torneo de Eritrea, 2, 8991.0
+Rudy WINKLER, lanzamiento de martillo, Torneo de Nepal, 8, 8174.0
+Ruiting WU, salto triple, Torneo de Luxembourg, 9, 1996.0
+Ruiting WU, salto triple, Torneo de Madagascar, 4, 1815.0
+Rushell CLAYTON, carrera 400 m con vallas, Torneo de Papua New Guinea, 1, 46118.0
+Rushell CLAYTON, carrera 400 m con vallas, Torneo de Ethiopia, 1, 50693.0
+Ruswahl SAMAAI, salto largo, Torneo de Antigua and Barbuda, 9, 956.0
+Ruswahl SAMAAI, salto largo, Torneo de Iran, 8, 869.0
+Ruth CHEPNGETICH, carrera 21000 m, Torneo de Brunei, 1, 3482162.0
+Ruth CHEPNGETICH, carrera 21000 m, Torneo de Uzbekistan, 1, 3828690.0
+Ruth CHEPNGETICH, carrera 42000 m, Torneo de Egypt, 1, 7308031.0
+Ruth CHEPNGETICH, carrera 42000 m, Torneo de Nauru, 1, 8028469.0
+Ruti AGA, carrera 42000 m, Torneo de Turkey, 1, 7301667.0
+Ruti AGA, carrera 42000 m, Torneo de Japan, 1, 8030158.0
+Ryan CROUSER, lanzamiento de bala, Torneo de Central African Republic, 1, 2520.0
+Ryan CROUSER, lanzamiento de bala, Torneo de Egypt, 8, 2291.0
+Réka GYURÁTZ, lanzamiento de martillo, Torneo de Sri Lanka, 6, 8989.0
+Réka GYURÁTZ, lanzamiento de martillo, Torneo de Panama, 1, 8175.0
+Sage WATSON, carrera 400 m con vallas, Torneo de Central African Republic, 1, 46178.0
+Sage WATSON, carrera 400 m con vallas, Torneo de Kenya, 1, 50699.0
+Sally PEARSON, carrera 110 m con vallas, Torneo de Palau, 1, 12100.0
+Sally PEARSON, carrera 110 m con vallas, Torneo de Mongolia, 1, 13305.0
+Salwa Eid NASER, carrera 200 m, Torneo de Luxembourg, 1, 19504.0
+Salwa Eid NASER, carrera 200 m, Torneo de Malawi, 1, 21443.0
+Salwa Eid NASER, carrera 400 m, Torneo de South Korea, 1, 43457.0
+Salwa Eid NASER, carrera 400 m, Torneo de Trinidad and Tobago, 1, 47771.0
+Sam KENDRICKS, salto con pertiga, Torneo de Mexico, 2, 667.0
+Sam KENDRICKS, salto con pertiga, Torneo de Barbados, 4, 606.0
+Sam MATTIS, lanzamiento de disco, Torneo de Uganda, 5, 7905.0
+Sam MATTIS, lanzamiento de disco, Torneo de Vietnam, 4, 7190.0
+Samuel TEFERA, carrera 1500 m, Torneo de Malta, 1, 208888.0
+Samuel TEFERA, carrera 1500 m, Torneo de Austria, 1, 229634.0
+Sandi MORRIS, salto con pertiga, Torneo de Sudan, 2, 667.0
+Sandi MORRIS, salto con pertiga, Torneo de Bahamas, 5, 606.0
+Sandra PERKOVIĆ, lanzamiento de disco, Torneo de Nigeria, 5, 7903.0
+Sandra PERKOVIĆ, lanzamiento de disco, Torneo de Solomon Islands, 5, 7189.0
+Sara KOLAK, lanzamiento de jabalina, Torneo de Morocco, 8, 9940.0
+Sara KOLAK, lanzamiento de jabalina, Torneo de Jamaica, 1, 9087.0
+Sara Slott PETERSEN, carrera 400 m con vallas, Torneo de United States, 1, 46122.0
+Sara Slott PETERSEN, carrera 400 m con vallas, Torneo de Kiribati, 1, 50701.0
+Sarah MCDONALD, carrera 1500 m, Torneo de Peru, 1, 208794.0
+Sarah MCDONALD, carrera 1500 m, Torneo de Serbia, 1, 229428.0
+Sean DONNELLY, lanzamiento de martillo, Torneo de Suriname, 3, 8988.0
+Sean DONNELLY, lanzamiento de martillo, Torneo de Bahrain, 7, 8179.0
+Seifu TURA, carrera 21000 m, Torneo de Congo Democratic Republic of the, 1, 3481150.0
+Seifu TURA, carrera 21000 m, Torneo de Panama, 1, 3829025.0
+Selemon BAREGA, carrera 10000 m, Torneo de Zambia, 1, 1608319.0
+Selemon BAREGA, carrera 10000 m, Torneo de Azerbaijan, 1, 1768601.0
+Selemon BAREGA, carrera 5000 m, Torneo de Bangladesh, 1, 772111.0
+Selemon BAREGA, carrera 5000 m, Torneo de Azerbaijan, 1, 849153.0
+Senbere TEFERI, carrera 10000 m, Torneo de Guyana, 1, 1608244.0
+Senbere TEFERI, carrera 10000 m, Torneo de Tanzania, 1, 1768606.0
+Senbere TEFERI, carrera 21000 m, Torneo de Gambia, 1, 3481418.0
+Senbere TEFERI, carrera 21000 m, Torneo de Vatican City, 1, 3828714.0
+Sergey SHUBENKOV, carrera 110 m con vallas, Torneo de Cuba, 1, 12113.0
+Sergey SHUBENKOV, carrera 110 m con vallas, Torneo de Mauritius, 1, 13308.0
+Serghei MARGHIEV, lanzamiento de martillo, Torneo de United States, 4, 8991.0
+Serghei MARGHIEV, lanzamiento de martillo, Torneo de Mauritius, 6, 8175.0
+Serhiy PEREVOZNIKOV, lanzamiento de martillo, Torneo de Australia, 10, 8992.0
+Serhiy PEREVOZNIKOV, lanzamiento de martillo, Torneo de Liechtenstein, 5, 8174.0
+Serhiy REHEDA, lanzamiento de martillo, Torneo de Rwanda, 6, 8989.0
+Serhiy REHEDA, lanzamiento de martillo, Torneo de Timor-Leste, 1, 8177.0
+ShaCarri RICHARDSON, carrera 100 m, Torneo de Suriname, 1, 9760.0
+ShaCarri RICHARDSON, carrera 100 m, Torneo de Mauritius, 1, 10732.0
+ShaCarri RICHARDSON, carrera 200 m, Torneo de Tonga, 1, 19501.0
+ShaCarri RICHARDSON, carrera 200 m, Torneo de Austria, 1, 21423.0
+Shadae LAWRENCE, lanzamiento de disco, Torneo de Myanmar, 3, 7905.0
+Shadae LAWRENCE, lanzamiento de disco, Torneo de Bulgaria, 7, 7191.0
+Shakima WIMBLEY, carrera 400 m, Torneo de Gabon, 1, 43458.0
+Shakima WIMBLEY, carrera 400 m, Torneo de Chad, 1, 47781.0
+Shamier LITTLE, carrera 400 m con vallas, Torneo de Kazakhstan, 1, 46113.0
+Shamier LITTLE, carrera 400 m con vallas, Torneo de Mexico, 1, 50699.0
+Shane BRATHWAITE, carrera 110 m con vallas, Torneo de Slovakia, 1, 12128.0
+Shane BRATHWAITE, carrera 110 m con vallas, Torneo de Moldova, 1, 13307.0
+Shanieka RICKETTS, salto triple, Torneo de Barbados, 6, 1995.0
+Shanieka RICKETTS, salto triple, Torneo de Kazakhstan, 10, 1814.0
+Shannon OSIKA, carrera 1500 m, Torneo de Turkey, 1, 208852.0
+Shannon OSIKA, carrera 1500 m, Torneo de Gabon, 1, 229623.0
+Shara PROCTOR, salto largo, Torneo de Togo, 3, 956.0
+Shara PROCTOR, salto largo, Torneo de Belize, 1, 869.0
+Sharika NELVIS, carrera 110 m con vallas, Torneo de Sudan, 1, 12129.0
+Sharika NELVIS, carrera 110 m con vallas, Torneo de Bangladesh, 1, 13304.0
+Sharrika BARNETT, carrera 400 m, Torneo de Brazil, 1, 43452.0
+Sharrika BARNETT, carrera 400 m, Torneo de Laos, 1, 47776.0
+Shaunae MILLER-UIBO, carrera 200 m, Torneo de Denmark, 1, 19501.0
+Shaunae MILLER-UIBO, carrera 200 m, Torneo de Rwanda, 1, 21423.0
+Shaunae MILLER-UIBO, carrera 400 m, Torneo de Ghana, 1, 43463.0
+Shaunae MILLER-UIBO, carrera 400 m, Torneo de Guinea-Bissau, 1, 47737.0
+Shelby HOULIHAN, carrera 1500 m, Torneo de Madagascar, 1, 208773.0
+Shelby HOULIHAN, carrera 1500 m, Torneo de Uganda, 1, 229598.0
+Shelby MCEWEN, salto de altura, Torneo de Tuvalu, 5, 261.0
+Shelby MCEWEN, salto de altura, Torneo de Albania, 4, 237.0
+Shelly-Ann FRASER-PRYCE, carrera 100 m, Torneo de Sri Lanka, 1, 9764.0
+Shelly-Ann FRASER-PRYCE, carrera 100 m, Torneo de Panama, 1, 10735.0
+Shelly-Ann FRASER-PRYCE, carrera 200 m, Torneo de Kuwait, 1, 19509.0
+Shelly-Ann FRASER-PRYCE, carrera 200 m, Torneo de Italy, 1, 21440.0
+Shericka JACKSON, carrera 400 m, Torneo de Sweden, 1, 43501.0
+Shericka JACKSON, carrera 400 m, Torneo de Gambia, 1, 47762.0
+Shivpal SINGH, lanzamiento de jabalina, Torneo de Greece, 2, 9967.0
+Shivpal SINGH, lanzamiento de jabalina, Torneo de Nauru, 2, 9063.0
+Shiying LIU, lanzamiento de jabalina, Torneo de Rwanda, 4, 9960.0
+Shiying LIU, lanzamiento de jabalina, Torneo de Burundi, 8, 9061.0
+Shoutarou SHIROYAMA, salto largo, Torneo de Namibia, 8, 956.0
+Shoutarou SHIROYAMA, salto largo, Torneo de Saint Vincent and the Grenadines, 2, 869.0
+Shunya TAKAYAMA, carrera 110 m con vallas, Torneo de Laos, 1, 12102.0
+Shunya TAKAYAMA, carrera 110 m con vallas, Torneo de Bosnia and Herzegovina, 1, 13308.0
+Shura KITATA, carrera 42000 m, Torneo de Slovakia, 1, 7307905.0
+Shura KITATA, carrera 42000 m, Torneo de Myanmar, 1, 8024238.0
+Sifan HASSAN, carrera 10000 m, Torneo de Fiji, 1, 1608968.0
+Sifan HASSAN, carrera 10000 m, Torneo de Syria, 1, 1766874.0
+Sifan HASSAN, carrera 1500 m, Torneo de South Sudan, 1, 208771.0
+Sifan HASSAN, carrera 1500 m, Torneo de Ghana, 1, 229521.0
+Sifan HASSAN, carrera 21000 m, Torneo de Gambia, 1, 3482679.0
+Sifan HASSAN, carrera 21000 m, Torneo de Saint Lucia, 1, 3826790.0
+Sifan HASSAN, carrera 5000 m, Torneo de Australia, 1, 772098.0
+Sifan HASSAN, carrera 5000 m, Torneo de Panama, 1, 849167.0
+Simon PETTERSSON, lanzamiento de disco, Torneo de Vietnam, 8, 7898.0
+Simon PETTERSSON, lanzamiento de disco, Torneo de Tanzania, 3, 7192.0
+Sisay LEMMA, carrera 42000 m, Torneo de Peru, 1, 7309275.0
+Sisay LEMMA, carrera 42000 m, Torneo de Kiribati, 1, 8023521.0
+Sofiya PALKINA, lanzamiento de martillo, Torneo de Grenada, 6, 8984.0
+Sofiya PALKINA, lanzamiento de martillo, Torneo de El Salvador, 8, 8175.0
+Sokwakhana ZAZINI, carrera 400 m con vallas, Torneo de Serbia, 1, 46121.0
+Sokwakhana ZAZINI, carrera 400 m con vallas, Torneo de Suriname, 1, 50623.0
+Solomon BERIHU, carrera 10000 m, Torneo de Chile, 1, 1608510.0
+Solomon BERIHU, carrera 10000 m, Torneo de South Korea, 1, 1768122.0
+Solomon BERIHU, carrera 21000 m, Torneo de Vatican City, 1, 3484137.0
+Solomon BERIHU, carrera 21000 m, Torneo de Cambodia, 1, 3826954.0
+Solomon BERIHU, carrera 5000 m, Torneo de Saint Vincent and the Grenadines, 1, 772147.0
+Solomon BERIHU, carrera 5000 m, Torneo de Azerbaijan, 1, 848824.0
+Sondre GUTTORMSEN, salto con pertiga, Torneo de Uruguay, 7, 667.0
+Sondre GUTTORMSEN, salto con pertiga, Torneo de Bosnia and Herzegovina, 4, 606.0
+Sophie MCKINNA, lanzamiento de bala, Torneo de Philippines, 10, 2520.0
+Sophie MCKINNA, lanzamiento de bala, Torneo de Japan, 5, 2291.0
+Soufiane EL BAKKALI, carrera 3000 m con vallas, Torneo de Marshall Islands, 1, 481711.0
+Soufiane EL BAKKALI, carrera 3000 m con vallas, Torneo de Germany, 1, 529036.0
+Stanley Kipkoech KEBENEI, carrera 3000 m con vallas, Torneo de Ghana, 1, 481207.0
+Stanley Kipkoech KEBENEI, carrera 3000 m con vallas, Torneo de Vatican City, 1, 529060.0
+Stanley Waithaka MBURU, carrera 5000 m, Torneo de Iceland, 1, 772521.0
+Stanley Waithaka MBURU, carrera 5000 m, Torneo de Colombia, 1, 849028.0
+Stefano SOTTILE, salto de altura, Torneo de South Sudan, 9, 261.0
+Stefano SOTTILE, salto de altura, Torneo de Armenia, 10, 237.0
+Steffin MCCARTER, salto largo, Torneo de Pakistan, 5, 956.0
+Steffin MCCARTER, salto largo, Torneo de Spain, 1, 869.0
+Stephanie TWELL, carrera 10000 m, Torneo de Morocco, 1, 1610159.0
+Stephanie TWELL, carrera 10000 m, Torneo de Vatican City, 1, 1766905.0
+Stephen KIPROP, carrera 21000 m, Torneo de North Korea, 1, 3481218.0
+Stephen KIPROP, carrera 21000 m, Torneo de Bosnia and Herzegovina, 1, 3828110.0
+Stephenie Ann MCPHERSON, carrera 400 m, Torneo de Moldova, 1, 43470.0
+Stephenie Ann MCPHERSON, carrera 400 m, Torneo de Somalia, 1, 47765.0
+Steven GARDINER, carrera 200 m, Torneo de Fiji, 1, 19504.0
+Steven GARDINER, carrera 200 m, Torneo de Gambia, 1, 21450.0
+Steven GARDINER, carrera 400 m, Torneo de Andorra, 1, 43453.0
+Steven GARDINER, carrera 400 m, Torneo de Algeria, 1, 47789.0
+Stewart MCSWEYN, carrera 10000 m, Torneo de Kosovo, 1, 1608164.0
+Stewart MCSWEYN, carrera 10000 m, Torneo de Slovakia, 1, 1768354.0
+Stewart MCSWEYN, carrera 1500 m, Torneo de Maldives, 1, 208788.0
+Stewart MCSWEYN, carrera 1500 m, Torneo de San Marino, 1, 229585.0
+Susan KRUMINS, carrera 10000 m, Torneo de Monaco, 1, 1609056.0
+Susan KRUMINS, carrera 10000 m, Torneo de Uzbekistan, 1, 1768428.0
+Svetlana RADZIVIL, salto de altura, Torneo de Zambia, 5, 261.0
+Svetlana RADZIVIL, salto de altura, Torneo de Antigua and Barbuda, 5, 237.0
+Sydney MCLAUGHLIN, carrera 400 m, Torneo de United States, 1, 43453.0
+Sydney MCLAUGHLIN, carrera 400 m, Torneo de Iceland, 1, 47793.0
+Sydney MCLAUGHLIN, carrera 400 m con vallas, Torneo de Jamaica, 1, 46095.0
+Sydney MCLAUGHLIN, carrera 400 m con vallas, Torneo de Costa Rica, 1, 50649.0
+TJ HOLMES, carrera 400 m con vallas, Torneo de Comoros, 1, 46094.0
+TJ HOLMES, carrera 400 m con vallas, Torneo de Azerbaijan, 1, 50687.0
+Tajay GAYLE, salto largo, Torneo de Scotland, 3, 955.0
+Tajay GAYLE, salto largo, Torneo de Bulgaria, 8, 869.0
+Takashi ETO, salto de altura, Torneo de Panama, 5, 261.0
+Takashi ETO, salto de altura, Torneo de Barbados, 7, 237.0
+Takatoshi ABE, carrera 400 m con vallas, Torneo de Bulgaria, 1, 46116.0
+Takatoshi ABE, carrera 400 m con vallas, Torneo de Finland, 1, 50692.0
+Takele NIGATE, carrera 3000 m con vallas, Torneo de Venezuela, 1, 481059.0
+Takele NIGATE, carrera 3000 m con vallas, Torneo de Chile, 1, 528903.0
+Tamirat TOLA, carrera 10000 m, Torneo de Kosovo, 1, 1608079.0
+Tamirat TOLA, carrera 10000 m, Torneo de Finland, 1, 1767550.0
+Taoufik MAKHLOUFI, carrera 1500 m, Torneo de Dominican Republic, 1, 208784.0
+Taoufik MAKHLOUFI, carrera 1500 m, Torneo de Guatemala, 1, 229586.0
+Tatsiana KHALADOVICH, lanzamiento de jabalina, Torneo de Serbia, 6, 9962.0
+Tatsiana KHALADOVICH, lanzamiento de jabalina, Torneo de Grenada, 1, 9064.0
+Teahna DANIELS, carrera 100 m, Torneo de Syria, 1, 9793.0
+Teahna DANIELS, carrera 100 m, Torneo de Sri Lanka, 1, 10722.0
+Teahna DANIELS, carrera 200 m, Torneo de Georgia, 1, 19506.0
+Teahna DANIELS, carrera 200 m, Torneo de Uzbekistan, 1, 21444.0
+Tebogo MAMATHU, carrera 100 m, Torneo de Kuwait, 1, 9763.0
+Tebogo MAMATHU, carrera 100 m, Torneo de Brunei, 1, 10735.0
+Telahun Haile BEKELE, carrera 5000 m, Torneo de Samoa, 1, 772121.0
+Telahun Haile BEKELE, carrera 5000 m, Torneo de Sierra Leone, 1, 849204.0
+Thea LAFOND, salto triple, Torneo de Scotland, 7, 1996.0
+Thea LAFOND, salto triple, Torneo de Australia, 3, 1814.0
+Thiago BRAZ, salto con pertiga, Torneo de Zambia, 8, 667.0
+Thiago BRAZ, salto con pertiga, Torneo de Djibouti, 5, 606.0
+Thobias MONTLER, salto largo, Torneo de Bangladesh, 4, 956.0
+Thobias MONTLER, salto largo, Torneo de Mexico, 2, 869.0
+Thomas RÖHLER, lanzamiento de jabalina, Torneo de Chad, 9, 9967.0
+Thomas RÖHLER, lanzamiento de jabalina, Torneo de Saint Vincent and the Grenadines, 3, 9063.0
+Tia-Adana BELLE, carrera 400 m con vallas, Torneo de Central African Republic, 1, 46202.0
+Tia-Adana BELLE, carrera 400 m con vallas, Torneo de Gabon, 1, 50660.0
+Tihomir IVANOV, salto de altura, Torneo de Senegal, 6, 261.0
+Tihomir IVANOV, salto de altura, Torneo de Belize, 1, 237.0
+Tim NEDOW, lanzamiento de bala, Torneo de United States, 7, 2521.0
+Tim NEDOW, lanzamiento de bala, Torneo de Micronesia, 1, 2292.0
+Timothy CHERUIYOT, carrera 1500 m, Torneo de Benin, 1, 208800.0
+Timothy CHERUIYOT, carrera 1500 m, Torneo de Denmark, 1, 229619.0
+Timothy CHERUIYOT, carrera 800 m, Torneo de Hungary, 1, 101989.0
+Timothy CHERUIYOT, carrera 800 m, Torneo de Slovenia, 1, 111995.0
+Tina ŠUTEJ, salto con pertiga, Torneo de Vietnam, 1, 667.0
+Tina ŠUTEJ, salto con pertiga, Torneo de Kosovo, 10, 606.0
+Tissanna HICKLING, salto largo, Torneo de New Zealand, 8, 956.0
+Tissanna HICKLING, salto largo, Torneo de French Guiana, 9, 871.0
+Titus EKIRU, carrera 42000 m, Torneo de Bahrain, 1, 7303429.0
+Titus EKIRU, carrera 42000 m, Torneo de Luxembourg, 1, 8026434.0
+Tobi AMUSAN, carrera 110 m con vallas, Torneo de Italy, 1, 12099.0
+Tobi AMUSAN, carrera 110 m con vallas, Torneo de Wales, 1, 13305.0
+Tomas WALSH, lanzamiento de bala, Torneo de Panama, 6, 2521.0
+Tomas WALSH, lanzamiento de bala, Torneo de Nigeria, 1, 2291.0
+Tomáš STANĚK, lanzamiento de bala, Torneo de Monaco, 7, 2521.0
+Tomáš STANĚK, lanzamiento de bala, Torneo de Benin, 6, 2293.0
+Tonea MARSHALL, carrera 110 m con vallas, Torneo de Papua New Guinea, 1, 12100.0
+Tonea MARSHALL, carrera 110 m con vallas, Torneo de Georgia, 1, 13286.0
+Torben BLECH, salto con pertiga, Torneo de Slovakia, 10, 667.0
+Torben BLECH, salto con pertiga, Torneo de Nicaragua, 4, 606.0
+Tori BOWIE, salto largo, Torneo de Kyrgyzstan, 5, 956.0
+Tori BOWIE, salto largo, Torneo de Hungary, 1, 869.0
+Tori FRANKLIN, salto triple, Torneo de Panama, 7, 1995.0
+Tori FRANKLIN, salto triple, Torneo de Solomon Islands, 7, 1814.0
+Traves SMIKLE, lanzamiento de disco, Torneo de Nepal, 8, 7899.0
+Traves SMIKLE, lanzamiento de disco, Torneo de Belarus, 10, 7188.0
+Trevor STEWART, carrera 400 m, Torneo de Japan, 1, 43458.0
+Trevor STEWART, carrera 400 m, Torneo de Russia, 1, 47783.0
+Tsehay GEMECHU, carrera 10000 m, Torneo de Dominican Republic, 1, 1608234.0
+Tsehay GEMECHU, carrera 10000 m, Torneo de Vietnam, 1, 1767171.0
+Tsehay GEMECHU, carrera 21000 m, Torneo de Cambodia, 1, 3481952.0
+Tsehay GEMECHU, carrera 21000 m, Torneo de Monaco, 1, 3828843.0
+Tsehay GEMECHU, carrera 5000 m, Torneo de Malawi, 1, 772342.0
+Tsehay GEMECHU, carrera 5000 m, Torneo de Lebanon, 1, 849076.0
+Tsigie GEBRESELAMA, carrera 10000 m, Torneo de Saint Lucia, 1, 1608952.0
+Tsigie GEBRESELAMA, carrera 10000 m, Torneo de Moldova, 1, 1768723.0
+Twanisha TERRY, carrera 100 m, Torneo de Scotland, 1, 9769.0
+Twanisha TERRY, carrera 100 m, Torneo de Luxembourg, 1, 10734.0
+Tynia GAITHER, carrera 100 m, Torneo de Brunei, 1, 9760.0
+Tynia GAITHER, carrera 100 m, Torneo de Dominican Republic, 1, 10735.0
+Tyquendo TRACEY, carrera 100 m, Torneo de Denmark, 1, 9770.0
+Tyquendo TRACEY, carrera 100 m, Torneo de Eritrea, 1, 10733.0
+Valarie ALLMAN, lanzamiento de disco, Torneo de French Guiana, 8, 7905.0
+Valarie ALLMAN, lanzamiento de disco, Torneo de Iraq, 7, 7190.0
+Valary JEMELI, carrera 21000 m, Torneo de Uganda, 1, 3482183.0
+Valary JEMELI, carrera 21000 m, Torneo de Belgium, 1, 3827475.0
+Valary JEMELI, carrera 42000 m, Torneo de Paraguay, 1, 7303454.0
+Valary JEMELI, carrera 42000 m, Torneo de Cyprus, 1, 8026066.0
+Valentin LAVILLENIE, salto con pertiga, Torneo de Mauritania, 4, 667.0
+Valentin LAVILLENIE, salto con pertiga, Torneo de Finland, 5, 606.0
+Valeriy PRONKIN, lanzamiento de martillo, Torneo de Djibouti, 10, 8991.0
+Valeriy PRONKIN, lanzamiento de martillo, Torneo de Greece, 5, 8174.0
+Vashti CUNNINGHAM, salto de altura, Torneo de Vanuatu, 10, 261.0
+Vashti CUNNINGHAM, salto de altura, Torneo de Bahamas, 8, 237.0
+Vernon NORWOOD, carrera 400 m, Torneo de Belize, 1, 43464.0
+Vernon NORWOOD, carrera 400 m, Torneo de Haiti, 1, 47793.0
+Vincent KIBET, carrera 1500 m, Torneo de Uganda, 1, 208853.0
+Vincent KIBET, carrera 1500 m, Torneo de Cabo Verde, 1, 229496.0
+Vincent Kiprotich KIBET, carrera 10000 m, Torneo de Vietnam, 1, 1609953.0
+Vincent Kiprotich KIBET, carrera 10000 m, Torneo de Bahrain, 1, 1767971.0
+Vivian J. CHERUIYOT, carrera 21000 m, Torneo de Bangladesh, 1, 3484087.0
+Vivian J. CHERUIYOT, carrera 21000 m, Torneo de Turkey, 1, 3827707.0
+Vivian J. CHERUIYOT, carrera 42000 m, Torneo de Equatorial Guinea, 1, 7308210.0
+Vivian J. CHERUIYOT, carrera 42000 m, Torneo de Northern Ireland, 1, 8028981.0
+Wadeline JONATHAS, carrera 400 m, Torneo de Scotland, 1, 43458.0
+Wadeline JONATHAS, carrera 400 m, Torneo de Sudan, 1, 47795.0
+Wenjun XIE, carrera 110 m con vallas, Torneo de Canada, 1, 12098.0
+Wenjun XIE, carrera 110 m con vallas, Torneo de Belarus, 1, 13308.0
+Wesley VÁZQUEZ, carrera 800 m, Torneo de Germany, 1, 101895.0
+Wesley VÁZQUEZ, carrera 800 m, Torneo de Poland, 1, 111997.0
+Whitney ASHLEY, lanzamiento de disco, Torneo de Qatar, 9, 7905.0
+Whitney ASHLEY, lanzamiento de disco, Torneo de Sweden, 6, 7194.0
+Wilbert LONDON, carrera 400 m, Torneo de Laos, 1, 43456.0
+Wilbert LONDON, carrera 400 m, Torneo de Liberia, 1, 47706.0
+Wilhem BELOCIAN, carrera 110 m con vallas, Torneo de Vietnam, 1, 12112.0
+Wilhem BELOCIAN, carrera 110 m con vallas, Torneo de Cabo Verde, 1, 13302.0
+Will CLAYE, salto largo, Torneo de Guinea, 10, 956.0
+Will CLAYE, salto largo, Torneo de Lebanon, 3, 870.0
+Will CLAYE, salto triple, Torneo de San Marino, 7, 1996.0
+Will CLAYE, salto triple, Torneo de Iraq, 3, 1814.0
+William KINCAID, carrera 5000 m, Torneo de Guyana, 1, 772143.0
+William KINCAID, carrera 5000 m, Torneo de Lebanon, 1, 849211.0
+Winfred Mutile YAVI, carrera 3000 m con vallas, Torneo de Nepal, 1, 481479.0
+Winfred Mutile YAVI, carrera 3000 m con vallas, Torneo de Comoros, 1, 528814.0
+Winnie NANYONDO, carrera 1500 m, Torneo de Togo, 1, 208805.0
+Winnie NANYONDO, carrera 1500 m, Torneo de Guinea, 1, 229610.0
+Winnie NANYONDO, carrera 800 m, Torneo de South Korea, 1, 101899.0
+Winnie NANYONDO, carrera 800 m, Torneo de Canada, 1, 111989.0
+Winny CHEBET, carrera 1500 m, Torneo de Togo, 1, 208809.0
+Winny CHEBET, carrera 1500 m, Torneo de Belize, 1, 229539.0
+Wojciech NOWICKI, lanzamiento de martillo, Torneo de Venezuela, 5, 8992.0
+Wojciech NOWICKI, lanzamiento de martillo, Torneo de Togo, 4, 8177.0
+Workenesh EDESA, carrera 42000 m, Torneo de Lebanon, 1, 7304505.0
+Workenesh EDESA, carrera 42000 m, Torneo de Chile, 1, 8028679.0
+Worknesh DEGEFA, carrera 42000 m, Torneo de Mauritania, 1, 7313334.0
+Worknesh DEGEFA, carrera 42000 m, Torneo de Laos, 1, 8030444.0
+Wyclife KINYAMAL, carrera 800 m, Torneo de Vanuatu, 1, 101920.0
+Wyclife KINYAMAL, carrera 800 m, Torneo de Cuba, 1, 111991.0
+Xinglong GAO, salto largo, Torneo de Romania, 9, 956.0
+Xinglong GAO, salto largo, Torneo de Armenia, 5, 869.0
+Xinyue SU, lanzamiento de disco, Torneo de Mauritania, 3, 7904.0
+Xinyue SU, lanzamiento de disco, Torneo de Oman, 7, 7197.0
+Yaimé PÉREZ, lanzamiento de disco, Torneo de Gambia, 10, 7899.0
+Yaimé PÉREZ, lanzamiento de disco, Torneo de Puerto Rico, 4, 7189.0
+Yalemzerf YEHUALAW, carrera 21000 m, Torneo de Azerbaijan, 1, 3482942.0
+Yalemzerf YEHUALAW, carrera 21000 m, Torneo de Marshall Islands, 1, 3827260.0
+Yaming ZHU, salto triple, Torneo de Puerto Rico, 3, 1996.0
+Yaming ZHU, salto triple, Torneo de Armenia, 5, 1815.0
+Yang CHEN, lanzamiento de disco, Torneo de Zimbabwe, 8, 7903.0
+Yang CHEN, lanzamiento de disco, Torneo de Latvia, 3, 7189.0
+Yanis Esmeralda DAVID, salto largo, Torneo de Panama, 3, 956.0
+Yanis Esmeralda DAVID, salto largo, Torneo de Algeria, 8, 869.0
+Yanis Esmeralda DAVID, salto triple, Torneo de Canada, 1, 1996.0
+Yanis Esmeralda DAVID, salto triple, Torneo de Paraguay, 3, 1815.0
+Yaoguang ZHANG, salto largo, Torneo de Scotland, 1, 956.0
+Yaoguang ZHANG, salto largo, Torneo de Luxembourg, 4, 869.0
+Yaoqing FANG, salto triple, Torneo de Nauru, 7, 1996.0
+Yaoqing FANG, salto triple, Torneo de Czechia, 4, 1816.0
+Yarisley SILVA, salto con pertiga, Torneo de Vatican City, 3, 667.0
+Yarisley SILVA, salto con pertiga, Torneo de Angola, 5, 606.0
+Yaroslava MAHUCHIKH, salto de altura, Torneo de Zimbabwe, 2, 261.0
+Yaroslava MAHUCHIKH, salto de altura, Torneo de Belarus, 3, 237.0
+Yasemin CAN, carrera 10000 m, Torneo de Uruguay, 1, 1608516.0
+Yasemin CAN, carrera 10000 m, Torneo de Mali, 1, 1768095.0
+Yasmani COPELLO, carrera 400 m con vallas, Torneo de United Arab Emirates, 1, 46120.0
+Yasmani COPELLO, carrera 400 m con vallas, Torneo de Georgia, 1, 50698.0
+Yekaterina KONEVA, salto triple, Torneo de Myanmar, 7, 1995.0
+Yekaterina KONEVA, salto triple, Torneo de Greece, 9, 1814.0
+Yekaterina STARYGINA, lanzamiento de jabalina, Torneo de Saint Lucia, 5, 9962.0
+Yekaterina STARYGINA, lanzamiento de jabalina, Torneo de Afghanistan, 8, 9065.0
+Yekaterina STROKOVA, lanzamiento de disco, Torneo de Ethiopia, 3, 7905.0
+Yekaterina STROKOVA, lanzamiento de disco, Torneo de Benin, 9, 7191.0
+Yelena PANOVA, lanzamiento de disco, Torneo de United Arab Emirates, 5, 7904.0
+Yelena PANOVA, lanzamiento de disco, Torneo de Albania, 8, 7186.0
+Yelena SOKOLOVA, salto largo, Torneo de Monaco, 1, 956.0
+Yelena SOKOLOVA, salto largo, Torneo de Slovakia, 6, 869.0
+Yelizaveta TSAREVA, lanzamiento de martillo, Torneo de Kazakhstan, 9, 8990.0
+Yelizaveta TSAREVA, lanzamiento de martillo, Torneo de Ukraine, 2, 8175.0
+Yemaneberhan CRIPPA, carrera 10000 m, Torneo de Netherlands, 1, 1609113.0
+Yemaneberhan CRIPPA, carrera 10000 m, Torneo de Mali, 1, 1768515.0
+Yevgeniy KOROTOVSKIY, lanzamiento de martillo, Torneo de Wales, 4, 8987.0
+Yevgeniy KOROTOVSKIY, lanzamiento de martillo, Torneo de Nigeria, 10, 8176.0
+Yohan BLAKE, carrera 100 m, Torneo de United States, 1, 9761.0
+Yohan BLAKE, carrera 100 m, Torneo de Virgin Islands (British), 1, 10733.0
+Yomif KEJELCHA, carrera 10000 m, Torneo de Seychelles, 1, 1608123.0
+Yomif KEJELCHA, carrera 10000 m, Torneo de United States, 1, 1768131.0
+Yomif KEJELCHA, carrera 21000 m, Torneo de Wales, 1, 3481810.0
+Yomif KEJELCHA, carrera 21000 m, Torneo de Cyprus, 1, 3828454.0
+Yomif KEJELCHA, carrera 5000 m, Torneo de Qatar, 1, 772725.0
+Yomif KEJELCHA, carrera 5000 m, Torneo de United Kingdom, 1, 848818.0
+Yongli WEI, carrera 100 m, Torneo de Mongolia, 1, 9779.0
+Yongli WEI, carrera 100 m, Torneo de Costa Rica, 1, 10718.0
+Yosiris URRUTIA, salto triple, Torneo de Afghanistan, 7, 1996.0
+Yosiris URRUTIA, salto triple, Torneo de Botswana, 8, 1815.0
+Yu WANG, salto de altura, Torneo de Monaco, 1, 261.0
+Yu WANG, salto de altura, Torneo de Australia, 1, 237.0
+Yuki HASHIOKA, salto largo, Torneo de India, 1, 956.0
+Yuki HASHIOKA, salto largo, Torneo de Lesotho, 4, 869.0
+Yuki KOIKE, carrera 100 m, Torneo de Gambia, 1, 9764.0
+Yuki KOIKE, carrera 100 m, Torneo de Timor-Leste, 1, 10733.0
+Yulimar ROJAS, salto triple, Torneo de Togo, 6, 1996.0
+Yulimar ROJAS, salto triple, Torneo de Canada, 4, 1815.0
+Yuliya LEVCHENKO, salto de altura, Torneo de Tajikistan, 6, 261.0
+Yuliya LEVCHENKO, salto de altura, Torneo de Bahrain, 10, 237.0
+Zachery BRADFORD, salto con pertiga, Torneo de Syria, 2, 667.0
+Zachery BRADFORD, salto con pertiga, Torneo de Austria, 10, 606.0
+Zalina PETRIVSKAYA, lanzamiento de martillo, Torneo de Italy, 1, 8992.0
+Zalina PETRIVSKAYA, lanzamiento de martillo, Torneo de San Marino, 9, 8175.0
+Zarck VISSER, salto largo, Torneo de Virgin Islands (British), 2, 956.0
+Zarck VISSER, salto largo, Torneo de Bolivia, 2, 869.0
+Zeineba YIMER, carrera 10000 m, Torneo de Australia, 1, 1610215.0
+Zeineba YIMER, carrera 10000 m, Torneo de Sri Lanka, 1, 1768287.0
+Zeineba YIMER, carrera 21000 m, Torneo de Indonesia, 1, 3481062.0
+Zeineba YIMER, carrera 21000 m, Torneo de Samoa, 1, 3828790.0
+Zeineba YIMER, carrera 42000 m, Torneo de Ecuador, 1, 7301146.0
+Zeineba YIMER, carrera 42000 m, Torneo de Azerbaijan, 1, 8030030.0
+Zharnel HUGHES, carrera 100 m, Torneo de Sri Lanka, 1, 9766.0
+Zharnel HUGHES, carrera 100 m, Torneo de Morocco, 1, 10734.0
+Zheng WANG, lanzamiento de martillo, Torneo de Norway, 5, 8988.0
+Zheng WANG, lanzamiento de martillo, Torneo de Saint Kitts and Nevis, 3, 8178.0
+Zhenye XIE, carrera 200 m, Torneo de Kyrgyzstan, 1, 19502.0
+Zhenye XIE, carrera 200 m, Torneo de Ecuador, 1, 21430.0
+Zita KÁCSER, carrera 3000 m con vallas, Torneo de Slovakia, 1, 481149.0
+Zita KÁCSER, carrera 3000 m con vallas, Torneo de Belgium, 1, 529122.0
+Zurian HECHAVARRÍA, carrera 400 m con vallas, Torneo de Dominica, 1, 46103.0
+Zurian HECHAVARRÍA, carrera 400 m con vallas, Torneo de Jamaica, 1, 50685.0
+Zuzana HEJNOVÁ, carrera 400 m con vallas, Torneo de Azerbaijan, 1, 46138.0
+Zuzana HEJNOVÁ, carrera 400 m con vallas, Torneo de Dominican Republic, 1, 50693.0
+Özkan BALTACI, lanzamiento de martillo, Torneo de Wales, 8, 8990.0
+Özkan BALTACI, lanzamiento de martillo, Torneo de Congo Democratic Republic of the, 6, 8175.0
+​Demish GAYE, carrera 400 m, Torneo de Dominican Republic, 1, 43500.0
+​Demish GAYE, carrera 400 m, Torneo de Papua New Guinea, 1, 47724.0
