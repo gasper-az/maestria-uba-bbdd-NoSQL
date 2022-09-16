@@ -49,16 +49,6 @@ def inicializar(conn):
     # crear db
 
 
-# Podio ANUAL por especialidad (en todo el año, es decir, el récord mundial): Para cada una de las
-# especialidades existentes, indicar el nombre de los deportistas (y el número de intento) y la marcas
-# realizadas por cada uno de los integrantes del podio (top 3). Orden: por nombre de especialidad y
-# posición en el podio. Se sugiere como solucion que con los datos se debe tener un SortedSet por
-# especialidad. El elemento del set siendo una concatenacion de torneo, intento, deportista como
-# key, y como score la marca deportiva realizada.
-# NOTA: Se debe tener en cuenta el orden que utiliza el SortedSet, y que una métrica mayor o menor
-# será mejor o peor dependiendo del tipo de especialidad en cuestión.
-# NOTA 2: Un deportista puede terminar en varias posiciones del podio
-
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
 # necesarios
 # Debe ser implementada por el alumno
