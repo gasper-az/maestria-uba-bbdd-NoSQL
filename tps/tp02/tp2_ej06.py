@@ -25,7 +25,7 @@ def ejecutar(file, conn):
     for fila in df_filas:
         procesar_fila(db, fila)
         count += 1
-        if 0 == count % 100:
+        if 0 == count % 10000000000000:
             endbloque = time.time()
             tiempo = endbloque - startbloque
             print(str(count) + " en " + str(tiempo) + " segundos")
@@ -73,15 +73,15 @@ def generar_reporte(db):
     for key in sorted(keys):
     
         especialidad = str.replace(key, "especialidad:", "")
-        total = db.zcard(key)
+        # total = db.zcard(key)
 
-        # Las carreras deben ordenarse de mayor a menor (peor resultado a mejor resultado, mide tiempo)
-        orden_desc = "carrera".upper() in especialidad.upper()
+        # Las carreras deben ordenarse de menor a mayor (mide tiempo)
+        orden_desc = "carrera".upper() not in especialidad.upper()
 
         # todos los members del sorted set, con scores
-        all_members_with_scores = db.zrange(key, 0, total, withscores=True, desc=orden_desc)
+        all_members_with_scores = db.zrange(key, 0, 2, withscores=True, desc=orden_desc)
 
-        for member in all_members_with_scores[:3]:
+        for member in all_members_with_scores:
             member_split = member[0].split(":")
             # torneo = member_split[0]
             intento = member_split[1]

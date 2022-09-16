@@ -1,0 +1,60 @@
+carrera 100 m, Briana WILLIAMS, 1, 10736.0
+carrera 100 m, Murielle AHOURÉ, 1, 10736.0
+carrera 100 m, Blessing OKAGBARE, 1, 10736.0
+carrera 10000 m, Jemal Yimer MEKONNEN, 1, 1768818.0
+carrera 10000 m, Mogos TUEMAY, 1, 1768816.0
+carrera 10000 m, Letesenbet GIDEY, 1, 1768785.0
+carrera 110 m con vallas, Grant HOLLOWAY, 1, 13308.0
+carrera 110 m con vallas, Pascal MARTINOT-LAGARDE, 1, 13308.0
+carrera 110 m con vallas, Janeek BROWN, 1, 13308.0
+carrera 1500 m, Rababe ARAFI, 1, 229647.0
+carrera 1500 m, Axumawit EMBAYE, 1, 229647.0
+carrera 1500 m, Rababe ARAFI, 1, 229641.0
+carrera 200 m, Abdul Hakim SANI BROWN, 1, 21450.0
+carrera 200 m, Steven GARDINER, 1, 21450.0
+carrera 200 m, Andre DE GRASSE, 1, 21450.0
+carrera 21000 m, Seifu TURA, 1, 3829025.0
+carrera 21000 m, Birhane DIBABA, 1, 3828892.0
+carrera 21000 m, Tsehay GEMECHU, 1, 3828843.0
+carrera 3000 m con vallas, Karoline Bjerkeli GRØVDAL, 1, 529133.0
+carrera 3000 m con vallas, Matthew HUGHES, 1, 529132.0
+carrera 3000 m con vallas, Barnabas KIPYEGO, 1, 529130.0
+carrera 400 m, Wadeline JONATHAS, 1, 47795.0
+carrera 400 m, Jonathan JONES, 1, 47794.0
+carrera 400 m, Rai BENJAMIN, 1, 47794.0
+carrera 400 m con vallas, Abdelmalik LAHOULOU, 1, 50702.0
+carrera 400 m con vallas, Lea SPRUNGER, 1, 50701.0
+carrera 400 m con vallas, Sara Slott PETERSEN, 1, 50701.0
+carrera 42000 m, Purity Cherotich RIONORIPO, 1, 8031054.0
+carrera 42000 m, Emmanuel SAINA, 1, 8030868.0
+carrera 42000 m, Herpasa NEGASA, 1, 8030853.0
+carrera 5000 m, Agnes Jebet TIROP, 1, 849293.0
+carrera 5000 m, Jakob INGEBRIGTSEN, 1, 849290.0
+carrera 5000 m, Letesenbet GIDEY, 1, 849287.0
+carrera 800 m, Kate GRACE, 1, 112079.0
+carrera 800 m, Catriona BISSET, 1, 112078.0
+carrera 800 m, Ajee WILSON, 1, 112078.0
+lanzamiento de bala, Rachel FATHERLY, 9, 2291.0
+lanzamiento de bala, Aliona DUBITSKAYA, 10, 2291.0
+lanzamiento de bala, Paulina GUBA, 2, 2291.0
+lanzamiento de disco, Yelena PANOVA, 8, 7186.0
+lanzamiento de disco, Alex ROSE, 9, 7186.0
+lanzamiento de disco, Piotr MAŁACHOWSKI, 6, 7186.0
+lanzamiento de jabalina, Kim AMB, 6, 9061.0
+lanzamiento de jabalina, Shiying LIU, 8, 9061.0
+lanzamiento de jabalina, Anderson PETERS, 5, 9061.0
+lanzamiento de martillo, Bence HALÁSZ, 10, 8174.0
+lanzamiento de martillo, Paweł FAJDEK, 1, 8174.0
+lanzamiento de martillo, Janee KASSANAVOID, 6, 8174.0
+salto con pertiga, Andrew IRWIN, 5, 606.0
+salto con pertiga, Yarisley SILVA, 5, 606.0
+salto con pertiga, Angelica BENGTSSON, 7, 606.0
+salto de altura, Ana ŠIMIĆ, 3, 237.0
+salto de altura, Shelby MCEWEN, 4, 237.0
+salto de altura, Mikhail AKIMENKO, 7, 237.0
+salto largo, Yanis Esmeralda DAVID, 8, 869.0
+salto largo, Kenyattia HACKWORTH, 4, 869.0
+salto largo, Abigail IROZURU, 8, 869.0
+salto triple, Thea LAFOND, 3, 1814.0
+salto triple, Thea LAFOND, 10, 1814.0
+salto triple, Paraskevi PAPACHRISTOU, 10, 1814.0
