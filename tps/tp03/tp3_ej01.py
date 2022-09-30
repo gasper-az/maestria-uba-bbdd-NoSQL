@@ -66,8 +66,8 @@ def procesar_fila(db, fila):
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")
     filas=db.execute(f"SELECT id, nombre FROM deportistas WHERE id in (10, 20, 30);")
-    for deportista in filas:
-        grabar_linea(archivo, deportista)
+    for fila in filas:
+        grabar_linea(archivo, f"{fila.id}, {fila.nombre}")
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
