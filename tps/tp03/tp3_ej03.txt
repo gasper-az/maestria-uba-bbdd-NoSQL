@@ -18,7 +18,7 @@
 4, lanzamiento, lanzamiento de martillo
 3, largo, salto largo
 3, largo, salto triple
-lanzamiento, 161
-tiempo, 481
-altura, 79
-largo, 82
+lanzamiento, 32361
+tiempo, 96681
+altura, 15879
+largo, 16482
