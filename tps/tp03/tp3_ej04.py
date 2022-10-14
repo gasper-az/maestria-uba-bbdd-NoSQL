@@ -3,7 +3,7 @@ from cassandra.cluster import Cluster
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 # archivo_entrada = 'full_export.csv'
-archivo_entrada = 'full_export_version_corta_brasil.csv'
+archivo_entrada = 'full_export_version_corta.csv'
 nombre_archivo_resultado_ejercicio = 'tp3_ej04.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
@@ -51,7 +51,7 @@ def inicializar(conn):
     cassandra_session.execute('USE tp3')
    
     cassandra_session.execute("DROP TABLE IF EXISTS deportista_marca;")
-    cassandra_session.execute("CREATE TABLE IF NOT EXISTS deportista_marca (nombre_deportista TEXT, nombre_especialidad TEXT, nombre_torneo TEXT, intento INT, marca INT, PRIMARY KEY (nombre_deportista, marca, nombre_especialidad, nombre_torneo, intento)) WITH CLUSTERING ORDER BY (marca DESC);")
+    cassandra_session.execute("CREATE TABLE IF NOT EXISTS deportista_marca (nombre_deportista TEXT, nombre_especialidad TEXT, nombre_torneo TEXT, intento INT, marca INT, PRIMARY KEY ((nombre_deportista, nombre_especialidad), marca, nombre_torneo, intento)) WITH CLUSTERING ORDER BY (marca DESC);")
 
     return cassandra_session
 
@@ -68,14 +68,21 @@ def procesar_fila(db, fila):
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding="utf-8")
 
-    filas_group_by = db.execute(f"SELECT nombre_deportista, MAX(marca) as max_marca, MIN(marca) as min_marca from deportista_marca group by nombre_deportista;")
+    filas_desc = db.execute(f"SELECT nombre_deportista, nombre_especialidad, nombre_torneo, intento, marca FROM deportista_marca PER PARTITION LIMIT 1;")
 
-    for fila_group_by in filas_group_by:
-        filas = db.execute(f"SELECT nombre_deportista, nombre_especialidad, nombre_torneo, intento, marca from deportista_marca WHERE nombre_deportista = '{fila_group_by.nombre_deportista}' AND marca in ({fila_group_by.min_marca}, {fila_group_by.max_marca}) ORDER BY marca DESC ALLOW FILTERING;")
+    for fila_desc in filas_desc:
+        filas_asc =  db.execute(f"SELECT nombre_deportista, nombre_especialidad, nombre_torneo, intento, marca FROM deportista_marca WHERE nombre_deportista = '{fila_desc.nombre_deportista}' AND nombre_especialidad = '{fila_desc.nombre_especialidad}' ORDER BY marca ASC PER PARTITION LIMIT 1;")
 
-        for fila in filas:
-            grabar_linea(archivo, f"{fila.nombre_deportista}, {fila.nombre_especialidad}, {fila.nombre_torneo}, {fila.intento}, {fila.marca};")
+        fila_asc = filas_asc[0]
 
+        if ("carrera" in fila_asc.nombre_especialidad.lower()):
+            ## Para las carreras, el valor mínimo (mejor) es el ordenado ascendentemente
+            grabar_linea(archivo, f"{fila_asc.nombre_deportista}, {fila_asc.nombre_especialidad}, {fila_asc.nombre_torneo}, {fila_asc.intento}, {fila_asc.marca};")
+            grabar_linea(archivo, f"{fila_desc.nombre_deportista}, {fila_desc.nombre_especialidad}, {fila_desc.nombre_torneo}, {fila_desc.intento}, {fila_desc.marca};")
+        else:
+            ## Para las NO carreras, el mejor valor es el ordernado descendentemente
+            grabar_linea(archivo, f"{fila_desc.nombre_deportista}, {fila_desc.nombre_especialidad}, {fila_desc.nombre_torneo}, {fila_desc.intento}, {fila_desc.marca};")
+            grabar_linea(archivo, f"{fila_asc.nombre_deportista}, {fila_asc.nombre_especialidad}, {fila_asc.nombre_torneo}, {fila_asc.intento}, {fila_asc.marca};")
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(db):
