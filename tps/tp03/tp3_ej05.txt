@@ -1,0 +1,18 @@
+carrera 110 m con vallas, Gabriel CONSTANTINO, 1, 12098;
+carrera 110 m con vallas, Eduardo RODRIGUES, 1, 12100;
+carrera 110 m con vallas, Gabriel CONSTANTINO, 1, 12108;
+salto triple, Alexsandro MELO, 3, 1995;
+salto triple, Alexsandro MELO, 4, 1995;
+salto triple, Almir DOS SANTOS, 1, 1994;
+lanzamiento de disco, Fernanda MARTINS, 5, 7904;
+lanzamiento de disco, Fernanda MARTINS, 6, 7901;
+lanzamiento de disco, Fernanda MARTINS, 7, 7900;
+salto con pertiga, Augusto DUTRA, 2, 667;
+salto con pertiga, Augusto DUTRA, 9, 667;
+salto con pertiga, Thiago BRAZ, 8, 667;
+lanzamiento de bala, Darlan ROMANI, 8, 2521;
+lanzamiento de bala, Darlan ROMANI, 4, 2520;
+lanzamiento de bala, Darlan ROMANI, 1, 2519;
+carrera 400 m con vallas, Alison DOS SANTOS, 1, 46095;
+carrera 400 m con vallas, Alison DOS SANTOS, 1, 46100;
+carrera 400 m con vallas, Marcio TELES, 1, 46151;
