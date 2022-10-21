@@ -2,8 +2,7 @@ import csv
 from cassandra.cluster import Cluster
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-# archivo_entrada = 'full_export.csv'
-archivo_entrada = 'full_export_version_corta_brasil.csv'
+archivo_entrada = 'full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tp3_ej06.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
