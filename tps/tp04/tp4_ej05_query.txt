@@ -1,0 +1,12 @@
+db.getCollection("participaciones").aggregate([{
+    $group: {
+        _id: "$id_tipo_especialidad",
+        tipo_especialidad: { $first: "$nombre_tipo_especialidad" },
+        especialidades: {
+            $push: {
+                id_especialidad: "$id_especialidad",
+                nombre_especialidad: "$nombre_especialidad"
+            }
+        }
+    }
+}])
