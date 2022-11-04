@@ -1,0 +1,2 @@
+db = db.getSiblingDB("tp4");
+db.getCollection("deportistas").aggregate([{ $sortByCount: "$nombre_pais_deportista" }, { $addFields: { count: { $toString: "$count" }}}])

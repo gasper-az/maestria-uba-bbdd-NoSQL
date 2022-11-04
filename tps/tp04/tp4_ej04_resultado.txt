@@ -1,0 +1,332 @@
+{
+    "_id" : "United States",
+    "count" : "140"
+}
+{
+    "_id" : "Kenya",
+    "count" : "77"
+}
+{
+    "_id" : "Ethiopia",
+    "count" : "62"
+}
+{
+    "_id" : "Jamaica",
+    "count" : "34"
+}
+{
+    "_id" : "United Kingdom",
+    "count" : "25"
+}
+{
+    "_id" : "Germany",
+    "count" : "23"
+}
+{
+    "_id" : "Russia",
+    "count" : "23"
+}
+{
+    "_id" : "China",
+    "count" : "22"
+}
+{
+    "_id" : "Poland",
+    "count" : "19"
+}
+{
+    "_id" : "France",
+    "count" : "14"
+}
+{
+    "_id" : "Ukraine",
+    "count" : "14"
+}
+{
+    "_id" : "Canada",
+    "count" : "14"
+}
+{
+    "_id" : "Cuba",
+    "count" : "13"
+}
+{
+    "_id" : "South Africa",
+    "count" : "12"
+}
+{
+    "_id" : "Australia",
+    "count" : "11"
+}
+{
+    "_id" : "Brazil",
+    "count" : "11"
+}
+{
+    "_id" : "Belarus",
+    "count" : "9"
+}
+{
+    "_id" : "Japan",
+    "count" : "9"
+}
+{
+    "_id" : "Sweden",
+    "count" : "9"
+}
+{
+    "_id" : "Norway",
+    "count" : "8"
+}
+{
+    "_id" : "Uganda",
+    "count" : "7"
+}
+{
+    "_id" : "Turkey",
+    "count" : "7"
+}
+{
+    "_id" : "Nigeria",
+    "count" : "7"
+}
+{
+    "_id" : "Bosnia and Herzegovina",
+    "count" : "6"
+}
+{
+    "_id" : "Colombia",
+    "count" : "5"
+}
+{
+    "_id" : "Spain",
+    "count" : "5"
+}
+{
+    "_id" : "Brunei",
+    "count" : "5"
+}
+{
+    "_id" : "Czechia",
+    "count" : "5"
+}
+{
+    "_id" : "Greece",
+    "count" : "4"
+}
+{
+    "_id" : "Trinidad and Tobago",
+    "count" : "4"
+}
+{
+    "_id" : "Barbados",
+    "count" : "4"
+}
+{
+    "_id" : "Morocco",
+    "count" : "4"
+}
+{
+    "_id" : "Switzerland",
+    "count" : "4"
+}
+{
+    "_id" : "New Zealand",
+    "count" : "4"
+}
+{
+    "_id" : "Netherlands",
+    "count" : "4"
+}
+{
+    "_id" : "Lithuania",
+    "count" : "4"
+}
+{
+    "_id" : "Hungary",
+    "count" : "4"
+}
+{
+    "_id" : "Romania",
+    "count" : "4"
+}
+{
+    "_id" : "Portugal",
+    "count" : "3"
+}
+{
+    "_id" : "Slovenia",
+    "count" : "3"
+}
+{
+    "_id" : "Botswana",
+    "count" : "3"
+}
+{
+    "_id" : "Qatar",
+    "count" : "3"
+}
+{
+    "_id" : "Italy",
+    "count" : "3"
+}
+{
+    "_id" : "Bahamas",
+    "count" : "3"
+}
+{
+    "_id" : "Ivory Coast",
+    "count" : "3"
+}
+{
+    "_id" : "Virgin Islands (British)",
+    "count" : "3"
+}
+{
+    "_id" : "Bulgaria",
+    "count" : "3"
+}
+{
+    "_id" : "Finland",
+    "count" : "3"
+}
+{
+    "_id" : "Moldova",
+    "count" : "3"
+}
+{
+    "_id" : "Denmark",
+    "count" : "2"
+}
+{
+    "_id" : "Belgium",
+    "count" : "2"
+}
+{
+    "_id" : "Azerbaijan",
+    "count" : "2"
+}
+{
+    "_id" : "Latvia",
+    "count" : "2"
+}
+{
+    "_id" : "Serbia",
+    "count" : "2"
+}
+{
+    "_id" : "India",
+    "count" : "2"
+}
+{
+    "_id" : "Ghana",
+    "count" : "2"
+}
+{
+    "_id" : "Venezuela",
+    "count" : "2"
+}
+{
+    "_id" : "Cyprus",
+    "count" : "2"
+}
+{
+    "_id" : "Grenada",
+    "count" : "2"
+}
+{
+    "_id" : "Algeria",
+    "count" : "2"
+}
+{
+    "_id" : "Israel",
+    "count" : "1"
+}
+{
+    "_id" : "Costa Rica",
+    "count" : "1"
+}
+{
+    "_id" : "Puerto Rico",
+    "count" : "1"
+}
+{
+    "_id" : "Albania",
+    "count" : "1"
+}
+{
+    "_id" : "Zimbabwe",
+    "count" : "1"
+}
+{
+    "_id" : "Austria",
+    "count" : "1"
+}
+{
+    "_id" : "Djibouti",
+    "count" : "1"
+}
+{
+    "_id" : "Philippines",
+    "count" : "1"
+}
+{
+    "_id" : "Iran",
+    "count" : "1"
+}
+{
+    "_id" : "Ecuador",
+    "count" : "1"
+}
+{
+    "_id" : "Luxembourg",
+    "count" : "1"
+}
+{
+    "_id" : "Syria",
+    "count" : "1"
+}
+{
+    "_id" : "Dominica",
+    "count" : "1"
+}
+{
+    "_id" : "Samoa",
+    "count" : "1"
+}
+{
+    "_id" : "Burundi",
+    "count" : "1"
+}
+{
+    "_id" : "Uzbekistan",
+    "count" : "1"
+}
+{
+    "_id" : "Taiwan",
+    "count" : "1"
+}
+{
+    "_id" : "Kazakhstan",
+    "count" : "1"
+}
+{
+    "_id" : "Ireland",
+    "count" : "1"
+}
+{
+    "_id" : "Burkina Faso",
+    "count" : "1"
+}
+{
+    "_id" : "Slovakia",
+    "count" : "1"
+}
+{
+    "_id" : "Estonia",
+    "count" : "1"
+}
+{
+    "_id" : "Pakistan",
+    "count" : "1"
+}

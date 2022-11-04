@@ -1,0 +1,2 @@
+db = db.getSiblingDB("tp4");
+db.getCollection("deportistas").find({ _id: { $in: ["10", "20", "30"] }});
