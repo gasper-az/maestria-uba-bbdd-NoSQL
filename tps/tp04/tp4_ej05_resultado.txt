@@ -1,0 +1,104 @@
+{
+    "_id" : "1",
+    "tipo_especialidad" : "tiempo",
+    "especialidades" : [
+        {
+            "id_especialidad" : "7",
+            "nombre_especialidad" : "carrera 10000 m"
+        },
+        {
+            "id_especialidad" : "5",
+            "nombre_especialidad" : "carrera 1500 m"
+        },
+        {
+            "id_especialidad" : "1",
+            "nombre_especialidad" : "carrera 100 m"
+        },
+        {
+            "id_especialidad" : "9",
+            "nombre_especialidad" : "carrera 42000 m"
+        },
+        {
+            "id_especialidad" : "2",
+            "nombre_especialidad" : "carrera 200 m"
+        },
+        {
+            "id_especialidad" : "11",
+            "nombre_especialidad" : "carrera 400 m con vallas"
+        },
+        {
+            "id_especialidad" : "10",
+            "nombre_especialidad" : "carrera 110 m con vallas"
+        },
+        {
+            "id_especialidad" : "12",
+            "nombre_especialidad" : "carrera 3000 m con vallas"
+        },
+        {
+            "id_especialidad" : "4",
+            "nombre_especialidad" : "carrera 800 m"
+        },
+        {
+            "id_especialidad" : "3",
+            "nombre_especialidad" : "carrera 400 m"
+        },
+        {
+            "id_especialidad" : "6",
+            "nombre_especialidad" : "carrera 5000 m"
+        },
+        {
+            "id_especialidad" : "8",
+            "nombre_especialidad" : "carrera 21000 m"
+        }
+    ]
+}
+{
+    "_id" : "2",
+    "tipo_especialidad" : "altura",
+    "especialidades" : [
+        {
+            "id_especialidad" : "13",
+            "nombre_especialidad" : "salto de altura"
+        },
+        {
+            "id_especialidad" : "14",
+            "nombre_especialidad" : "salto con pertiga"
+        }
+    ]
+}
+{
+    "_id" : "4",
+    "tipo_especialidad" : "lanzamiento",
+    "especialidades" : [
+        {
+            "id_especialidad" : "17",
+            "nombre_especialidad" : "lanzamiento de bala"
+        },
+        {
+            "id_especialidad" : "20",
+            "nombre_especialidad" : "lanzamiento de jabalina"
+        },
+        {
+            "id_especialidad" : "19",
+            "nombre_especialidad" : "lanzamiento de martillo"
+        },
+        {
+            "id_especialidad" : "18",
+            "nombre_especialidad" : "lanzamiento de disco"
+        }
+    ]
+}
+{
+    "_id" : "3",
+    "tipo_especialidad" : "largo",
+    "especialidades" : [
+        {
+            "id_especialidad" : "15",
+            "nombre_especialidad" : "salto largo"
+        },
+        {
+            "id_especialidad" : "16",
+            "nombre_especialidad" : "salto triple"
+        }
+    ]
+}

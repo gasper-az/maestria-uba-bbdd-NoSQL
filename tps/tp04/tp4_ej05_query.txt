@@ -3,7 +3,7 @@ db.getCollection("participaciones").aggregate([{
         _id: "$id_tipo_especialidad",
         tipo_especialidad: { $first: "$nombre_tipo_especialidad" },
         especialidades: {
-            $push: {
+            $addToSet: {
                 id_especialidad: "$id_especialidad",
                 nombre_especialidad: "$nombre_especialidad"
             }
