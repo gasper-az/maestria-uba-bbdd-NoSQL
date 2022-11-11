@@ -1,0 +1,42 @@
+db.getCollection("participaciones").aggregate([
+    {
+        $sort:
+        {
+            nombre_especialidad: 1,
+            marca: 1
+        }
+    },
+    {
+        $group:
+        {
+            _id: "$id_especialidad",
+            nombre_especialidad: { $first: "$nombre_especialidad" },
+            nombre_tipo_especialidad: { $first: "$nombre_tipo_especialidad" },
+            deportistas_marcas:
+            { 
+                // Usamos $push ya que $addToSet tiene un orden indefinido
+                $push:
+                { 
+                    marca: "$marca",
+                    nombre_deportista: "$nombre_deportista"
+                }
+            }
+        }
+    },
+    {
+        // hacemos project porque el $cond no nos funciona en el $group
+        $project:
+        {
+            _id: "$REMOVE", // Para no mostrar el ID
+            nombre_especialidad: "$nombre_especialidad",
+            top_3: { $slice: ["$deportistas_marcas", { $cond: { if: { $eq: [ "$nombre_tipo_especialidad", "tiempo" ] }, then: 3, else: -3 } }] }
+        }
+    },
+    {
+        // para ordenar por nombre_especialidad
+        $sort:
+        {
+            nombre_especialidad: 1
+        }
+    }
+])
