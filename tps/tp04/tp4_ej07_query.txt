@@ -1,0 +1,27 @@
+db.getCollection("participaciones").aggregate([
+    {
+        $group:
+        {
+            _id:
+            {
+                id_deportista: "$id_deportista",
+                id_especialidad: "$id_especialidad",
+            },
+            nombre_deportista: { $first: "$nombre_deportista" },
+            nombre_especialidad: { $first: "$nombre_especialidad" },
+            nombre_tipo_especialidad: { $first: "$nombre_tipo_especialidad" },
+            marcas: { $addToSet: "$marca"}
+        }
+    },
+    {
+        // hacemos project porque el $cond no nos funciona en el $group
+        $project:
+        {
+            _id: "$REMOVE", // Para no mostrar el ID compuesto
+            nombre_deportista: "$nombre_deportista",
+            nombre_especialidad: "$nombre_especialidad",
+            mejorMarca: { $cond: { if: { $eq: [ "$nombre_tipo_especialidad", "tiempo" ] }, then: { $min: "$marcas" }, else: { $max: "$marcas" } } },
+            peorMarca: { $cond: { if: { $eq: [ "$nombre_tipo_especialidad", "tiempo" ] }, then: { $max: "$marcas" }, else: { $min: "$marcas" } } },
+        }
+    }
+])
