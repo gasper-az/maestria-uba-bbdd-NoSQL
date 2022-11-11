@@ -1,0 +1,20 @@
+{
+    "_id" : "1",
+    "tipo_especialidad" : "tiempo",
+    "cantidad_marcas" : 96681.0
+}
+{
+    "_id" : "2",
+    "tipo_especialidad" : "altura",
+    "cantidad_marcas" : 15879.0
+}
+{
+    "_id" : "4",
+    "tipo_especialidad" : "lanzamiento",
+    "cantidad_marcas" : 32361.0
+}
+{
+    "_id" : "3",
+    "tipo_especialidad" : "largo",
+    "cantidad_marcas" : 16482.0
+}

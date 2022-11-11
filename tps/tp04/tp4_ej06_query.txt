@@ -1,0 +1,7 @@
+db.getCollection("participaciones").aggregate([{
+    $group: {
+        _id: "$id_tipo_especialidad",
+        tipo_especialidad: { $first: "$nombre_tipo_especialidad" },
+        cantidad_marcas: { $sum: 1 }
+    }
+}])
