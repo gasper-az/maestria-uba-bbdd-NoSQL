@@ -1,5 +1,15 @@
 db.getCollection("participaciones").aggregate([
     {
+        // nos aseguramos que la marca sea un entero, para que al ordenar se haga correctamente
+        $addFields: 
+        { 
+            marca: 
+            { 
+                $toInt: "$marca" 
+            }
+        }
+    },
+    {
         $sort:
         {
             nombre_especialidad: 1,
